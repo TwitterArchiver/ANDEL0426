@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082318448953319424",
+        "3_2082318448957538304",
+        "3_2082318448949092352",
+        "3_2082318448944873472"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2082318460718395802",
+    "created_at": "2026-07-29T04:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082318460718395802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXZtkLRz8A",
+          "end": 33,
+          "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+          "media_key": "3_2082318448953319424",
+          "start": 10,
+          "url": "https://t.co/vXZtkLRz8A"
+        },
+        {
+          "display_url": "pic.x.com/vXZtkLRz8A",
+          "end": 33,
+          "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+          "media_key": "3_2082318448957538304",
+          "start": 10,
+          "url": "https://t.co/vXZtkLRz8A"
+        },
+        {
+          "display_url": "pic.x.com/vXZtkLRz8A",
+          "end": 33,
+          "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+          "media_key": "3_2082318448949092352",
+          "start": 10,
+          "url": "https://t.co/vXZtkLRz8A"
+        },
+        {
+          "display_url": "pic.x.com/vXZtkLRz8A",
+          "end": 33,
+          "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+          "media_key": "3_2082318448944873472",
+          "start": 10,
+          "url": "https://t.co/vXZtkLRz8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082318460718395802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗷嗷嗷嗷嗷嗷嗷嗷嗷 https://t.co/vXZtkLRz8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082318448953319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXhmMMa4AAYlUb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082318448957538304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXhmMNbQAAEL1k.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082318448949092352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXhmMLaYAAIZrU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082318448944873472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXhmMKaAAAvu_G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082318448953319424",
+            "3_2082318448957538304",
+            "3_2082318448949092352",
+            "3_2082318448944873472"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2082318460718395802",
+        "created_at": "2026-07-29T04:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082318460718395802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXZtkLRz8A",
+              "end": 33,
+              "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+              "media_key": "3_2082318448953319424",
+              "start": 10,
+              "url": "https://t.co/vXZtkLRz8A"
+            },
+            {
+              "display_url": "pic.x.com/vXZtkLRz8A",
+              "end": 33,
+              "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+              "media_key": "3_2082318448957538304",
+              "start": 10,
+              "url": "https://t.co/vXZtkLRz8A"
+            },
+            {
+              "display_url": "pic.x.com/vXZtkLRz8A",
+              "end": 33,
+              "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+              "media_key": "3_2082318448949092352",
+              "start": 10,
+              "url": "https://t.co/vXZtkLRz8A"
+            },
+            {
+              "display_url": "pic.x.com/vXZtkLRz8A",
+              "end": 33,
+              "expanded_url": "https://x.com/ANDEL0426/status/2082318460718395802/photo/1",
+              "media_key": "3_2082318448944873472",
+              "start": 10,
+              "url": "https://t.co/vXZtkLRz8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082318460718395802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗷嗷嗷嗷嗷嗷嗷嗷嗷 https://t.co/vXZtkLRz8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令 如要互fo请私信\n🚪80非墙内 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "yoruheartpath"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 413,
+          "like_count": 2540,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}
