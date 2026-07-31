@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076326686942265679",
+    "created_at": "2026-07-12T15:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076330071753920606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076330071753920606",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076329312236757034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 我本来就没开。只是设个🚪我容易被拿着这个当把柄来骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076326686942265679",
+        "created_at": "2026-07-12T15:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076330071753920606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330071753920606",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076329312236757034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 我本来就没开。只是设个🚪我容易被拿着这个当把柄来骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2076326686942265679",
+        "created_at": "2026-07-12T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076329312236757034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076329312236757034",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076326686942265679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 不开也行省的出现一堆神秘账户发骚扰信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 326,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "https://t.co/6V3MQwTbZR\n\n二号机:@koysov2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "koysov2022"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/jkieso…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/jkiesoft.bsky.social",
+                "start": 0,
+                "url": "https://t.co/6V3MQwTbZR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "location": "电波研究所",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 537,
+          "like_count": 6745,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 3523
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false
+      }
+    ]
+  }
+}

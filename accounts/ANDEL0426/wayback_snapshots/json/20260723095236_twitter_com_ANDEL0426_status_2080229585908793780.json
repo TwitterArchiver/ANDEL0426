@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080229578568802304",
+        "3_2080229578577178624"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080229585908793780",
+    "created_at": "2026-07-23T09:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080229585908793780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/STKxZSH33Y",
+          "end": 26,
+          "expanded_url": "https://x.com/ANDEL0426/status/2080229585908793780/photo/1",
+          "media_key": "3_2080229578568802304",
+          "start": 3,
+          "url": "https://t.co/STKxZSH33Y"
+        },
+        {
+          "display_url": "pic.x.com/STKxZSH33Y",
+          "end": 26,
+          "expanded_url": "https://x.com/ANDEL0426/status/2080229585908793780/photo/1",
+          "media_key": "3_2080229578577178624",
+          "start": 3,
+          "url": "https://t.co/STKxZSH33Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080229585908793780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大哥 https://t.co/STKxZSH33Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2080229578568802304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN51x7naoAAD0K9.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080229578577178624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN51x7pacAAXVVj.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080229578568802304",
+            "3_2080229578577178624"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080229585908793780",
+        "created_at": "2026-07-23T09:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080229585908793780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STKxZSH33Y",
+              "end": 26,
+              "expanded_url": "https://x.com/ANDEL0426/status/2080229585908793780/photo/1",
+              "media_key": "3_2080229578568802304",
+              "start": 3,
+              "url": "https://t.co/STKxZSH33Y"
+            },
+            {
+              "display_url": "pic.x.com/STKxZSH33Y",
+              "end": 26,
+              "expanded_url": "https://x.com/ANDEL0426/status/2080229585908793780/photo/1",
+              "media_key": "3_2080229578577178624",
+              "start": 3,
+              "url": "https://t.co/STKxZSH33Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080229585908793780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥 https://t.co/STKxZSH33Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 386,
+          "like_count": 2038,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

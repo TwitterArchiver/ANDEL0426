@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075593645261312079",
+    "created_at": "2026-07-11T12:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075913351952306266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001224081891524608",
+          "start": 0,
+          "username": "JonyRiyu12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075913351952306266",
+    "in_reply_to_user_id": "2001224081891524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075908507287667172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JonyRiyu12138 不是，是再次贴卡确认的时候系统崩溃超时了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075593645261312079",
+        "created_at": "2026-07-11T12:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075913351952306266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001224081891524608",
+              "start": 0,
+              "username": "JonyRiyu12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075913351952306266",
+        "in_reply_to_user_id": "2001224081891524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075908507287667172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JonyRiyu12138 不是，是再次贴卡确认的时候系统崩溃超时了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001224081891524608",
+        "conversation_id": "2075593645261312079",
+        "created_at": "2026-07-11T11:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075908507287667172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075908507287667172",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075593645261312079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 是不是付完款。没返回app啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 318,
+          "like_count": 1104,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T09:33:29.000Z",
+        "description": "薪水小偷，上班摸鱼，顺便发疯。",
+        "id": "2001224081891524608",
+        "name": "在互聯網衝浪的吃瓜群眾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008537005429248000/jOS2bLai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 118,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "JonyRiyu12138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075469678651335033",
+    "created_at": "2026-07-10T08:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075491377455235293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019069006649667584",
+          "start": 0,
+          "username": "shunyuTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075491377455235293",
+    "in_reply_to_user_id": "2019069006649667584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075469678651335033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shunyuTvT 西瓜味玉溪好好吃…有股泡泡糖味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075469676046655488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2MrI7bIAAsbJ4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075469678651335033",
+        "created_at": "2026-07-10T08:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075491377455235293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019069006649667584",
+              "start": 0,
+              "username": "shunyuTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075491377455235293",
+        "in_reply_to_user_id": "2019069006649667584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075469678651335033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shunyuTvT 西瓜味玉溪好好吃…有股泡泡糖味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075469676046655488"
+          ]
+        },
+        "author_id": "2019069006649667584",
+        "conversation_id": "2075469678651335033",
+        "created_at": "2026-07-10T06:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075469678651335033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQV1XwWEuJ",
+              "end": 39,
+              "expanded_url": "https://x.com/shunyuTvT/status/2075469678651335033/photo/1",
+              "media_key": "3_2075469676046655488",
+              "start": 16,
+              "url": "https://t.co/YQV1XwWEuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075469678651335033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 901,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买不到蓉城的票。烦🥲搞根🚬抽抽 https://t.co/YQV1XwWEuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw\n🚪16 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 288,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:22:28.000Z",
+        "description": "11年｜♀｜中抑中焦｜戒割中...不od｜内向i人｜互关请私信！不过我会查成分｜更多属性指路置顶～｜🚪20（不聊黄不聊骚朋友圈无擦边没福利纯陪聊）｜我是@UXiaotu的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "UXiaotu"
+              }
+            ]
+          }
+        },
+        "id": "2019069006649667584",
+        "name": "瞬雨",
+        "pinned_tweet_id": "2074562079697281117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074263947969216512/ltPefXnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 171,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "shunyuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

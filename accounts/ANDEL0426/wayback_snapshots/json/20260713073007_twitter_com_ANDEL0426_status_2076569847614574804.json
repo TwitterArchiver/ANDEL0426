@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076569847614574804",
+    "created_at": "2026-07-13T07:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076569847614574804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1992991387672023040",
+          "start": 3,
+          "username": "realyuriyearns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076569847614574804",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076072901560643823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realyuriyearns: how soon after sex is it appropriate to kill yourself in front of your partner."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076569847614574804",
+        "created_at": "2026-07-13T07:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076569847614574804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1992991387672023040",
+              "start": 3,
+              "username": "realyuriyearns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076569847614574804",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076072901560643823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realyuriyearns: how soon after sex is it appropriate to kill yourself in front of your partner."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992991387672023040",
+        "conversation_id": "2076072901560643823",
+        "created_at": "2026-07-11T22:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076072901560643823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076072901560643823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 789,
+          "impression_count": 228449,
+          "like_count": 20074,
+          "quote_count": 193,
+          "reply_count": 89,
+          "retweet_count": 3403
+        },
+        "reply_settings": "everyone",
+        "text": "how soon after sex is it appropriate to kill yourself in front of your partner."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 333,
+          "like_count": 1290,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T16:19:30.000Z",
+        "description": "use our partner code RYYSUPERFAN for a 20% discount on official merch!\nsubterraneous art collective.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "realyuriyearners.neocities.com",
+                "end": 23,
+                "expanded_url": "http://realyuriyearners.neocities.com",
+                "start": 0,
+                "url": "https://t.co/4i5TwBiBof"
+              }
+            ]
+          }
+        },
+        "id": "1992991387672023040",
+        "location": "∆Θ&",
+        "name": "realyuriyearners",
+        "pinned_tweet_id": "2068067039684469148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065507572514189312/dNYSPuAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 800,
+          "like_count": 59780,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 5658
+        },
+        "url": "https://t.co/4i5TwBiBof",
+        "username": "realyuriyearns",
+        "verified": false
+      }
+    ]
+  }
+}

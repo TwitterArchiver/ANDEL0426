@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075599272058524113",
+    "created_at": "2026-07-10T15:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075602620488818801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075602620488818801",
+    "in_reply_to_user_id": "1782410129012670464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075599272058524113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有人注意到我已经三天没换睡衣了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2075599239384793088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4Cgt-aAAAQsAc.jpg",
+        "width": 860
+      },
+      {
+        "height": 1011,
+        "media_key": "3_2075599239414226944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4CguFbIAArh7M.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075599272058524113",
+        "created_at": "2026-07-10T15:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075602620488818801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075602620488818801",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075599272058524113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有人注意到我已经三天没换睡衣了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075599239384793088",
+            "3_2075599239414226944"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075599272058524113",
+        "created_at": "2026-07-10T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075599272058524113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtxEUoKwdJ",
+              "end": 33,
+              "expanded_url": "https://x.com/ANDEL0426/status/2075599272058524113/photo/1",
+              "media_key": "3_2075599239384793088",
+              "start": 10,
+              "url": "https://t.co/WtxEUoKwdJ"
+            },
+            {
+              "display_url": "pic.x.com/WtxEUoKwdJ",
+              "end": 33,
+              "expanded_url": "https://x.com/ANDEL0426/status/2075599272058524113/photo/1",
+              "media_key": "3_2075599239414226944",
+              "start": 10,
+              "url": "https://t.co/WtxEUoKwdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075599272058524113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门就扎发吧还是。 https://t.co/WtxEUoKwdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 295,
+          "like_count": 993,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

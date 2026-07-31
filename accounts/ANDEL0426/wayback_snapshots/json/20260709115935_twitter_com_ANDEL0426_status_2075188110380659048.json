@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075067235304141135",
+    "created_at": "2026-07-09T11:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075188110380659048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075188110380659048",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075067235304141135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 这太可怕了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075067235304141135",
+        "created_at": "2026-07-09T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075188110380659048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188110380659048",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075067235304141135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 这太可怕了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596976265326592",
+        "conversation_id": "2075067235304141135",
+        "created_at": "2026-07-09T03:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075067235304141135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075067235304141135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 564,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么周围人都是异性恋🥺👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊\n要不然怎么可能没人来上我\n感觉我长得也不算丑哇👊👊👊👊👊👊👊👊👊👊👊👊👊✊🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺👊👊👊🥺🥺🥺🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 269,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 499,
+          "like_count": 16757,
+          "listed_count": 2,
+          "media_count": 595,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": true
+      }
+    ]
+  }
+}

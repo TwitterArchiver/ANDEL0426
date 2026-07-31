@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338337733295534081",
+          "name": "Roy Wang"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338337733295534081",
+          "name": "Roy Wang"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715075421646849",
+          "name": "Actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338337733295534081",
+          "name": "Roy Wang"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453011703235444736",
+          "name": "Chinese actors"
+        }
+      }
+    ],
+    "conversation_id": "2076364356984713511",
+    "created_at": "2026-07-13T05:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076532387664757036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075106241966444544",
+          "start": 0,
+          "username": "scalar9910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076532387664757036",
+    "in_reply_to_user_id": "2075106241966444544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076451054217220560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scalar9910 我是王源"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338337733295534081",
+              "name": "Roy Wang"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338337733295534081",
+              "name": "Roy Wang"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338337733295534081",
+              "name": "Roy Wang"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453011703235444736",
+              "name": "Chinese actors"
+            }
+          }
+        ],
+        "conversation_id": "2076364356984713511",
+        "created_at": "2026-07-13T05:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076532387664757036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075106241966444544",
+              "start": 0,
+              "username": "scalar9910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076532387664757036",
+        "in_reply_to_user_id": "2075106241966444544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076451054217220560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scalar9910 我是王源"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075106241966444544",
+        "conversation_id": "2076364356984713511",
+        "created_at": "2026-07-12T23:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076451054217220560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076451054217220560",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076364356984713511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 原来是理塘王来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 332,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T06:35:45.000Z",
+        "description": "我他妈上去就是一个一夜暴富财源广进逢考必过",
+        "id": "2075106241966444544",
+        "location": "罗德岛",
+        "name": "scalar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075116749327151104/OdXdaNYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 64,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "scalar9910",
+        "verified": false
+      }
+    ]
+  }
+}

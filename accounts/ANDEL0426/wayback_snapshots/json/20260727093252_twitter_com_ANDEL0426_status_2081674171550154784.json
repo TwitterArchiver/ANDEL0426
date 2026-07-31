@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081674171550154784",
+    "created_at": "2026-07-27T09:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081674171550154784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055834950017208320",
+          "start": 3,
+          "username": "xxs0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081674171550154784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的，@xxs0721 是我的狗狗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081674171550154784",
+        "created_at": "2026-07-27T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081674171550154784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055834950017208320",
+              "start": 3,
+              "username": "xxs0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081674171550154784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，@xxs0721 是我的狗狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 400,
+          "like_count": 2419,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T02:17:34.000Z",
+        "description": "08‖友跨\n狗修金sama @andel0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "andel0426"
+              }
+            ]
+          }
+        },
+        "id": "2055834950017208320",
+        "name": "高性能小学生2.0",
+        "pinned_tweet_id": "2074148354293215724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055835266812944384/7QydfEUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 447,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "xxs0721",
+        "verified": true
+      }
+    ]
+  }
+}

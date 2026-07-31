@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "1943929734020444186",
+    "created_at": "2025-07-13T10:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T11:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944338893936931017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944338893936931017",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943929734020444186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical ds跑出来的都比他说的有技术含量"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1943929716291121157",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvo5xw_bsAUdrJ6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "1943929734020444186",
+        "created_at": "2025-07-13T10:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944338893936931017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944338893936931017",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943929734020444186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical ds跑出来的都比他说的有技术含量"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943929716291121157"
+          ]
+        },
+        "author_id": "1734598399327088640",
+        "conversation_id": "1943929734020444186",
+        "created_at": "2025-07-12T07:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943929734020444186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRMS7ci2av",
+              "end": 26,
+              "expanded_url": "https://x.com/ln2umerical/status/1943929734020444186/photo/1",
+              "media_key": "3_1943929716291121157",
+              "start": 3,
+              "url": "https://t.co/hRMS7ci2av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943929734020444186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 114067,
+          "like_count": 647,
+          "quote_count": 2,
+          "reply_count": 169,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "…？ https://t.co/hRMS7ci2av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理女｜心理女｜bgb无差｜s   嘴臭无素质 极度恐同 排斥一切跨畜 脾气差讨厌社交 废话多",
+        "id": "1782410129012670464",
+        "name": "菜🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825831123001421828/VKMxMFAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 205,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "07/男生/想到啥发啥/ 🚪52 互关宝宝请直接来加我😽 /    \n畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN\nhttps://t.co/3t28hH2Mrc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=w0eaXhwD",
+                "start": 62,
+                "url": "https://t.co/3t28hH2Mrc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1943305813587824863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 223,
+          "like_count": 20471,
+          "listed_count": 9,
+          "media_count": 378,
+          "tweet_count": 11763
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

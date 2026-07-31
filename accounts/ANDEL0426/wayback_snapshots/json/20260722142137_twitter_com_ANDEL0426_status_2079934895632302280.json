@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2079850898352943393",
+    "created_at": "2026-07-22T14:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079934895632302280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "918494780140785664",
+          "start": 0,
+          "username": "what3veruneeed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079934895632302280",
+    "in_reply_to_user_id": "918494780140785664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079918001676333244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@what3veruneeed 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079850898352943393",
+        "created_at": "2026-07-22T14:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079934895632302280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "918494780140785664",
+              "start": 0,
+              "username": "what3veruneeed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079934895632302280",
+        "in_reply_to_user_id": "918494780140785664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079918001676333244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@what3veruneeed 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918494780140785664",
+        "conversation_id": "2079850898352943393",
+        "created_at": "2026-07-22T13:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079918001676333244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079918001676333244",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079850898352943393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 好可怕卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 非好友不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 374,
+          "like_count": 1909,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T15:13:15.000Z",
+        "description": "前世限流 @what3veruneed 消息回复不及时请联系tg @what3veruneeed，tg频道简介下方 大部分💊都有欢迎私信咨询 偶尔当pyq发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "what3veruneed"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "what3veruneeed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/what3veruneed12",
+                "end": 23,
+                "expanded_url": "https://t.me/what3veruneed12",
+                "start": 0,
+                "url": "https://t.co/bDlorIC3IR"
+              }
+            ]
+          }
+        },
+        "id": "918494780140785664",
+        "name": "IGOR促智",
+        "pinned_tweet_id": "2077400145080029231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 87,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/bDlorIC3IR",
+        "username": "what3veruneeed",
+        "verified": false
+      }
+    ]
+  }
+}

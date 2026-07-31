@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2082019648200176036",
+    "created_at": "2026-07-28T08:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082019648200176036"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082019648200176036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的一群傻逼看你妈演唱会害得老子连酒店都住不上 一群猪 妈的 一群臭婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2082019648200176036",
+        "created_at": "2026-07-28T08:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082019648200176036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082019648200176036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的一群傻逼看你妈演唱会害得老子连酒店都住不上 一群猪 妈的 一群臭婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 406,
+          "like_count": 2454,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2072986786381373900",
+    "created_at": "2026-07-03T23:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073192993277067461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072258787155816448",
+          "start": 0,
+          "username": "xxs1976"
+        },
+        {
+          "end": 24,
+          "id": "2061495112694476800",
+          "start": 9,
+          "username": "FrenchFrie88xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073192993277067461",
+    "in_reply_to_user_id": "2072258787155816448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073191460254740622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs1976 @FrenchFrie88xd 我的发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2072986786381373900",
+        "created_at": "2026-07-03T23:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073192993277067461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072258787155816448",
+              "start": 0,
+              "username": "xxs1976"
+            },
+            {
+              "end": 24,
+              "id": "2061495112694476800",
+              "start": 9,
+              "username": "FrenchFrie88xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073192993277067461",
+        "in_reply_to_user_id": "2072258787155816448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073191460254740622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs1976 @FrenchFrie88xd 我的发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072258787155816448",
+        "conversation_id": "2072986786381373900",
+        "created_at": "2026-07-03T23:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073191460254740622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061495112694476800",
+              "start": 0,
+              "username": "FrenchFrie88xd"
+            },
+            {
+              "end": 26,
+              "id": "1782410129012670464",
+              "start": 16,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073191460254740622",
+        "in_reply_to_user_id": "2061495112694476800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072986786381373900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrenchFrie88xd @ANDEL0426  。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "何",
+        "id": "1782410129012670464",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 254,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T10:00:13.000Z",
+        "description": "小学生已正式启用3.0。\nlgbtq全友好 就是别恶心我\n禁止把我的帖转到墙内\n好厚米@ANDEL0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ANDEL0426"
+              }
+            ]
+          }
+        },
+        "id": "2072258787155816448",
+        "name": "高性能小学生3.0",
+        "pinned_tweet_id": "2072262358043439427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072259319593394176/QYNajH1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 147,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "xxs1976",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T17:10:53.000Z",
+        "description": "闪闪红星今犹在 不见当年红军还",
+        "id": "2061495112694476800",
+        "location": "长征第一渡",
+        "name": "French Fries Communist Party",
+        "pinned_tweet_id": "2068223649598066756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061496048116441088/qKr1IPw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1128,
+          "like_count": 4099,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "FrenchFrie88xd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076683170502566134",
+    "created_at": "2026-07-14T12:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077005153983725840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057006320851849216",
+          "start": 0,
+          "username": "yamazakiisuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077005153983725840",
+    "in_reply_to_user_id": "2057006320851849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076683170502566134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu 长发男你崛起罢😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076683170502566134",
+        "created_at": "2026-07-14T12:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077005153983725840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057006320851849216",
+              "start": 0,
+              "username": "yamazakiisuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077005153983725840",
+        "in_reply_to_user_id": "2057006320851849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076683170502566134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu 长发男你崛起罢😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057006320851849216",
+        "conversation_id": "2076683170502566134",
+        "created_at": "2026-07-13T15:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076683170502566134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamazakiisuzu/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yamazakiisuzu/status/2076682761520468462",
+              "start": 9,
+              "url": "https://t.co/gHalZLL4eR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076683170502566134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076682761520468462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长发男你崛起罢😾 https://t.co/gHalZLL4eR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 343,
+          "like_count": 1408,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T07:51:56.000Z",
+        "description": "ここは山崎いすずの個人垢/中国人/日本語を勉強している/日本語の程度はN95です/妄想加入日本籍😾",
+        "id": "2057006320851849216",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2058442347667677629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413683731226624/mYzWrFfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 115,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "yamazakiisuzu",
+        "verified": false
+      }
+    ]
+  }
+}

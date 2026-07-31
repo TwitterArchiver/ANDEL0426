@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075828201868390689",
+    "created_at": "2026-07-11T13:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075939719473762374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1365514623818981376",
+          "start": 0,
+          "username": "chen__yin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075939719473762374",
+    "in_reply_to_user_id": "1365514623818981376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075938760630599755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen__yin 我缺的这25谁给我补呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075828201868390689",
+        "created_at": "2026-07-11T13:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075939719473762374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1365514623818981376",
+              "start": 0,
+              "username": "chen__yin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075939719473762374",
+        "in_reply_to_user_id": "1365514623818981376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075938760630599755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen__yin 我缺的这25谁给我补呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365514623818981376",
+        "conversation_id": "2075828201868390689",
+        "created_at": "2026-07-11T13:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075938760630599755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075938760630599755",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828201868390689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 你入我的门，我也入你的门怎么样🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 321,
+          "like_count": 1132,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T04:10:50.000Z",
+        "description": "浅红｜粉红｜品红｜真红｜赤红｜深红｜紫红｜共产主义者 | 坐标北京 丨ENTP｜\n不抽烟不喝酒不od不花刀｜喜欢键政｜傻逼二次元｜玩b站 丨下头男｜暖男｜理工男｜\n本人只有这一个号｜🚪50 免费请我吃顿肯德基然后换来一个对你爱答不理的boy",
+        "id": "1365514623818981376",
+        "location": "China",
+        "name": "𝓬𝓱𝓮𝓷 𝔂𝓲𝓷 🇨🇳 沉音",
+        "pinned_tweet_id": "1895647772558442787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073766142980796416/0H-Gbbjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 356,
+          "like_count": 1508,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 2546
+        },
+        "url": "",
+        "username": "chen__yin",
+        "verified": false
+      }
+    ]
+  }
+}

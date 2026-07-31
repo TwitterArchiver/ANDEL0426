@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080493448742982070",
+    "created_at": "2026-07-24T03:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080499728077439316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907687630344720384",
+          "start": 0,
+          "username": "tsubame23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080499728077439316",
+    "in_reply_to_user_id": "1907687630344720384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080493448742982070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsubame23333 牛逼不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080493448742982070",
+        "created_at": "2026-07-24T03:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080499728077439316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907687630344720384",
+              "start": 0,
+              "username": "tsubame23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080499728077439316",
+        "in_reply_to_user_id": "1907687630344720384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080493448742982070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsubame23333 牛逼不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907687630344720384",
+        "conversation_id": "2080493448742982070",
+        "created_at": "2026-07-24T03:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080493448742982070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ANDEL0426/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ANDEL0426/status/2080142940350161007",
+              "start": 18,
+              "url": "https://t.co/6FD8Z3bbVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080493448742982070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080142940350161007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从评论区就能看出来傻逼数量可见一斑 https://t.co/6FD8Z3bbVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 388,
+          "like_count": 2128,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T06:52:47.000Z",
+        "description": "🇮🇹🇮🇹veneroma🔄⭕️\n🚫splitting🚫antis\n無断転載🚫AI学習🚫",
+        "id": "1907687630344720384",
+        "location": "???",
+        "name": "三周無休",
+        "pinned_tweet_id": "2016034262789849284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921415919038869504/90ZmBl-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 88,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "tsubame23333",
+        "verified": false
+      }
+    ]
+  }
+}

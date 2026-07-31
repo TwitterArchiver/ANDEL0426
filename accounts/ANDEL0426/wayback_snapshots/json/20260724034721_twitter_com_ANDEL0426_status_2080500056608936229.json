@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080469708810469623",
+    "created_at": "2026-07-24T03:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080500056608936229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604387312863150080",
+          "start": 0,
+          "username": "sao_Y_yang163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080500056608936229",
+    "in_reply_to_user_id": "1604387312863150080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080488853685837900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sao_Y_yang163 我是给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080469708810469623",
+        "created_at": "2026-07-24T03:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080500056608936229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604387312863150080",
+              "start": 0,
+              "username": "sao_Y_yang163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080500056608936229",
+        "in_reply_to_user_id": "1604387312863150080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080488853685837900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sao_Y_yang163 我是给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604387312863150080",
+        "conversation_id": "2080469708810469623",
+        "created_at": "2026-07-24T03:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080488853685837900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080488853685837900",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080469708810469623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 这能绷住的是给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 388,
+          "like_count": 2128,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T08:05:30.000Z",
+        "description": "日本語/英語を勉強しています｜Welcome to send DM to me｜大一｜小0南梁｜168 55骗人是小狗｜泛性恋｜喜欢做自己的特别的人｜不混圈子｜好抽｜会割｜玉玉转双相｜喜欢音乐 电脑 语言 好多东西列举不完，欢迎dd我",
+        "id": "1604387312863150080",
+        "name": "呀喲YaYo",
+        "pinned_tweet_id": "2079086844323791306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077785823341334528/Sbv78u2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 147,
+          "like_count": 3061,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "sao_Y_yang163",
+        "verified": false
+      }
+    ]
+  }
+}

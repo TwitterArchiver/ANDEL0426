@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076992288144908500",
+    "created_at": "2026-07-14T11:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076992288144908500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/andel0426/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/andel0426/status/2076980374287401258",
+          "start": 15,
+          "url": "https://t.co/edMM3Fs6CH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076992288144908500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076980374287401258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是谁说这个好抽的臭死了。 https://t.co/edMM3Fs6CH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076980364921507840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLqozibkAAujfc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076992288144908500",
+        "created_at": "2026-07-14T11:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076992288144908500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/andel0426/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/andel0426/status/2076980374287401258",
+              "start": 15,
+              "url": "https://t.co/edMM3Fs6CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076992288144908500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076980374287401258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁说这个好抽的臭死了。 https://t.co/edMM3Fs6CH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076980364921507840"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076980374287401258",
+        "created_at": "2026-07-14T10:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076980374287401258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUU7xTL7p9",
+              "end": 46,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076980374287401258/photo/1",
+              "media_key": "3_2076980364921507840",
+              "start": 23,
+              "url": "https://t.co/AUU7xTL7p9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076980374287401258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟风买了这个不知道好不好抽，总之闻起来挺香的 https://t.co/AUU7xTL7p9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 343,
+          "like_count": 1403,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

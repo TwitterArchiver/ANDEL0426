@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076992288144908500",
+    "created_at": "2026-07-14T12:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077014987151933674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008420775204896768",
+          "start": 0,
+          "username": "saki7999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077014987151933674",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077007058612768840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saki7999 茉莉的还行这个怎么这么臭，我要哭了，只能送人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076992288144908500",
+        "created_at": "2026-07-14T12:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077014987151933674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "saki7999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014987151933674",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077007058612768840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saki7999 茉莉的还行这个怎么这么臭，我要哭了，只能送人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2076992288144908500",
+        "created_at": "2026-07-14T12:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077007058612768840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077007058612768840",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076992288144908500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 被香精烟气晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 343,
+          "like_count": 1413,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "人啊，幸福的活下去吧",
+        "id": "2008420775204896768",
+        "name": "岐哥，梦想哭了",
+        "pinned_tweet_id": "2076621919206396121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 98,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2617
+        },
+        "url": "",
+        "username": "saki7999",
+        "verified": true
+      }
+    ]
+  }
+}

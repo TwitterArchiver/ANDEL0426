@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2073071123537985756",
+    "created_at": "2026-07-03T16:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073085297399918916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072258787155816448",
+          "start": 0,
+          "username": "xxs1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073085297399918916",
+    "in_reply_to_user_id": "2072258787155816448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073072413714325948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs1976 我想要纯棉内裤！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2073071123537985756",
+        "created_at": "2026-07-03T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073085297399918916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072258787155816448",
+              "start": 0,
+              "username": "xxs1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073085297399918916",
+        "in_reply_to_user_id": "2072258787155816448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073072413714325948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs1976 我想要纯棉内裤！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072258787155816448",
+        "conversation_id": "2073071123537985756",
+        "created_at": "2026-07-03T15:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073072413714325948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073072413714325948",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073071123537985756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 卧槽你学我送纯棉衣物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "何",
+        "id": "1782410129012670464",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 250,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T10:00:13.000Z",
+        "description": "小学生已正式启用3.0。\nlgbtq全友好 就是别恶心我\n禁止把我的帖转到墙内\n好厚米@ANDEL0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ANDEL0426"
+              }
+            ]
+          }
+        },
+        "id": "2072258787155816448",
+        "name": "高性能小学生3.0",
+        "pinned_tweet_id": "2072262358043439427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072259319593394176/QYNajH1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 147,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "xxs1976",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081715551618183333",
+    "created_at": "2026-07-28T14:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082109997312557108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053072825460965376",
+          "start": 0,
+          "username": "dnZxgg5slW7885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082109997312557108",
+    "in_reply_to_user_id": "2053072825460965376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082109161085796403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dnZxgg5slW7885 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-28T14:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082109997312557108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053072825460965376",
+              "start": 0,
+              "username": "dnZxgg5slW7885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109997312557108",
+        "in_reply_to_user_id": "2053072825460965376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082109161085796403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnZxgg5slW7885 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053072825460965376",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-28T14:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082109161085796403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109161085796403",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081715551618183333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 怎么这么萌欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信\n🚪80非墙内 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 412,
+          "like_count": 2494,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T11:21:40.000Z",
+        "description": "",
+        "id": "2053072825460965376",
+        "name": "东南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053072912307920900/Z2qJvtrM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "dnZxgg5slW7885",
+        "verified": false
+      }
+    ]
+  }
+}

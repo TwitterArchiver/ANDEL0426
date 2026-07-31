@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2079202958122819644",
+    "created_at": "2026-07-20T17:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079257061746180285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1625130433896914946",
+          "start": 0,
+          "username": "funi909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079257061746180285",
+    "in_reply_to_user_id": "1625130433896914946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079202958122819644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@funi909 那他妈是良子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079202958122819644",
+        "created_at": "2026-07-20T17:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079257061746180285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1625130433896914946",
+              "start": 0,
+              "username": "funi909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079257061746180285",
+        "in_reply_to_user_id": "1625130433896914946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079202958122819644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@funi909 那他妈是良子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625130433896914946",
+        "conversation_id": "2079202958122819644",
+        "created_at": "2026-07-20T13:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079202958122819644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079202958122819644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜你说你谈了个重力系对象我怎么看着其实是个重量系呢。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 369,
+          "like_count": 1712,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T13:51:16.000Z",
+        "description": "不卖 不约 不加联系方式 \n只鉴定胸肌 丑的敢来就死定了\n我上网就是为了登基 不要打扰我的自娱自乐。好吗？\n非常讨厌山东人 山东人不要烦我",
+        "id": "1625130433896914946",
+        "name": "鹚腐淤泥",
+        "pinned_tweet_id": "2078098322934608229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072561555959607296/6Gy9jXMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 12,
+          "like_count": 1533,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "funi909",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075171775357526023",
+    "created_at": "2026-07-11T12:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075913451382489341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934302404922810369",
+          "start": 0,
+          "username": "ChenY47047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075913451382489341",
+    "in_reply_to_user_id": "1934302404922810369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075904378360463505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY47047 好那个。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075171775357526023",
+        "created_at": "2026-07-11T12:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075913451382489341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934302404922810369",
+              "start": 0,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075913451382489341",
+        "in_reply_to_user_id": "1934302404922810369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075904378360463505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY47047 好那个。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934302404922810369",
+        "conversation_id": "2075171775357526023",
+        "created_at": "2026-07-11T11:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075904378360463505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075904378360463505",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075171775357526023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 好那个 四爱帅姐姐nb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 318,
+          "like_count": 1106,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:30:20.000Z",
+        "description": "🚪5.2",
+        "id": "1934302404922810369",
+        "name": "suki！",
+        "pinned_tweet_id": "2075802188031676911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951431674119725060/rg9TZR5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 60,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "ChenY47047",
+        "verified": false
+      }
+    ]
+  }
+}

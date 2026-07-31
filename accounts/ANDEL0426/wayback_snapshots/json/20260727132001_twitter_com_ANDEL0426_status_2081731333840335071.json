@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081715551618183333",
+    "created_at": "2026-07-27T13:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081731333840335071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057006320851849216",
+          "start": 0,
+          "username": "yamazakiisuzu"
+        },
+        {
+          "end": 24,
+          "id": "2076841557802864640",
+          "start": 15,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081731333840335071",
+    "in_reply_to_user_id": "2057006320851849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081729169386267079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu @kuukiwtf 我朋友都喜欢捏我脸呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-27T13:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081731333840335071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057006320851849216",
+              "start": 0,
+              "username": "yamazakiisuzu"
+            },
+            {
+              "end": 24,
+              "id": "2076841557802864640",
+              "start": 15,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081731333840335071",
+        "in_reply_to_user_id": "2057006320851849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081729169386267079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu @kuukiwtf 我朋友都喜欢捏我脸呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057006320851849216",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-27T13:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081729169386267079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 20,
+              "id": "1782410129012670464",
+              "start": 10,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081729169386267079",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081716425412997626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @ANDEL0426 感觉她的脸像包子一样软软的🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 401,
+          "like_count": 2428,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T07:51:56.000Z",
+        "description": "ここは山崎いすずの個人垢/中国人/日本語を勉強している/日本語の程度はN95です/讨厌阳光，讨厌风/如果可能的话30岁就自杀吧🐱",
+        "id": "2057006320851849216",
+        "location": "༎ຶ⁠‿⁠༎ຶ",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2078265672631824475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413683731226624/mYzWrFfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 152,
+          "like_count": 5094,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "yamazakiisuzu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 461,
+          "like_count": 6249,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

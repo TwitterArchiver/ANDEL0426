@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "1983180353608253639",
+    "created_at": "2026-04-11T05:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042841402791645384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835724410902265856",
+          "start": 0,
+          "username": "Xxs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042841402791645384",
+    "in_reply_to_user_id": "1835724410902265856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042841063308824672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxs8964 我错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "1983180353608253639",
+        "created_at": "2026-04-11T05:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042841402791645384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835724410902265856",
+              "start": 0,
+              "username": "Xxs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042841402791645384",
+        "in_reply_to_user_id": "1835724410902265856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042841063308824672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxs8964 我错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835724410902265856",
+        "conversation_id": "1983180353608253639",
+        "created_at": "2026-04-11T05:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042841063308824672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042841063308824672",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983180353608253639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 最尊重mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "",
+        "id": "1782410129012670464",
+        "name": "菜🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042841276891197440/yuhweY1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 242,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "｜可以互fo ww｜08\nlgbtq友好\n小粉红fuckoff\n加我不需要🚪 \n但是加我家猫需要🚪5r\n把我帖子转墙内你全家被压路机压成尸块",
+        "id": "1835724410902265856",
+        "name": "✟高性能小学生✟",
+        "pinned_tweet_id": "2024729265384935459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018747869092810752/I5TdE8mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 855,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1357
+        },
+        "username": "Xxs8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076604095356670107",
+    "created_at": "2026-07-13T15:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076687232766021981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1539643455567106050",
+          "start": 0,
+          "username": "mufengLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076687232766021981",
+    "in_reply_to_user_id": "1539643455567106050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076674467624046791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mufengLT 这他妈是咋看的 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076604095356670107",
+        "created_at": "2026-07-13T15:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076687232766021981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1539643455567106050",
+              "start": 0,
+              "username": "mufengLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076687232766021981",
+        "in_reply_to_user_id": "1539643455567106050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076674467624046791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mufengLT 这他妈是咋看的 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539643455567106050",
+        "conversation_id": "2076604095356670107",
+        "created_at": "2026-07-13T14:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076674467624046791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076674467624046791",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076604095356670107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 我把马桶看成蛋糕了。。。。尼古丁蛋糕你赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 335,
+          "like_count": 1345,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T16:16:31.000Z",
+        "description": "",
+        "id": "1539643455567106050",
+        "location": "理塘",
+        "name": "何异味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673018944851169282/xkZt9L0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "mufengLT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075195612581199872"
+      ],
+      "media_source_tweet_id": [
+        "2075195618075795690"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075480104327954492",
+    "created_at": "2026-07-10T07:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075480104327954492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750176324440965120",
+          "start": 3,
+          "username": "ss1um"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3K9K2KrPl",
+          "end": 45,
+          "expanded_url": "https://x.com/ss1um/status/2075195618075795690/photo/1",
+          "media_key": "3_2075195612581199872",
+          "start": 22,
+          "url": "https://t.co/s3K9K2KrPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075480104327954492",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 583
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075195618075795690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ss1um: #oc\nRepost https://t.co/s3K9K2KrPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2075195612581199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyTai9aAAAIuhd.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075195612581199872"
+          ],
+          "media_source_tweet_id": [
+            "2075195618075795690"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075480104327954492",
+        "created_at": "2026-07-10T07:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075480104327954492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750176324440965120",
+              "start": 3,
+              "username": "ss1um"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3K9K2KrPl",
+              "end": 45,
+              "expanded_url": "https://x.com/ss1um/status/2075195618075795690/photo/1",
+              "media_key": "3_2075195612581199872",
+              "start": 22,
+              "url": "https://t.co/s3K9K2KrPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075480104327954492",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 583
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075195618075795690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ss1um: #oc\nRepost https://t.co/s3K9K2KrPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075195612581199872"
+          ]
+        },
+        "author_id": "1750176324440965120",
+        "conversation_id": "2075195618075795690",
+        "created_at": "2026-07-09T12:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075195618075795690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3K9K2KrPl",
+              "end": 34,
+              "expanded_url": "https://x.com/ss1um/status/2075195618075795690/photo/1",
+              "media_key": "3_2075195612581199872",
+              "start": 11,
+              "url": "https://t.co/s3K9K2KrPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075195618075795690",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 23586,
+          "like_count": 4486,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 583
+        },
+        "reply_settings": "everyone",
+        "text": "#oc\nRepost https://t.co/s3K9K2KrPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw\n🚪16 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 287,
+          "like_count": 902,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T15:19:11.000Z",
+        "description": "장르팔 비추 Multifan // FUB free // !!Tw!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/6rq7",
+                "end": 23,
+                "expanded_url": "https://kre.pe/6rq7",
+                "start": 0,
+                "url": "https://t.co/XC2rNWEzUc"
+              }
+            ]
+          }
+        },
+        "id": "1750176324440965120",
+        "location": "they, them",
+        "name": "포타슘",
+        "pinned_tweet_id": "2074883754968121585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058930762234429440/cSA00-qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 80,
+          "like_count": 17772,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/XC2rNWEzUc",
+        "username": "ss1um",
+        "verified": false
+      }
+    ]
+  }
+}

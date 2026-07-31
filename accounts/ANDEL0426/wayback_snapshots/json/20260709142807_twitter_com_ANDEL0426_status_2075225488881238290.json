@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075225470514442240",
+        "3_2075225470514483200"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075225488881238290",
+    "created_at": "2026-07-09T14:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075225488881238290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKZ2PakLCa",
+          "end": 41,
+          "expanded_url": "https://x.com/ANDEL0426/status/2075225488881238290/photo/1",
+          "media_key": "3_2075225470514442240",
+          "start": 18,
+          "url": "https://t.co/lKZ2PakLCa"
+        },
+        {
+          "display_url": "pic.x.com/lKZ2PakLCa",
+          "end": 41,
+          "expanded_url": "https://x.com/ANDEL0426/status/2075225488881238290/photo/1",
+          "media_key": "3_2075225470514483200",
+          "start": 18,
+          "url": "https://t.co/lKZ2PakLCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075225488881238290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛逼这个洗发水怎么洗得我头粘粘的。 https://t.co/lKZ2PakLCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2075225470514442240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyukgbbMAAS3sI.jpg",
+        "width": 1098
+      },
+      {
+        "height": 1606,
+        "media_key": "3_2075225470514483200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyukgbb0AAFppd.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075225470514442240",
+            "3_2075225470514483200"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075225488881238290",
+        "created_at": "2026-07-09T14:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075225488881238290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKZ2PakLCa",
+              "end": 41,
+              "expanded_url": "https://x.com/ANDEL0426/status/2075225488881238290/photo/1",
+              "media_key": "3_2075225470514442240",
+              "start": 18,
+              "url": "https://t.co/lKZ2PakLCa"
+            },
+            {
+              "display_url": "pic.x.com/lKZ2PakLCa",
+              "end": 41,
+              "expanded_url": "https://x.com/ANDEL0426/status/2075225488881238290/photo/1",
+              "media_key": "3_2075225470514483200",
+              "start": 18,
+              "url": "https://t.co/lKZ2PakLCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075225488881238290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼这个洗发水怎么洗得我头粘粘的。 https://t.co/lKZ2PakLCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 271,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

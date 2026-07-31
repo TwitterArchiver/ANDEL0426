@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tanning",
+          "id": "855114635963318272",
+          "name": "Tanning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tanning",
+          "id": "855114635963318272",
+          "name": "Tanning"
+        }
+      }
+    ],
+    "conversation_id": "1832076827474706614",
+    "created_at": "2024-09-07T05:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T06:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832289540440256764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "106511592",
+          "start": 0,
+          "username": "ebimayo3150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832289540440256764",
+    "in_reply_to_user_id": "106511592",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832076827474706614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ebimayo3150 どうやって日焼けしたの😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          }
+        ],
+        "conversation_id": "1832076827474706614",
+        "created_at": "2024-09-07T05:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T06:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832289540440256764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "106511592",
+              "start": 0,
+              "username": "ebimayo3150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832289540440256764",
+        "in_reply_to_user_id": "106511592",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832076827474706614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ebimayo3150 どうやって日焼けしたの😧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832076748776976384"
+          ]
+        },
+        "author_id": "106511592",
+        "conversation_id": "1832076827474706614",
+        "created_at": "2024-09-06T15:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T16:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832076827474706614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cip8xz5fmo",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ebimayo3150/status/1832076827474706614/photo/1",
+              "media_key": "3_1832076748776976384",
+              "start": 4,
+              "url": "https://t.co/CIp8Xz5Fmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832076827474706614",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2481,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ギャル https://t.co/CIp8Xz5Fmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "😐",
+        "id": "1782410129012670464",
+        "name": "Hakashi✂️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825831123001421828/VKMxMFAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 102,
+          "like_count": 227,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T20:16:11.000Z",
+        "description": "趣味程度に机上音楽をしたりする一般甲殻類生物。⋮ ▶️ https://t.co/IdA06QaBka ⋮ ☁️ https://t.co/SFk9A8ag9O ⋮ ⓋⓇⒸ https://t.co/ppaDKWHsQz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ebimayo3150",
+                "end": 51,
+                "expanded_url": "http://youtube.com/@ebimayo3150",
+                "start": 28,
+                "url": "https://t.co/IdA06QaBka"
+              },
+              {
+                "display_url": "soundcloud.com/3131m47o",
+                "end": 80,
+                "expanded_url": "http://soundcloud.com/3131m47o",
+                "start": 57,
+                "url": "https://t.co/SFk9A8ag9O"
+              },
+              {
+                "display_url": "bit.ly/30KZLT1",
+                "end": 110,
+                "expanded_url": "http://bit.ly/30KZLT1",
+                "start": 87,
+                "url": "https://t.co/ppaDKWHsQz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ab-sounds.com",
+                "end": 23,
+                "expanded_url": "https://ab-sounds.com",
+                "start": 0,
+                "url": "https://t.co/iPffPw7fc2"
+              }
+            ]
+          }
+        },
+        "id": "106511592",
+        "location": "パソンコの前",
+        "name": "EBIMAYO",
+        "pinned_tweet_id": "1781638954556768668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774775344291278849/9ev7wx___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38532,
+          "following_count": 2343,
+          "like_count": 29738,
+          "listed_count": 206,
+          "tweet_count": 72422
+        },
+        "url": "https://t.co/iPffPw7fc2",
+        "username": "ebimayo3150",
+        "verified": false
+      }
+    ]
+  }
+}

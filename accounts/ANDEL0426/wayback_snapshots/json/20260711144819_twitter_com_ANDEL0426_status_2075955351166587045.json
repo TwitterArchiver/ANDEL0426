@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075440318393299399",
+    "created_at": "2026-07-11T14:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075955351166587045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801478230462877697",
+          "start": 0,
+          "username": "gush1361308"
+        },
+        {
+          "end": 20,
+          "id": "1732356232290222080",
+          "start": 13,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075955351166587045",
+    "in_reply_to_user_id": "1801478230462877697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075885716383678545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gush1361308 @8964_Y 这种就根本他妈不健全。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075440318393299399",
+        "created_at": "2026-07-11T14:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075955351166587045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801478230462877697",
+              "start": 0,
+              "username": "gush1361308"
+            },
+            {
+              "end": 20,
+              "id": "1732356232290222080",
+              "start": 13,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075955351166587045",
+        "in_reply_to_user_id": "1801478230462877697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075885716383678545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gush1361308 @8964_Y 这种就根本他妈不健全。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801478230462877697",
+        "conversation_id": "2075440318393299399",
+        "created_at": "2026-07-11T10:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075885716383678545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            },
+            {
+              "end": 18,
+              "id": "1732356232290222080",
+              "start": 11,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075885716383678545",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075498999285694466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 @8964_Y 太对了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 322,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T04:54:40.000Z",
+        "description": "青蛙/od/智力低下/健忘/改花刀",
+        "id": "1801478230462877697",
+        "name": "青蛙大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802724008397250560/zT1WlqE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 21,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1034
+        },
+        "url": "",
+        "username": "gush1361308",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6662,
+          "following_count": 748,
+          "like_count": 24654,
+          "listed_count": 19,
+          "media_count": 1168,
+          "tweet_count": 16867
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      }
+    ]
+  }
+}

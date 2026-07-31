@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076604095356670107",
+    "created_at": "2026-07-13T11:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076632873424363944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2076505575157063680",
+          "start": 0,
+          "username": "Tonyv0n"
+        },
+        {
+          "end": 20,
+          "id": "1474483807520636931",
+          "start": 9,
+          "username": "liulongma2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076632873424363944",
+    "in_reply_to_user_id": "2076505575157063680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076631413739360433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tonyv0n @liulongma2 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076604095356670107",
+        "created_at": "2026-07-13T11:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076632873424363944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2076505575157063680",
+              "start": 0,
+              "username": "Tonyv0n"
+            },
+            {
+              "end": 20,
+              "id": "1474483807520636931",
+              "start": 9,
+              "username": "liulongma2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076632873424363944",
+        "in_reply_to_user_id": "2076505575157063680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076631413739360433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonyv0n @liulongma2 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076505575157063680",
+        "conversation_id": "2076604095356670107",
+        "created_at": "2026-07-13T11:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076631413739360433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1474483807520636931",
+              "start": 0,
+              "username": "liulongma2"
+            },
+            {
+              "end": 22,
+              "id": "1782410129012670464",
+              "start": 12,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076631413739360433",
+        "in_reply_to_user_id": "1474483807520636931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076616827124457716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulongma2 @ANDEL0426 鼻炎没法康复的，只能缓解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 334,
+          "like_count": 1324,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:15:40.000Z",
+        "description": "",
+        "id": "2076505575157063680",
+        "name": "h",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Tonyv0n",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T20:55:21.000Z",
+        "description": "160天",
+        "id": "1474483807520636931",
+        "name": "toxicgas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075922208569069568/AZFpeNcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "liulongma2",
+        "verified": false
+      }
+    ]
+  }
+}

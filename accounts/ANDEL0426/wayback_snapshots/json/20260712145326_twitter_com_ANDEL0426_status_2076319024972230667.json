@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076318115189727395",
+    "created_at": "2026-07-12T14:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076319024972230667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076319024972230667",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076318115189727395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076318115189727395",
+        "created_at": "2026-07-12T14:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076319024972230667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076319024972230667",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076318115189727395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2076318115189727395",
+        "created_at": "2026-07-12T14:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076318115189727395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/andel0426/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/andel0426/status/2076294866330620257",
+              "start": 24,
+              "url": "https://t.co/WsgLliKawj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076318115189727395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076294866330620257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇不止一个手性中心有几十种异构，这下破案了 https://t.co/WsgLliKawj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 325,
+          "like_count": 1230,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "ˈʏpsilɔn",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074827288361713664/TdNVdAn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 850,
+          "like_count": 7127,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 6333
+        },
+        "url": "",
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

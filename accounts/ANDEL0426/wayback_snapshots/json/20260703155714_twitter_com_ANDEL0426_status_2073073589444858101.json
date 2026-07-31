@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073073578564882432",
+        "3_2073073578598420481",
+        "3_2073073578560643072",
+        "3_2073073578564845568"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073073589444858101",
+    "created_at": "2026-07-03T15:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073073589444858101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gu4URCayKp",
+          "end": 101,
+          "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+          "media_key": "3_2073073578564882432",
+          "start": 78,
+          "url": "https://t.co/gu4URCayKp"
+        },
+        {
+          "display_url": "pic.x.com/gu4URCayKp",
+          "end": 101,
+          "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+          "media_key": "3_2073073578598420481",
+          "start": 78,
+          "url": "https://t.co/gu4URCayKp"
+        },
+        {
+          "display_url": "pic.x.com/gu4URCayKp",
+          "end": 101,
+          "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+          "media_key": "3_2073073578560643072",
+          "start": 78,
+          "url": "https://t.co/gu4URCayKp"
+        },
+        {
+          "display_url": "pic.x.com/gu4URCayKp",
+          "end": 101,
+          "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+          "media_key": "3_2073073578564845568",
+          "start": 78,
+          "url": "https://t.co/gu4URCayKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073073589444858101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我自介\n可能叫AD钙 也可以叫安德\n目前在玩舞萌/喷3/舟/p4\nLGBTQ方面不理解但尊重\n抽烟喝酒嘴臭负能 割o\n好像很好相处\n和我互fo可得纯棉红袜 https://t.co/gu4URCayKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2073073578564882432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUJb6ObkAA207E.jpg",
+        "width": 846
+      },
+      {
+        "height": 543,
+        "media_key": "3_2073073578598420481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUJb6WbUAEGrXH.jpg",
+        "width": 532
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2073073578560643072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUJb6Na4AAQSJO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 357,
+        "media_key": "3_2073073578564845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUJb6ObAAAl5HM.jpg",
+        "width": 394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073073578564882432",
+            "3_2073073578598420481",
+            "3_2073073578560643072",
+            "3_2073073578564845568"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073073589444858101",
+        "created_at": "2026-07-03T15:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073073589444858101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gu4URCayKp",
+              "end": 101,
+              "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+              "media_key": "3_2073073578564882432",
+              "start": 78,
+              "url": "https://t.co/gu4URCayKp"
+            },
+            {
+              "display_url": "pic.x.com/gu4URCayKp",
+              "end": 101,
+              "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+              "media_key": "3_2073073578598420481",
+              "start": 78,
+              "url": "https://t.co/gu4URCayKp"
+            },
+            {
+              "display_url": "pic.x.com/gu4URCayKp",
+              "end": 101,
+              "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+              "media_key": "3_2073073578560643072",
+              "start": 78,
+              "url": "https://t.co/gu4URCayKp"
+            },
+            {
+              "display_url": "pic.x.com/gu4URCayKp",
+              "end": 101,
+              "expanded_url": "https://x.com/ANDEL0426/status/2073073589444858101/photo/1",
+              "media_key": "3_2073073578564845568",
+              "start": 78,
+              "url": "https://t.co/gu4URCayKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073073589444858101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自介\n可能叫AD钙 也可以叫安德\n目前在玩舞萌/喷3/舟/p4\nLGBTQ方面不理解但尊重\n抽烟喝酒嘴臭负能 割o\n好像很好相处\n和我互fo可得纯棉红袜 https://t.co/gu4URCayKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "何",
+        "id": "1782410129012670464",
+        "name": "ADadAD钙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 249,
+          "like_count": 711,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

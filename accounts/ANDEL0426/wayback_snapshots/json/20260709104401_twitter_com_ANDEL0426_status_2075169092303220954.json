@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2074881913341497351",
+    "created_at": "2026-07-09T10:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075169092303220954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953322791857733633",
+          "start": 0,
+          "username": "linshen_zh33708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075169092303220954",
+    "in_reply_to_user_id": "1953322791857733633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075075753050505392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linshen_zh33708 谢谢你呀宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2074881913341497351",
+        "created_at": "2026-07-09T10:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075169092303220954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953322791857733633",
+              "start": 0,
+              "username": "linshen_zh33708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075169092303220954",
+        "in_reply_to_user_id": "1953322791857733633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075075753050505392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linshen_zh33708 谢谢你呀宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953322791857733633",
+        "conversation_id": "2074881913341497351",
+        "created_at": "2026-07-09T04:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075075753050505392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075075753050505392",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074881913341497351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 很萌(๑•̀ㅂ•́)و✧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 266,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T05:10:55.000Z",
+        "description": "",
+        "id": "1953322791857733633",
+        "name": "长岛的雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065712968189231104/A9-xk4Fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 81,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "linshen_zh33708",
+        "verified": false
+      }
+    ]
+  }
+}

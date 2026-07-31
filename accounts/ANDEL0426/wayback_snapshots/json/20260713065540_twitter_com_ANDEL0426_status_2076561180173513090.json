@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076227328477384929",
+    "created_at": "2026-07-13T06:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076561180173513090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1851253052243865600",
+          "start": 0,
+          "username": "pronsi114"
+        },
+        {
+          "end": 22,
+          "id": "2028509490119864324",
+          "start": 11,
+          "username": "Yuhane_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076561180173513090",
+    "in_reply_to_user_id": "1851253052243865600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076560348531110352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pronsi114 @Yuhane_ZZZ 我知道。但你在我帖子底下吵我都有通知，都能看到\n我没有要怨你的意思，只是想不要波及到我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076227328477384929",
+        "created_at": "2026-07-13T06:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076561180173513090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1851253052243865600",
+              "start": 0,
+              "username": "pronsi114"
+            },
+            {
+              "end": 22,
+              "id": "2028509490119864324",
+              "start": 11,
+              "username": "Yuhane_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076561180173513090",
+        "in_reply_to_user_id": "1851253052243865600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076560348531110352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pronsi114 @Yuhane_ZZZ 我知道。但你在我帖子底下吵我都有通知，都能看到\n我没有要怨你的意思，只是想不要波及到我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851253052243865600",
+        "conversation_id": "2076227328477384929",
+        "created_at": "2026-07-13T06:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076560348531110352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            },
+            {
+              "end": 22,
+              "id": "2028509490119864324",
+              "start": 11,
+              "username": "Yuhane_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076560348531110352",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076559246574198869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 @Yuhane_ZZZ 哎我操窝在评价他而已并没有要求你干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 332,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:21:47.000Z",
+        "description": "transles（ppl），含糖，rin推，偶尔出点cos\n照片大部分都是原图不p（）\n男的不要来私信骚扰我好吗\npharm",
+        "id": "1851253052243865600",
+        "location": "瀋陽",
+        "name": "pronsi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851255555177730049/3LlrtXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1978,
+          "like_count": 59699,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2945
+        },
+        "url": "",
+        "username": "pronsi114",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T16:38:24.000Z",
+        "description": "舞萌吃/音击吃/珠洲岛有栖厨/emu厨/总是好困w…/喜欢可爱的说话方式和颜文字/ESFP/顺女/＝飘飘/视成分互fo/友跨/最喜欢的宝宝@hydrogen_nia/神秘小号@mione_awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "hydrogen_nia"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "mione_awa"
+              }
+            ]
+          }
+        },
+        "id": "2028509490119864324",
+        "location": "奏坂学园",
+        "name": "星奏谷 夢羽_ほしかなや ゆはね",
+        "pinned_tweet_id": "2029106548501524686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038873195089174528/FM2jiZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 102,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "Yuhane_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

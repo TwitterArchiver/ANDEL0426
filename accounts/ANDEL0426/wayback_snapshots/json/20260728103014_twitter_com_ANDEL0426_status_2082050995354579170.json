@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081926753501733055",
+    "created_at": "2026-07-28T10:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082050995354579170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        },
+        {
+          "end": 18,
+          "id": "2055834950017208320",
+          "start": 10,
+          "username": "xxs0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082050995354579170",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082047390610325918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs @xxs0721 吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081926753501733055",
+        "created_at": "2026-07-28T10:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082050995354579170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            },
+            {
+              "end": 18,
+              "id": "2055834950017208320",
+              "start": 10,
+              "username": "xxs0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082050995354579170",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082047390610325918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs @xxs0721 吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "2081926753501733055",
+        "created_at": "2026-07-28T10:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082047390610325918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055834950017208320",
+              "start": 0,
+              "username": "xxs0721"
+            },
+            {
+              "end": 19,
+              "id": "1782410129012670464",
+              "start": 9,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082047390610325918",
+        "in_reply_to_user_id": "2055834950017208320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082047104198021124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs0721 @ANDEL0426 我也要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 408,
+          "like_count": 2467,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1163
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\nmaster @8964yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "8964yekatinez"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2079482546564526504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 1577,
+          "like_count": 124410,
+          "listed_count": 8,
+          "media_count": 2167,
+          "tweet_count": 20520
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T02:17:34.000Z",
+        "description": "08‖友跨\n狗修金sama @andel0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "andel0426"
+              }
+            ]
+          }
+        },
+        "id": "2055834950017208320",
+        "name": "高性能小学生2.0",
+        "pinned_tweet_id": "2074148354293215724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055835266812944384/7QydfEUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 451,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "xxs0721",
+        "verified": true
+      }
+    ]
+  }
+}

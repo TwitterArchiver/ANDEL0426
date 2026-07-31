@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076256093593075712",
+        "3_2076256093567864832",
+        "3_2076256093580435456",
+        "3_2076256093555302400"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076256105228115977",
+    "created_at": "2026-07-12T10:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076256105228115977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SennTTzmOE",
+          "end": 34,
+          "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+          "media_key": "3_2076256093593075712",
+          "start": 11,
+          "url": "https://t.co/SennTTzmOE"
+        },
+        {
+          "display_url": "pic.x.com/SennTTzmOE",
+          "end": 34,
+          "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+          "media_key": "3_2076256093567864832",
+          "start": 11,
+          "url": "https://t.co/SennTTzmOE"
+        },
+        {
+          "display_url": "pic.x.com/SennTTzmOE",
+          "end": 34,
+          "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+          "media_key": "3_2076256093580435456",
+          "start": 11,
+          "url": "https://t.co/SennTTzmOE"
+        },
+        {
+          "display_url": "pic.x.com/SennTTzmOE",
+          "end": 34,
+          "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+          "media_key": "3_2076256093555302400",
+          "start": 11,
+          "url": "https://t.co/SennTTzmOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076256105228115977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这哥打字好快我得学学 https://t.co/SennTTzmOE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076256093593075712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBX6qlbAAA--Cd.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076256093567864832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBX6qfaUAADH7e.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076256093580435456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBX6qiaIAAfwLV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076256093555302400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBX6qcaoAAkCMN.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076256093593075712",
+            "3_2076256093567864832",
+            "3_2076256093580435456",
+            "3_2076256093555302400"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076256105228115977",
+        "created_at": "2026-07-12T10:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076256105228115977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SennTTzmOE",
+              "end": 34,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+              "media_key": "3_2076256093593075712",
+              "start": 11,
+              "url": "https://t.co/SennTTzmOE"
+            },
+            {
+              "display_url": "pic.x.com/SennTTzmOE",
+              "end": 34,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+              "media_key": "3_2076256093567864832",
+              "start": 11,
+              "url": "https://t.co/SennTTzmOE"
+            },
+            {
+              "display_url": "pic.x.com/SennTTzmOE",
+              "end": 34,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+              "media_key": "3_2076256093580435456",
+              "start": 11,
+              "url": "https://t.co/SennTTzmOE"
+            },
+            {
+              "display_url": "pic.x.com/SennTTzmOE",
+              "end": 34,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076256105228115977/photo/1",
+              "media_key": "3_2076256093555302400",
+              "start": 11,
+              "url": "https://t.co/SennTTzmOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076256105228115977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这哥打字好快我得学学 https://t.co/SennTTzmOE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 322,
+          "like_count": 1199,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

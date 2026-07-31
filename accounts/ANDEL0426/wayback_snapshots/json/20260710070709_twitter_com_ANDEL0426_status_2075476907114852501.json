@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075225488881238290",
+    "created_at": "2026-07-10T07:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075476907114852501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062889433431789569",
+          "start": 0,
+          "username": "jiangjiangol3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075476907114852501",
+    "in_reply_to_user_id": "2062889433431789569",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075473498013839562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangjiangol3k zdjd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075225488881238290",
+        "created_at": "2026-07-10T07:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075476907114852501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062889433431789569",
+              "start": 0,
+              "username": "jiangjiangol3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075476907114852501",
+        "in_reply_to_user_id": "2062889433431789569",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075473498013839562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangjiangol3k zdjd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062889433431789569",
+        "conversation_id": "2075225488881238290",
+        "created_at": "2026-07-10T06:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075473498013839562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075473498013839562",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075225488881238290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 康神？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw\n🚪16 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 287,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T13:29:41.000Z",
+        "description": "吼吼吼你们这群愚蠢的人类",
+        "id": "2062889433431789569",
+        "location": "胡志明",
+        "name": "江江大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062891283346268160/mrT3YLAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "jiangjiangol3k",
+        "verified": false
+      }
+    ]
+  }
+}

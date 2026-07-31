@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075828201868390689",
+    "created_at": "2026-07-11T08:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075864011418325181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1245276010267832322",
+          "start": 0,
+          "username": "qingqiuxiari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075864011418325181",
+    "in_reply_to_user_id": "1245276010267832322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075841185181270372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingqiuxiari 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075828201868390689",
+        "created_at": "2026-07-11T08:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075864011418325181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1245276010267832322",
+              "start": 0,
+              "username": "qingqiuxiari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075864011418325181",
+        "in_reply_to_user_id": "1245276010267832322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075841185181270372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingqiuxiari 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245276010267832322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2075828201868390689",
+        "created_at": "2026-07-11T07:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075841185181270372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075841185181270372",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828201868390689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 不如冲原神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 313,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-01T09:05:37.000Z",
+        "description": "一个安静的疯子",
+        "id": "1245276010267832322",
+        "location": "🇨🇳",
+        "name": "清秋",
+        "pinned_tweet_id": "1563905610717876226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643283932543332358/2s4jqfut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 79,
+          "like_count": 2176,
+          "listed_count": 4,
+          "media_count": 584,
+          "tweet_count": 4143
+        },
+        "url": "",
+        "username": "qingqiuxiari",
+        "verified": false
+      }
+    ]
+  }
+}

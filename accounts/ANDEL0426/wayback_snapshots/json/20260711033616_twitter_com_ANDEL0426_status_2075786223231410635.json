@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075726655973458291",
+    "created_at": "2026-07-11T03:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075786223231410635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2075725528229875712",
+          "start": 0,
+          "username": "warybf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075786223231410635",
+    "in_reply_to_user_id": "2075725528229875712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075779590182801574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warybf 傻逼不分国界的actually"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075726655973458291",
+        "created_at": "2026-07-11T03:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075786223231410635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075725528229875712",
+              "start": 0,
+              "username": "warybf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075786223231410635",
+        "in_reply_to_user_id": "2075725528229875712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075779590182801574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warybf 傻逼不分国界的actually"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075725528229875712",
+        "conversation_id": "2075726655973458291",
+        "created_at": "2026-07-11T03:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075779590182801574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075779590182801574",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075726655973458291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 其实国内外傻逼都很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 308,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T23:35:35.000Z",
+        "description": "",
+        "id": "2075725528229875712",
+        "name": "loadwish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075726522674221056/9qIbnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "warybf",
+        "verified": false
+      }
+    ]
+  }
+}

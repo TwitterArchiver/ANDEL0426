@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076333112435630374",
+    "created_at": "2026-07-12T17:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076354066419191846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620861801138372608",
+          "start": 0,
+          "username": "samardotoy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076354066419191846",
+    "in_reply_to_user_id": "1620861801138372608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076338495447027965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samardotoy_ 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076333112435630374",
+        "created_at": "2026-07-12T17:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076354066419191846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620861801138372608",
+              "start": 0,
+              "username": "samardotoy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076354066419191846",
+        "in_reply_to_user_id": "1620861801138372608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076338495447027965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samardotoy_ 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620861801138372608",
+        "conversation_id": "2076333112435630374",
+        "created_at": "2026-07-12T16:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076338495447027965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076338495447027965",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076333112435630374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 实际上应该发点别的这样就会少推😗😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 326,
+          "like_count": 1247,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T19:11:29.000Z",
+        "description": "Rythm Games / HBR / Practice makes Perfect / 不可以色色！但是喜欢看可爱的男孩子和飒飒的女孩子❤️",
+        "id": "1620861801138372608",
+        "location": "上海, 中华人民共和国",
+        "name": "Samardo@今日情話",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621204092663246849/Ew6zN5ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "samardotoy_",
+        "verified": false
+      }
+    ]
+  }
+}

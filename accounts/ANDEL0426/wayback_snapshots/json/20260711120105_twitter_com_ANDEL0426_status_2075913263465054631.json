@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075898024451297768",
+    "created_at": "2026-07-11T12:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075913263465054631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2017660681751777281",
+          "start": 0,
+          "username": "CaclDuvy78825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075913263465054631",
+    "in_reply_to_user_id": "2017660681751777281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075910428899619316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaclDuvy78825 我要煮了她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075898024451297768",
+        "created_at": "2026-07-11T12:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075913263465054631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2017660681751777281",
+              "start": 0,
+              "username": "CaclDuvy78825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075913263465054631",
+        "in_reply_to_user_id": "2017660681751777281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075910428899619316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaclDuvy78825 我要煮了她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017660681751777281",
+        "conversation_id": "2075898024451297768",
+        "created_at": "2026-07-11T11:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075910428899619316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075910428899619316",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075898024451297768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 我去，你怎么把孩子放锅里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 317,
+          "like_count": 1104,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T18:06:38.000Z",
+        "description": "当朋友圈发，时而不在线",
+        "id": "2017660681751777281",
+        "name": "Later",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017685521594560513/g_7Jk6Pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "CaclDuvy78825",
+        "verified": false
+      }
+    ]
+  }
+}

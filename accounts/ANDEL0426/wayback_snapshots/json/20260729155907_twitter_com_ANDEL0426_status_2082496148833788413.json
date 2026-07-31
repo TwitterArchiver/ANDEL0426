@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2082439671368536410",
+    "created_at": "2026-07-29T15:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082496148833788413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028509490119864324",
+          "start": 0,
+          "username": "Yuhane_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082496148833788413",
+    "in_reply_to_user_id": "2028509490119864324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082439671368536410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuhane_ZZZ 太美丽了，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2082439657485488128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZP1dKb0AAJoNp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2082439657435062272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZP1c-aYAAC5TI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2082439657481199616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZP1dJaYAAjGYp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2082439657468702720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZP1dGbsAAoj_v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2082439671368536410",
+        "created_at": "2026-07-29T15:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082496148833788413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028509490119864324",
+              "start": 0,
+              "username": "Yuhane_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082496148833788413",
+        "in_reply_to_user_id": "2028509490119864324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082439671368536410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuhane_ZZZ 太美丽了，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082439657485488128",
+            "3_2082439657435062272",
+            "3_2082439657481199616",
+            "3_2082439657468702720"
+          ]
+        },
+        "author_id": "2028509490119864324",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2082439671368536410",
+        "created_at": "2026-07-29T12:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082439671368536410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "cosplay"
+            },
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "BlueArhcive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlGR4TOifd",
+              "end": 109,
+              "expanded_url": "https://x.com/Yuhane_ZZZ/status/2082439671368536410/photo/1",
+              "media_key": "3_2082439657485488128",
+              "start": 86,
+              "url": "https://t.co/nlGR4TOifd"
+            },
+            {
+              "display_url": "pic.x.com/nlGR4TOifd",
+              "end": 109,
+              "expanded_url": "https://x.com/Yuhane_ZZZ/status/2082439671368536410/photo/1",
+              "media_key": "3_2082439657435062272",
+              "start": 86,
+              "url": "https://t.co/nlGR4TOifd"
+            },
+            {
+              "display_url": "pic.x.com/nlGR4TOifd",
+              "end": 109,
+              "expanded_url": "https://x.com/Yuhane_ZZZ/status/2082439671368536410/photo/1",
+              "media_key": "3_2082439657481199616",
+              "start": 86,
+              "url": "https://t.co/nlGR4TOifd"
+            },
+            {
+              "display_url": "pic.x.com/nlGR4TOifd",
+              "end": 109,
+              "expanded_url": "https://x.com/Yuhane_ZZZ/status/2082439671368536410/photo/1",
+              "media_key": "3_2082439657468702720",
+              "start": 86,
+              "url": "https://t.co/nlGR4TOifd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082439671368536410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🈺「追随身为正义使者的你⭐️」\n7.25 北境动漫游戏嘉年华 day2 魔法少女玲纱\n出镜：梦羽\n妆造：小高\n摄影/后期：暮心\n#cosplay #BlueArhcive https://t.co/nlGR4TOifd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的性别不重要。\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令 如要互fo请私信\n🚪80非墙内 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "xxs0721"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "username": "yoruheartpath"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 418,
+          "like_count": 2574,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T16:38:24.000Z",
+        "description": "＝飘飘/友跨顺女/ESFP/最喜欢的宝宝@hydrogen_nia/喜欢可爱的说话方式和颜文字/舞萌/音击/珠洲岛有栖厨/emu厨/神秘小号@mione_awa/总是很困zzz/需要自杀干预请随时私信 梦羽永远都在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "hydrogen_nia"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "mione_awa"
+              }
+            ]
+          }
+        },
+        "id": "2028509490119864324",
+        "location": "奏坂学园",
+        "name": "星奏谷 夢羽_ほしかなや ゆはね🍥",
+        "pinned_tweet_id": "2029106548501524686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038873195089174528/FM2jiZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 132,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "Yuhane_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

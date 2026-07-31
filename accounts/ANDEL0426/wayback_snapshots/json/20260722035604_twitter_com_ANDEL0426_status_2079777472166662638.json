@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2079592910572675465",
+    "created_at": "2026-07-22T03:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079777472166662638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703315440053956608",
+          "start": 0,
+          "username": "Minato43601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079777472166662638",
+    "in_reply_to_user_id": "1703315440053956608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079768154901987685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minato43601 🉑🉑🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079592910572675465",
+        "created_at": "2026-07-22T03:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079777472166662638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703315440053956608",
+              "start": 0,
+              "username": "Minato43601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079777472166662638",
+        "in_reply_to_user_id": "1703315440053956608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079768154901987685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minato43601 🉑🉑🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703315440053956608",
+        "conversation_id": "2079592910572675465",
+        "created_at": "2026-07-22T03:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079768154901987685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768154901987685",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079592910572675465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 萌死了萌死了今年我要抱一只小兔回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 非好友不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 374,
+          "like_count": 1869,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T07:50:30.000Z",
+        "description": "是小湊！ 臭按快门的🤤 (现在开始卖人了)\n国家一级摆烂师⭕️ \n性别不详 欢迎美少女互关和我扩列呀~ \n旧号被晶哥线下真实啦！\n正在重新变回美少女ing......",
+        "id": "1703315440053956608",
+        "location": "上海",
+        "name": "湊",
+        "pinned_tweet_id": "1754465894473027921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750514371170914304/JTG-wWfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 774,
+          "like_count": 33956,
+          "listed_count": 5,
+          "media_count": 77,
+          "tweet_count": 2239
+        },
+        "url": "",
+        "username": "Minato43601",
+        "verified": false
+      }
+    ]
+  }
+}

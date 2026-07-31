@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081681412563034174",
+    "created_at": "2026-07-27T11:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081700917980901569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081700917980901569",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081681412563034174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 我是蛋。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_2081681403897602048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOeNSbaYAAkXib.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081681412563034174",
+        "created_at": "2026-07-27T11:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081700917980901569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081700917980901569",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081681412563034174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 我是蛋。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081681403897602048"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2081681412563034174",
+        "created_at": "2026-07-27T10:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081681412563034174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMf7gS1DpR",
+              "end": 32,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081681412563034174/photo/1",
+              "media_key": "3_2081681403897602048",
+              "start": 9,
+              "url": "https://t.co/uMf7gS1DpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081681412563034174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在心情特别操蛋 https://t.co/uMf7gS1DpR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 401,
+          "like_count": 2425,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1131
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |望厨",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2081508605111763013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 515,
+          "like_count": 9993,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

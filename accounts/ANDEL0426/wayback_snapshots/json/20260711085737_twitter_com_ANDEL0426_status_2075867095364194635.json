@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075800693156597953",
+    "created_at": "2026-07-11T08:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075867095364194635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015009553155534848",
+          "start": 0,
+          "username": "zjnl484658"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075867095364194635",
+    "in_reply_to_user_id": "2015009553155534848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075834354639749388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjnl484658 跨性别，男跨女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075800693156597953",
+        "created_at": "2026-07-11T08:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075867095364194635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015009553155534848",
+              "start": 0,
+              "username": "zjnl484658"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075867095364194635",
+        "in_reply_to_user_id": "2015009553155534848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075834354639749388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjnl484658 跨性别，男跨女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015009553155534848",
+        "conversation_id": "2075800693156597953",
+        "created_at": "2026-07-11T06:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075834354639749388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075834354639749388",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075800693156597953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 什么事mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 314,
+          "like_count": 1086,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T10:31:45.000Z",
+        "description": "",
+        "id": "2015009553155534848",
+        "name": "泽钧李",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "zjnl484658",
+        "verified": false
+      }
+    ]
+  }
+}

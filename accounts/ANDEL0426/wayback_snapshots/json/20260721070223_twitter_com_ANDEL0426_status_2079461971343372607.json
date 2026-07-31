@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2079258609717014698",
+    "created_at": "2026-07-21T07:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079461971343372607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "752405729848332288",
+          "start": 0,
+          "username": "Nekotail_Ribbon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079461971343372607",
+    "in_reply_to_user_id": "752405729848332288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079260911064543314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekotail_Ribbon 喜欢吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079258609717014698",
+        "created_at": "2026-07-21T07:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079461971343372607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "752405729848332288",
+              "start": 0,
+              "username": "Nekotail_Ribbon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079461971343372607",
+        "in_reply_to_user_id": "752405729848332288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079260911064543314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekotail_Ribbon 喜欢吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "752405729848332288",
+        "conversation_id": "2079258609717014698",
+        "created_at": "2026-07-20T17:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079260911064543314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079260911064543314",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079258609717014698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 ？？物理超度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 371,
+          "like_count": 1775,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-11T07:34:39.000Z",
+        "description": "想談一場平平淡淡的戀愛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Neko_taiL",
+                "end": 23,
+                "expanded_url": "https://t.me/Neko_taiL",
+                "start": 0,
+                "url": "https://t.co/T5RcqNYToa"
+              }
+            ]
+          }
+        },
+        "id": "752405729848332288",
+        "location": "Hong Kong",
+        "name": "尾巴🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894803448530620416/NcQx4p79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 1234,
+          "like_count": 83330,
+          "listed_count": 18,
+          "media_count": 1277,
+          "tweet_count": 19310
+        },
+        "url": "https://t.co/T5RcqNYToa",
+        "username": "Nekotail_Ribbon",
+        "verified": false
+      }
+    ]
+  }
+}

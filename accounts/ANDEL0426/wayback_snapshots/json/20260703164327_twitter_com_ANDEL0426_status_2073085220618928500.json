@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2073071123537985756",
+    "created_at": "2026-07-03T16:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073085220618928500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1638060402964668417",
+          "start": 0,
+          "username": "qazwsxedc2560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073085220618928500",
+    "in_reply_to_user_id": "1638060402964668417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073071875975266504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qazwsxedc2560 我弱弱的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2073071123537985756",
+        "created_at": "2026-07-03T16:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073085220618928500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638060402964668417",
+              "start": 0,
+              "username": "qazwsxedc2560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073085220618928500",
+        "in_reply_to_user_id": "1638060402964668417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073071875975266504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qazwsxedc2560 我弱弱的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638060402964668417",
+        "conversation_id": "2073071123537985756",
+        "created_at": "2026-07-03T15:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073071875975266504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073071875975266504",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073071123537985756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 彩框大佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "何",
+        "id": "1782410129012670464",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 250,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T06:10:18.000Z",
+        "description": "I see you.",
+        "id": "1638060402964668417",
+        "name": "いま愛している",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033639842987536384/0TZO9zEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 610,
+          "like_count": 14749,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2310
+        },
+        "url": "",
+        "username": "qazwsxedc2560",
+        "verified": false
+      }
+    ]
+  }
+}

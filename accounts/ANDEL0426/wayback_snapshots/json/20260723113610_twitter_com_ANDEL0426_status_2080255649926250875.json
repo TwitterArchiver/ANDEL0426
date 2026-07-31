@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080142940350161007",
+    "created_at": "2026-07-23T11:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080255649926250875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2078823830844289024",
+          "start": 0,
+          "username": "RobTLdev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080255649926250875",
+    "in_reply_to_user_id": "2078823830844289024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080242346994930107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RobTLdev 你开智了没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080142940350161007",
+        "created_at": "2026-07-23T11:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080255649926250875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078823830844289024",
+              "start": 0,
+              "username": "RobTLdev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080255649926250875",
+        "in_reply_to_user_id": "2078823830844289024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080242346994930107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RobTLdev 你开智了没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078823830844289024",
+        "conversation_id": "2080142940350161007",
+        "created_at": "2026-07-23T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080242346994930107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080242346994930107",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080142940350161007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 你没有6岁的时候？当他们到了一定年纪开智了就会知道而不是像你这种去歧视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 387,
+          "like_count": 2052,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 994
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T12:47:34.000Z",
+        "description": "RobTL｜CEO of RobStudio\nProfessional independent Roblox game development studio lead. My team & I develop original multiplayer Roblox experiences, covering full",
+        "id": "2078823830844289024",
+        "name": "RobTL",
+        "pinned_tweet_id": "2078831396718592270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078826284080140288/L1qk2yp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "RobTLdev",
+        "verified": false
+      }
+    ]
+  }
+}

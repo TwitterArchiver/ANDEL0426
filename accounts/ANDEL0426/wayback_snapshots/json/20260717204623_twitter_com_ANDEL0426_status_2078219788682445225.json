@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2078099011660341579",
+    "created_at": "2026-07-17T20:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T21:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078219788682445225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058868404250087425",
+          "start": 0,
+          "username": "Yuriuuuui15db3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078219788682445225",
+    "in_reply_to_user_id": "2058868404250087425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078208064495468562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriuuuui15db3 嘎哒嘎哒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2078208061836328960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdHOK8bgAAGKA8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2078099011660341579",
+        "created_at": "2026-07-17T20:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078219788682445225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058868404250087425",
+              "start": 0,
+              "username": "Yuriuuuui15db3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078219788682445225",
+        "in_reply_to_user_id": "2058868404250087425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078208064495468562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriuuuui15db3 嘎哒嘎哒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078208061836328960"
+          ]
+        },
+        "author_id": "2058868404250087425",
+        "conversation_id": "2078099011660341579",
+        "created_at": "2026-07-17T19:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078208064495468562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKHCdWuIZj",
+              "end": 39,
+              "expanded_url": "https://x.com/Yuriuuuui15db3/status/2078208064495468562/photo/1",
+              "media_key": "3_2078208061836328960",
+              "start": 16,
+              "url": "https://t.co/uKHCdWuIZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078208064495468562",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078099011660341579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 嘎达嘎达 https://t.co/uKHCdWuIZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间我想发啥就发啥。傻逼别来烦我",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 354,
+          "like_count": 1564,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T11:12:47.000Z",
+        "description": "05｜160/104｜⭕switch｜双性恋｜\n目前无恋爱想法，也不下海，不合作，不接线下",
+        "id": "2058868404250087425",
+        "location": "阿帕次阿帕次",
+        "name": "Yuri",
+        "pinned_tweet_id": "2065005102243745992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076636496350814208/0aDLBx9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 17,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Yuriuuuui15db3",
+        "verified": false
+      }
+    ]
+  }
+}

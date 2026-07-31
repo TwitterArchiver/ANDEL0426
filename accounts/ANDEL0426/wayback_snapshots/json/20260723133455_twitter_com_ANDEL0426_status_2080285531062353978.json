@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2079966589991223610",
+    "created_at": "2026-07-23T13:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080285531062353978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "710801271171579904",
+          "start": 0,
+          "username": "ruikir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080285531062353978",
+    "in_reply_to_user_id": "710801271171579904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080104227997962589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruikir 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079966589991223610",
+        "created_at": "2026-07-23T13:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080285531062353978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "710801271171579904",
+              "start": 0,
+              "username": "ruikir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080285531062353978",
+        "in_reply_to_user_id": "710801271171579904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080104227997962589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruikir 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "710801271171579904",
+        "conversation_id": "2079966589991223610",
+        "created_at": "2026-07-23T01:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080104227997962589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080104227997962589",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079966589991223610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 我一发长热炮把他屁股炸烂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 388,
+          "like_count": 2078,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-18T12:13:23.000Z",
+        "description": "不要生病 不要受伤",
+        "id": "710801271171579904",
+        "location": "距离你43m，预计3分钟内送达",
+        "name": "Rainy",
+        "pinned_tweet_id": "2074422019509330074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059161089791995905/_qY6SoTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 932
+        },
+        "url": "",
+        "username": "ruikir",
+        "verified": false
+      }
+    ]
+  }
+}

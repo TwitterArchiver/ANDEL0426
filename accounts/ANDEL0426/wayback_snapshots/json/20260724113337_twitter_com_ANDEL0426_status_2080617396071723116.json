@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080549474091602303",
+    "created_at": "2026-07-24T11:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080617396071723116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060108659385077760",
+          "start": 0,
+          "username": "SakuraAmesaki"
+        },
+        {
+          "end": 28,
+          "id": "2014927088852303872",
+          "start": 15,
+          "username": "QuanHuu75694"
+        },
+        {
+          "end": 38,
+          "id": "2079410425393999872",
+          "start": 29,
+          "username": "falrense"
+        },
+        {
+          "end": 52,
+          "id": "2040718731052015616",
+          "start": 39,
+          "username": "Qing__Yang__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080617396071723116",
+    "in_reply_to_user_id": "2060108659385077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080549474091602303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraAmesaki @QuanHuu75694 @falrense @Qing__Yang__ 紫色的也很好喝哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2080549433419464705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Yr7ybgAEiUGT.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2080549464339841025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Ytu-bAAEOiPE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080549474091602303",
+        "created_at": "2026-07-24T11:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080617396071723116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060108659385077760",
+              "start": 0,
+              "username": "SakuraAmesaki"
+            },
+            {
+              "end": 28,
+              "id": "2014927088852303872",
+              "start": 15,
+              "username": "QuanHuu75694"
+            },
+            {
+              "end": 38,
+              "id": "2079410425393999872",
+              "start": 29,
+              "username": "falrense"
+            },
+            {
+              "end": 52,
+              "id": "2040718731052015616",
+              "start": 39,
+              "username": "Qing__Yang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080617396071723116",
+        "in_reply_to_user_id": "2060108659385077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080549474091602303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraAmesaki @QuanHuu75694 @falrense @Qing__Yang__ 紫色的也很好喝哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080549433419464705",
+            "3_2080549464339841025"
+          ]
+        },
+        "author_id": "2060108659385077760",
+        "conversation_id": "2080549474091602303",
+        "created_at": "2026-07-24T07:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080549474091602303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "2014927088852303872",
+              "start": 64,
+              "username": "QuanHuu75694"
+            },
+            {
+              "end": 87,
+              "id": "2079410425393999872",
+              "start": 78,
+              "username": "falrense"
+            },
+            {
+              "end": 101,
+              "id": "2040718731052015616",
+              "start": 88,
+              "username": "Qing__Yang__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xst19MIcAI",
+              "end": 177,
+              "expanded_url": "https://x.com/SakuraAmesaki/status/2080549474091602303/photo/1",
+              "media_key": "3_2080549433419464705",
+              "start": 154,
+              "url": "https://t.co/xst19MIcAI"
+            },
+            {
+              "display_url": "pic.x.com/xst19MIcAI",
+              "end": 177,
+              "expanded_url": "https://x.com/SakuraAmesaki/status/2080549474091602303/photo/1",
+              "media_key": "3_2080549464339841025",
+              "start": 154,
+              "url": "https://t.co/xst19MIcAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080549474091602303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宅宅和天使们早上好w，虽然中国时间现在已经是下午3点多了，虽然今天刚醒来的时候精神状态不是很好呢，不过大家不用太担心w🥺💕，感谢@QuanHuu75694 @falrense @Qing__Yang__ 私信关心我w。刚下楼扔了垃圾顺便买了些魔爪w，沈阳今天的天气跟烤箱一样w，宅宅和天使们也要注意防暑w💀 https://t.co/xst19MIcAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@xxs0721\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 389,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1045
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T21:20:23.000Z",
+        "description": "小天使请安！今天有在发病的同时好好照顾自己吗？ 18岁｜心理跨女🏳️‍⚧️，暂时无证无糖，未来可能会做变性手术｜主要玩单机游戏｜不键政｜选择性回关，主要关注同类和同好｜精神状态不稳定会发些负能量，谨慎关注｜最好的姐姐@LoneStar6072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "LoneStar6072"
+              }
+            ]
+          }
+        },
+        "id": "2060108659385077760",
+        "name": "超绝超可爱诗雨酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 141,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "SakuraAmesaki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T05:04:37.000Z",
+        "description": "",
+        "id": "2014927088852303872",
+        "name": "承認欲求のバケモノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077805490176987136/BrUwLgL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 298,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "QuanHuu75694",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T03:38:51.000Z",
+        "description": "",
+        "id": "2079410425393999872",
+        "name": "九皋氷面鏡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079410846439272448/oJhsfqP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 65,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "falrense",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T09:10:53.000Z",
+        "description": "cn：清氧⎮MBTI：infp-a-h⎮出生日期2008/04/18⎮生理性别男⎮心理性别女⎮可以当树洞，我很乐意倾听",
+        "id": "2040718731052015616",
+        "name": "清氧🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069477618345549824/y73YgRue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 124,
+          "like_count": 1511,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "Qing__Yang__",
+        "verified": false
+      }
+    ]
+  }
+}

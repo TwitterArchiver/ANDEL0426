@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076570240264380639",
+    "created_at": "2026-07-13T07:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076573220329955655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076573220329955655",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076572677058527455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076570240264380639",
+        "created_at": "2026-07-13T07:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076573220329955655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076573220329955655",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076572677058527455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2076570240264380639",
+        "created_at": "2026-07-13T07:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076572677058527455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076572677058527455",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076570240264380639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 333,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "07/在校高中生/成分复杂/基本无雷点/可以当陪聊（什么角色都行，不收费，但是可以打赏一点😋）/可以约线下/私信只要没被X隐藏我都会回/欢迎互fo扩列/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "你心里",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2074857987387392047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070533488508391424/xUQHTPQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 352,
+          "like_count": 6189,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      }
+    ]
+  }
+}

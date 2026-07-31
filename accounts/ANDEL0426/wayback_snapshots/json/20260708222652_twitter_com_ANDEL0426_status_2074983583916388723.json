@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2074881913341497351",
+    "created_at": "2026-07-08T22:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T23:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074983583916388723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1274705321533964289",
+          "start": 0,
+          "username": "UUE17mxLabCaoDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074983583916388723",
+    "in_reply_to_user_id": "1274705321533964289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074909930201755819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UUE17mxLabCaoDe 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2074881913341497351",
+        "created_at": "2026-07-08T22:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074983583916388723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1274705321533964289",
+              "start": 0,
+              "username": "UUE17mxLabCaoDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074983583916388723",
+        "in_reply_to_user_id": "1274705321533964289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074909930201755819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UUE17mxLabCaoDe 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274705321533964289",
+        "conversation_id": "2074881913341497351",
+        "created_at": "2026-07-08T17:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074909930201755819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074909930201755819",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074881913341497351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 我去，長的好像我同學"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 261,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T14:06:54.000Z",
+        "description": "嘿",
+        "id": "1274705321533964289",
+        "name": "Sciante",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274705586173521921/ZAksf9MF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1006,
+          "like_count": 707,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "UUE17mxLabCaoDe",
+        "verified": false
+      }
+    ]
+  }
+}

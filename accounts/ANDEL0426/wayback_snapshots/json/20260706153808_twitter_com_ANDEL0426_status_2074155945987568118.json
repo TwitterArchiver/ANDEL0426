@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2074155945987568118",
+    "created_at": "2026-07-06T15:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074155945987568118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055834950017208320",
+          "start": 3,
+          "username": "xxs0721"
+        },
+        {
+          "end": 50,
+          "id": "2074146558443171840",
+          "start": 42,
+          "username": "xxs1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074155945987568118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074148354293215724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxs0721: xxs3.0因为登不上去而永久停用，现在使用xxs4.0 @xxs1966 希望这个号流量可以好一点，也麻烦大家转发一下辛苦大家了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2074155945987568118",
+        "created_at": "2026-07-06T15:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074155945987568118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055834950017208320",
+              "start": 3,
+              "username": "xxs0721"
+            },
+            {
+              "end": 50,
+              "id": "2074146558443171840",
+              "start": 42,
+              "username": "xxs1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074155945987568118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074148354293215724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxs0721: xxs3.0因为登不上去而永久停用，现在使用xxs4.0 @xxs1966 希望这个号流量可以好一点，也麻烦大家转发一下辛苦大家了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055834950017208320",
+        "conversation_id": "2074148354293215724",
+        "created_at": "2026-07-06T15:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074148354293215724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "2074146558443171840",
+              "start": 29,
+              "username": "xxs1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074148354293215724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "xxs3.0因为登不上去而永久停用，现在使用xxs4.0 @xxs1966 希望这个号流量可以好一点，也麻烦大家转发一下辛苦大家了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "何",
+        "id": "1782410129012670464",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 256,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T02:17:34.000Z",
+        "description": "小学生已迁移至小学生4.0 @xxs1966",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "xxs1966"
+              }
+            ]
+          }
+        },
+        "id": "2055834950017208320",
+        "name": "高性能小学生2.0",
+        "pinned_tweet_id": "2074148354293215724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055835266812944384/7QydfEUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 429,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "xxs0721",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T15:02:00.000Z",
+        "description": "前世\n@xxs8964 @xxs0721 @xxs1976\nlgbtq全友好\n是高性能机器人♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "xxs8964"
+              },
+              {
+                "end": 20,
+                "start": 12,
+                "username": "xxs0721"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "xxs1976"
+              }
+            ]
+          }
+        },
+        "id": "2074146558443171840",
+        "name": "✟高性能小学生4.0✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074147164511768576/yyNTch03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "xxs1966",
+        "verified": false
+      }
+    ]
+  }
+}

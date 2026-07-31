@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075916390465442052",
+    "created_at": "2026-07-11T13:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075941601235656760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012435665363800065",
+          "start": 0,
+          "username": "OxzZcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075941601235656760",
+    "in_reply_to_user_id": "2012435665363800065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075940135200526818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxzZcr 真的很可爱啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075916390465442052",
+        "created_at": "2026-07-11T13:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075941601235656760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012435665363800065",
+              "start": 0,
+              "username": "OxzZcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075941601235656760",
+        "in_reply_to_user_id": "2012435665363800065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075940135200526818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxzZcr 真的很可爱啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012435665363800065",
+        "conversation_id": "2075916390465442052",
+        "created_at": "2026-07-11T13:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075940135200526818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2075940135200526818",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075935814824194516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 有种可爱的恐怖，有点可爱又感觉会把我头咬掉的样子O_o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 321,
+          "like_count": 1134,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T08:03:58.000Z",
+        "description": "",
+        "id": "2012435665363800065",
+        "name": "星芹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012435716886695936/8MI_3bvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 40,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "OxzZcr",
+        "verified": false
+      }
+    ]
+  }
+}

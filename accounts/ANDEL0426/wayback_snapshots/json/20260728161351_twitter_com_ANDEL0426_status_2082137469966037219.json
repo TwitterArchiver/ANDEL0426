@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082137444447903744"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2082137469966037219",
+    "created_at": "2026-07-28T16:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082137469966037219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Bmi9PsczD",
+          "end": 26,
+          "expanded_url": "https://x.com/ANDEL0426/status/2082137469966037219/photo/1",
+          "media_key": "3_2082137444447903744",
+          "start": 3,
+          "url": "https://t.co/6Bmi9PsczD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082137469966037219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁吃 https://t.co/6Bmi9PsczD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2082137444447903744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU8-V3bYAAFBSF.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082137444447903744"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2082137469966037219",
+        "created_at": "2026-07-28T16:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082137469966037219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Bmi9PsczD",
+              "end": 26,
+              "expanded_url": "https://x.com/ANDEL0426/status/2082137469966037219/photo/1",
+              "media_key": "3_2082137444447903744",
+              "start": 3,
+              "url": "https://t.co/6Bmi9PsczD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082137469966037219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁吃 https://t.co/6Bmi9PsczD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信\n🚪80非墙内 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 412,
+          "like_count": 2499,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

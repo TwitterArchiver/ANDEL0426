@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076655838857666788",
+    "created_at": "2026-07-13T18:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076740163687067744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868974223332433920",
+          "start": 0,
+          "username": "ErXiao73188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076740163687067744",
+    "in_reply_to_user_id": "1868974223332433920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076726075820814429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErXiao73188 ❓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076655838857666788",
+        "created_at": "2026-07-13T18:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076740163687067744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868974223332433920",
+              "start": 0,
+              "username": "ErXiao73188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076740163687067744",
+        "in_reply_to_user_id": "1868974223332433920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076726075820814429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErXiao73188 ❓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868974223332433920",
+        "conversation_id": "2076655838857666788",
+        "created_at": "2026-07-13T17:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076726075820814429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076726075820814429",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076655838857666788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 万一大哥也爽了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 338,
+          "like_count": 1364,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T10:59:39.000Z",
+        "description": "",
+        "id": "1868974223332433920",
+        "name": "誓言难懂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923793357051998208/XxuQLoPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 34,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "ErXiao73188",
+        "verified": false
+      }
+    ]
+  }
+}

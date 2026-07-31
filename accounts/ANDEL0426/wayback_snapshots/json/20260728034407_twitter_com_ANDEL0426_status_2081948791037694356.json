@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081715551618183333",
+    "created_at": "2026-07-28T03:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081948791037694356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1657032762203807744",
+          "start": 0,
+          "username": "RuYiya520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081948791037694356",
+    "in_reply_to_user_id": "1657032762203807744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081946644598194687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuYiya520 🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-28T03:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081948791037694356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657032762203807744",
+              "start": 0,
+              "username": "RuYiya520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081948791037694356",
+        "in_reply_to_user_id": "1657032762203807744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081946644598194687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuYiya520 🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657032762203807744",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-28T03:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081946644598194687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081946644598194687",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081715551618183333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 戴眼镜好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 405,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1154
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T14:40:41.000Z",
+        "description": "cn如意！还在上高中，平时接触cos圈比较多主页偶尔会有血图🩸老师们注意‼️。平时我也挺开放的，✨如果你心情难过或者无聊都可以来找我聊天✨（直接私信就好看到会回的（除了黄色以外❌））我这个人很好相处的，请老师们多多互fo🧀，扩列直接私信我就好啦💦⭐️🌟✨💦💦💦💦💦💦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruyi520.com",
+                "end": 23,
+                "expanded_url": "http://www.ruyi520.com",
+                "start": 0,
+                "url": "https://t.co/snARxgxO6I"
+              }
+            ]
+          }
+        },
+        "id": "1657032762203807744",
+        "location": "China",
+        "name": "如 懿",
+        "pinned_tweet_id": "2069019348208083208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746586319558750208/PBrzoHKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 1049,
+          "like_count": 11016,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/snARxgxO6I",
+        "username": "RuYiya520",
+        "verified": false
+      }
+    ]
+  }
+}

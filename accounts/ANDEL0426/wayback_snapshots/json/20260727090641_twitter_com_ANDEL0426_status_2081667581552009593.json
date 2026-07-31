@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081658925989151160",
+    "created_at": "2026-07-27T09:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081667581552009593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1274705321533964289",
+          "start": 0,
+          "username": "UUE17mxLabCaoDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081667581552009593",
+    "in_reply_to_user_id": "1274705321533964289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081664642464813154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UUE17mxLabCaoDe 其实第一张那个饭中规中矩味道很普通…我更喜欢芭菲😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081658925989151160",
+        "created_at": "2026-07-27T09:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081667581552009593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1274705321533964289",
+              "start": 0,
+              "username": "UUE17mxLabCaoDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081667581552009593",
+        "in_reply_to_user_id": "1274705321533964289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081664642464813154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UUE17mxLabCaoDe 其实第一张那个饭中规中矩味道很普通…我更喜欢芭菲😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274705321533964289",
+        "conversation_id": "2081658925989151160",
+        "created_at": "2026-07-27T08:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081664642464813154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081664642464813154",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081658925989151160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 有點太爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 400,
+          "like_count": 2413,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T14:06:54.000Z",
+        "description": "嘿",
+        "id": "1274705321533964289",
+        "name": "Sciante",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274705586173521921/ZAksf9MF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1018,
+          "like_count": 721,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "UUE17mxLabCaoDe",
+        "verified": false
+      }
+    ]
+  }
+}

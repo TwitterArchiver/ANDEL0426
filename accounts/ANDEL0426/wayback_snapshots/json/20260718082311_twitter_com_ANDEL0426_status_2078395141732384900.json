@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2078146043745882393",
+    "created_at": "2026-07-18T08:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078395141732384900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1268068414309822465",
+          "start": 0,
+          "username": "amare87250114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078395141732384900",
+    "in_reply_to_user_id": "1268068414309822465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078329346352423144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amare87250114 我是小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2078146043745882393",
+        "created_at": "2026-07-18T08:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078395141732384900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1268068414309822465",
+              "start": 0,
+              "username": "amare87250114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078395141732384900",
+        "in_reply_to_user_id": "1268068414309822465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078329346352423144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amare87250114 我是小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268068414309822465",
+        "conversation_id": "2078146043745882393",
+        "created_at": "2026-07-18T04:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078329346352423144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078329346352423144",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078146043745882393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 纯粹的小孩姐，真好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间我想发啥就发啥。傻逼别来烦我",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 353,
+          "like_count": 1585,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T06:34:18.000Z",
+        "description": "没在摸鱼那就是在上班，直接性压抑到底",
+        "id": "1268068414309822465",
+        "location": "工位",
+        "name": "amare",
+        "pinned_tweet_id": "2077053170338218023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268068568228229121/VfnjJY-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 104,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "amare87250114",
+        "verified": false
+      }
+    ]
+  }
+}

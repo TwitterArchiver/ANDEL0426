@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076256287361540383",
+    "created_at": "2026-07-12T10:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076258116929532116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1268068414309822465",
+          "start": 0,
+          "username": "amare87250114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076258116929532116",
+    "in_reply_to_user_id": "1268068414309822465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076257465835102320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amare87250114 我怀疑狗急跳墙了用的语音输入 我都打不了这么快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076256287361540383",
+        "created_at": "2026-07-12T10:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076258116929532116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1268068414309822465",
+              "start": 0,
+              "username": "amare87250114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076258116929532116",
+        "in_reply_to_user_id": "1268068414309822465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076257465835102320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amare87250114 我怀疑狗急跳墙了用的语音输入 我都打不了这么快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268068414309822465",
+        "conversation_id": "2076256287361540383",
+        "created_at": "2026-07-12T10:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076257465835102320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076257465835102320",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076256287361540383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 3s，这就不是我这种82的老登能打出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 322,
+          "like_count": 1199,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T06:34:18.000Z",
+        "description": "没在摸鱼那就是在上班，直接性压抑到底",
+        "id": "1268068414309822465",
+        "location": "工位",
+        "name": "amare",
+        "pinned_tweet_id": "2076123985503502680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268068568228229121/VfnjJY-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 68,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "amare87250114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081570434324263064",
+    "created_at": "2026-07-28T02:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081925841681043889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080653912475086848",
+          "start": 0,
+          "username": "DonJaywq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081925841681043889",
+    "in_reply_to_user_id": "2080653912475086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081787057043902550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DonJaywq7 我是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081570434324263064",
+        "created_at": "2026-07-28T02:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081925841681043889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080653912475086848",
+              "start": 0,
+              "username": "DonJaywq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081925841681043889",
+        "in_reply_to_user_id": "2080653912475086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081787057043902550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonJaywq7 我是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080653912475086848",
+        "conversation_id": "2081570434324263064",
+        "created_at": "2026-07-27T17:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081787057043902550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081787057043902550",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081570434324263064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 bro你是男娘吗😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 405,
+          "like_count": 2434,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T14:00:18.000Z",
+        "description": "おやすみなさい",
+        "id": "2080653912475086848",
+        "name": "Don Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080654440877666304/vNFUT_w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 54,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "DonJaywq7",
+        "verified": false
+      }
+    ]
+  }
+}

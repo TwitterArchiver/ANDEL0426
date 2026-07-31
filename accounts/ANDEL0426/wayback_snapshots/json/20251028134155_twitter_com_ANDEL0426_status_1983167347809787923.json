@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "1983167347809787923",
+    "created_at": "2025-10-28T13:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T14:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983167347809787923"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983167347809787923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想给所有人戴丝柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "1983167347809787923",
+        "created_at": "2025-10-28T13:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983167347809787923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983167347809787923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想给所有人戴丝柔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "",
+        "id": "1782410129012670464",
+        "name": "菜🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946028602551607296/_jW_mFby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 238,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075968660154568873",
+    "created_at": "2026-07-12T00:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076098872846450752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075883827172696064",
+          "start": 0,
+          "username": "CoolAzrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076098872846450752",
+    "in_reply_to_user_id": "2075883827172696064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075970147626758636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoolAzrl 🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075968660154568873",
+        "created_at": "2026-07-12T00:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076098872846450752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075883827172696064",
+              "start": 0,
+              "username": "CoolAzrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076098872846450752",
+        "in_reply_to_user_id": "2075883827172696064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970147626758636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoolAzrl 🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075883827172696064",
+        "conversation_id": "2075968660154568873",
+        "created_at": "2026-07-11T15:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075970147626758636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075970147626758636",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075968660154568873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 555可以再发一遍了一会儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 321,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T10:04:44.000Z",
+        "description": "萌的都给五💰 虽然不多 但是真的萌！",
+        "id": "2075883827172696064",
+        "location": "京",
+        "name": "coola.",
+        "pinned_tweet_id": "2075970510303920384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075890310547435520/9zxhHQli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 25,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "CoolAzrl",
+        "verified": false
+      }
+    ]
+  }
+}

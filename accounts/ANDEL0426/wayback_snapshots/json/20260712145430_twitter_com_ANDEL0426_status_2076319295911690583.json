@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076319295911690583",
+    "created_at": "2026-07-12T14:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076319295911690583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738574376457646080",
+          "start": 3,
+          "username": "pofCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076319295911690583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076017014762598485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pofCat2: 在门姐下面扣1的 给我的感觉像是求爷爷告奶奶的终于有人教会他们翻墙了 好不容易登上了推特以为上面的女孩都可以免费操到 私信了几百个人发现只有骗子搭理他们以后走向两种结局1.破防急眼认为每个玩推特的女孩都是卖的2.学会装^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076319295911690583",
+        "created_at": "2026-07-12T14:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076319295911690583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738574376457646080",
+              "start": 3,
+              "username": "pofCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076319295911690583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076017014762598485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pofCat2: 在门姐下面扣1的 给我的感觉像是求爷爷告奶奶的终于有人教会他们翻墙了 好不容易登上了推特以为上面的女孩都可以免费操到 私信了几百个人发现只有骗子搭理他们以后走向两种结局1.破防急眼认为每个玩推特的女孩都是卖的2.学会装^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574376457646080",
+        "conversation_id": "2076017014762598485",
+        "created_at": "2026-07-11T18:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076017014762598485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076017014762598485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13141,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "在门姐下面扣1的 给我的感觉像是求爷爷告奶奶的终于有人教会他们翻墙了 好不容易登上了推特以为上面的女孩都可以免费操到 私信了几百个人发现只有骗子搭理他们以后走向两种结局1.破防急眼认为每个玩推特的女孩都是卖的2.学会装^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 325,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:00.000Z",
+        "description": "平静一些幸福一些ovo\nhttps://t.co/rUDWExzjjm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pof%20cat21",
+                "end": 35,
+                "expanded_url": "https://ngl.link/pof%20cat21",
+                "start": 12,
+                "url": "https://t.co/rUDWExzjjm"
+              }
+            ]
+          }
+        },
+        "id": "1738574376457646080",
+        "name": "泡芙",
+        "pinned_tweet_id": "2076022121730298178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425564060434432/gFxd3q7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 31,
+          "like_count": 5265,
+          "listed_count": 7,
+          "media_count": 42,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "pofCat2",
+        "verified": true
+      }
+    ]
+  }
+}

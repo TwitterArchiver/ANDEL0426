@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075858778164203520"
+      ],
+      "media_source_tweet_id": [
+        "2075858785978265889"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075938119485206823",
+    "created_at": "2026-07-11T13:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075938119485206823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040003633647902720",
+          "start": 3,
+          "username": "42_v_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QV4d99Pgh",
+          "end": 38,
+          "expanded_url": "https://x.com/42_v_/status/2075858785978265889/photo/1",
+          "media_key": "3_2075858778164203520",
+          "start": 15,
+          "url": "https://t.co/7QV4d99Pgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075938119485206823",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075858785978265889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @42_v_: ちよだ https://t.co/7QV4d99Pgh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075858778164203520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7uj3RakAAxfRZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075858778164203520"
+          ],
+          "media_source_tweet_id": [
+            "2075858785978265889"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075938119485206823",
+        "created_at": "2026-07-11T13:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075938119485206823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040003633647902720",
+              "start": 3,
+              "username": "42_v_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QV4d99Pgh",
+              "end": 38,
+              "expanded_url": "https://x.com/42_v_/status/2075858785978265889/photo/1",
+              "media_key": "3_2075858778164203520",
+              "start": 15,
+              "url": "https://t.co/7QV4d99Pgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075938119485206823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075858785978265889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @42_v_: ちよだ https://t.co/7QV4d99Pgh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075858778164203520"
+          ]
+        },
+        "author_id": "2040003633647902720",
+        "conversation_id": "2075858785978265889",
+        "created_at": "2026-07-11T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075858785978265889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QV4d99Pgh",
+              "end": 27,
+              "expanded_url": "https://x.com/42_v_/status/2075858785978265889/photo/1",
+              "media_key": "3_2075858778164203520",
+              "start": 4,
+              "url": "https://t.co/7QV4d99Pgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075858785978265889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 36111,
+          "like_count": 4169,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ちよだ https://t.co/7QV4d99Pgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 321,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T09:49:15.000Z",
+        "description": "OC, zeta, 🦆, 雑多, AI生成, FA等は #o_o42 \n自我@4n_y2\nhttps://t.co/ilGQmaCzJK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 28,
+                "tag": "o_o42"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 38,
+                "username": "4n_y2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/8m7oqmu0q…",
+                "end": 68,
+                "expanded_url": "https://wavebox.me/wave/8m7oqmu0qjfgjpso/",
+                "start": 45,
+                "url": "https://t.co/ilGQmaCzJK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeta-ai.io/@4.2?share_id=…",
+                "end": 23,
+                "expanded_url": "https://zeta-ai.io/@4.2?share_id=3mqpgzltc",
+                "start": 0,
+                "url": "https://t.co/EWkExA8BfO"
+              }
+            ]
+          }
+        },
+        "id": "2040003633647902720",
+        "name": "4.２",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073587151959453696/inE65Tim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 59,
+          "like_count": 907,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/EWkExA8BfO",
+        "username": "42_v_",
+        "verified": false
+      }
+    ]
+  }
+}

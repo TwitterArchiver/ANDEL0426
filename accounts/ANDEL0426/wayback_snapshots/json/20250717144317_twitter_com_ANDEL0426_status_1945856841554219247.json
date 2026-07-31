@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "1945856841554219247",
+    "created_at": "2025-07-17T14:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945856841554219247"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945856841554219247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不喜欢看欧美片的原因是 真的太夸张了 不管是表情、扩张程度和男女方叫声都很夸张以至于看的时候一点欲望都没有。。更多的是生理不适。(ｰ ｰ;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "1945856841554219247",
+        "created_at": "2025-07-17T14:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945856841554219247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945856841554219247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢看欧美片的原因是 真的太夸张了 不管是表情、扩张程度和男女方叫声都很夸张以至于看的时候一点欲望都没有。。更多的是生理不适。(ｰ ｰ;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理女｜心理女｜bgb无差｜s ｜嘴臭无素质 极度恐同 排斥一切跨畜 脾气差讨厌社交 废话多  约炮男滚",
+        "id": "1782410129012670464",
+        "name": "菜🥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825831123001421828/VKMxMFAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 208,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

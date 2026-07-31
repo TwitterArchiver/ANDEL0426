@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081606637023011125",
+    "created_at": "2026-07-27T06:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081626611628245118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1951299125959598081",
+          "start": 0,
+          "username": "adccaac"
+        },
+        {
+          "end": 17,
+          "id": "1612280433064185859",
+          "start": 9,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081626611628245118",
+    "in_reply_to_user_id": "1951299125959598081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081625217227706385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adccaac @c2F4F4F 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081606637023011125",
+        "created_at": "2026-07-27T06:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081626611628245118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1951299125959598081",
+              "start": 0,
+              "username": "adccaac"
+            },
+            {
+              "end": 17,
+              "id": "1612280433064185859",
+              "start": 9,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081626611628245118",
+        "in_reply_to_user_id": "1951299125959598081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081625217227706385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adccaac @c2F4F4F 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951299125959598081",
+        "conversation_id": "2081606637023011125",
+        "created_at": "2026-07-27T06:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081625217227706385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            },
+            {
+              "end": 19,
+              "id": "1612280433064185859",
+              "start": 11,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081625217227706385",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081622964345430300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 @c2F4F4F 我现在怀疑你这是精神科，要不然上哪找这么多人格分裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 397,
+          "like_count": 2395,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1118
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T15:09:16.000Z",
+        "description": "我们必须认定西西弗斯是幸福的，否则我们永远无法逃离低智的虚无陷阱。",
+        "id": "1951299125959598081",
+        "location": "Turin, Piedmont",
+        "name": "席罗科的来信",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077177934989975552/dx1jxTdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 45,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "adccaac",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |望厨",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2081508605111763013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 483,
+          "like_count": 9946,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

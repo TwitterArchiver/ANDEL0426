@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2078146043745882393",
+    "created_at": "2026-07-18T14:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078490948234027091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034654026286129152",
+          "start": 0,
+          "username": "ShuijuanQ4622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078490948234027091",
+    "in_reply_to_user_id": "2034654026286129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078485586940239985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuijuanQ4622 我不知道为什么有人会喜欢一头猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2078146043745882393",
+        "created_at": "2026-07-18T14:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078490948234027091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034654026286129152",
+              "start": 0,
+              "username": "ShuijuanQ4622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078490948234027091",
+        "in_reply_to_user_id": "2034654026286129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078485586940239985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuijuanQ4622 我不知道为什么有人会喜欢一头猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034654026286129152",
+        "conversation_id": "2078146043745882393",
+        "created_at": "2026-07-18T14:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078485586940239985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078485586940239985",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078146043745882393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 你为什么这么有魅力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间我想发啥就发啥。傻逼别来烦我",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 354,
+          "like_count": 1591,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T15:32:04.000Z",
+        "description": "",
+        "id": "2034654026286129152",
+        "name": "Shuijuan Qi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035655566778048512/h-jv8tkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "ShuijuanQ4622",
+        "verified": false
+      }
+    ]
+  }
+}

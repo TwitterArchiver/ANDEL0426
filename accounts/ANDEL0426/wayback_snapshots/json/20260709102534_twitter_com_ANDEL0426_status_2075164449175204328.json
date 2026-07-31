@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2074866789956354144",
+    "created_at": "2026-07-09T10:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075164449175204328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075164449175204328",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075149583576100954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n 多吓人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2074866789956354144",
+        "created_at": "2026-07-09T10:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075164449175204328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075164449175204328",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075149583576100954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n 多吓人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746818545630195713",
+        "conversation_id": "2074866789956354144",
+        "created_at": "2026-07-09T09:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075149583576100954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075149583576100954",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074866789956354144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 多吓人呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 265,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "你能看到的也只有腐烂的过程\n⚠️智力有问题/精分/双相/ODER/自残/烟鬼/酗酒/Brat/A股知名韭菜/玻璃心/欢迎私信/熟悉之后可以加墙内联系方式/请称呼我文文or小卡\n如果能忍受我不定期发疯可以和我交朋友\n别骂我别骂我别骂我，我要是说错话请直接告诉我\n这里是我的垃圾桶，如果有冒犯到你我很抱歉",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "pinned_tweet_id": "2074724758898594149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 203,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "Anxious_K1n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076163213318823936",
+        "3_2076163209128742912",
+        "3_2076163209275510785",
+        "3_2076163215625723904"
+      ],
+      "media_source_tweet_id": [
+        "2076163218507227234",
+        "2076163218507227234",
+        "2076163218507227234",
+        "2076163218507227234"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2076232235410481189",
+    "created_at": "2026-07-12T09:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076232235410481189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1423125326847119363",
+          "start": 3,
+          "username": "xxs198964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4YJjmVe377",
+          "end": 101,
+          "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+          "media_key": "3_2076163213318823936",
+          "start": 78,
+          "url": "https://t.co/4YJjmVe377"
+        },
+        {
+          "display_url": "pic.x.com/4YJjmVe377",
+          "end": 101,
+          "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+          "media_key": "3_2076163209128742912",
+          "start": 78,
+          "url": "https://t.co/4YJjmVe377"
+        },
+        {
+          "display_url": "pic.x.com/4YJjmVe377",
+          "end": 101,
+          "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+          "media_key": "3_2076163209275510785",
+          "start": 78,
+          "url": "https://t.co/4YJjmVe377"
+        },
+        {
+          "display_url": "pic.x.com/4YJjmVe377",
+          "end": 101,
+          "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+          "media_key": "3_2076163215625723904",
+          "start": 78,
+          "url": "https://t.co/4YJjmVe377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076232235410481189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076163218507227234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxs198964: 终于！这个号没有ghostban！\n这里是高性能小学生\n08友跨\n喜欢打舞萌和怪猎，最近在推p4g！\n欢迎大家来互fo ww https://t.co/4YJjmVe377"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076163213318823936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNADcUmaIAAVxCL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 720,
+        "media_key": "3_2076163209128742912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNADcE_akAAe06p.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076163209275510785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNADcFiaEAE4lew.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076163215625723904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNADcdMaoAAOhS7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076163213318823936",
+            "3_2076163209128742912",
+            "3_2076163209275510785",
+            "3_2076163215625723904"
+          ],
+          "media_source_tweet_id": [
+            "2076163218507227234",
+            "2076163218507227234",
+            "2076163218507227234",
+            "2076163218507227234"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2076232235410481189",
+        "created_at": "2026-07-12T09:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076232235410481189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1423125326847119363",
+              "start": 3,
+              "username": "xxs198964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 101,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163213318823936",
+              "start": 78,
+              "url": "https://t.co/4YJjmVe377"
+            },
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 101,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163209128742912",
+              "start": 78,
+              "url": "https://t.co/4YJjmVe377"
+            },
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 101,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163209275510785",
+              "start": 78,
+              "url": "https://t.co/4YJjmVe377"
+            },
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 101,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163215625723904",
+              "start": 78,
+              "url": "https://t.co/4YJjmVe377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076232235410481189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076163218507227234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxs198964: 终于！这个号没有ghostban！\n这里是高性能小学生\n08友跨\n喜欢打舞萌和怪猎，最近在推p4g！\n欢迎大家来互fo ww https://t.co/4YJjmVe377"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076163213318823936",
+            "3_2076163209128742912",
+            "3_2076163209275510785",
+            "3_2076163215625723904"
+          ]
+        },
+        "author_id": "1423125326847119363",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2076163218507227234",
+        "created_at": "2026-07-12T04:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076163218507227234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 86,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163213318823936",
+              "start": 63,
+              "url": "https://t.co/4YJjmVe377"
+            },
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 86,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163209128742912",
+              "start": 63,
+              "url": "https://t.co/4YJjmVe377"
+            },
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 86,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163209275510785",
+              "start": 63,
+              "url": "https://t.co/4YJjmVe377"
+            },
+            {
+              "display_url": "pic.x.com/4YJjmVe377",
+              "end": 86,
+              "expanded_url": "https://x.com/xxs198964/status/2076163218507227234/photo/1",
+              "media_key": "3_2076163215625723904",
+              "start": 63,
+              "url": "https://t.co/4YJjmVe377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076163218507227234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于！这个号没有ghostban！\n这里是高性能小学生\n08友跨\n喜欢打舞萌和怪猎，最近在推p4g！\n欢迎大家来互fo ww https://t.co/4YJjmVe377"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 322,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T03:35:01.000Z",
+        "description": "前世@xxs8964 @xxs0721 @xxs1976\n08友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "xxs8964"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "xxs0721"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "username": "xxs1976"
+              }
+            ]
+          }
+        },
+        "id": "1423125326847119363",
+        "name": "高性能小学生5.0",
+        "pinned_tweet_id": "2075946650842153220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075946257403781120/P-Nssl8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 63,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "xxs198964",
+        "verified": false
+      }
+    ]
+  }
+}

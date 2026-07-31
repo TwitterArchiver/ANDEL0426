@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2079850898352943393",
+    "created_at": "2026-07-22T12:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079906551276667117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060108659385077760",
+          "start": 0,
+          "username": "SakuraAmesaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079906551276667117",
+    "in_reply_to_user_id": "2060108659385077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079891131878568316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraAmesaki 超恶心的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079850898352943393",
+        "created_at": "2026-07-22T12:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079906551276667117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060108659385077760",
+              "start": 0,
+              "username": "SakuraAmesaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079906551276667117",
+        "in_reply_to_user_id": "2060108659385077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079891131878568316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraAmesaki 超恶心的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060108659385077760",
+        "conversation_id": "2079850898352943393",
+        "created_at": "2026-07-22T11:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079891131878568316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079891131878568316",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079850898352943393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 真是恶心的w～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 非好友不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 374,
+          "like_count": 1905,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T21:20:23.000Z",
+        "description": "小天使请安！今天有在发病的同时好好照顾自己吗？ 18岁｜心理跨女🏳️‍⚧️，暂时无证无糖，未来可能会做变性手术｜主要玩单机游戏｜不键政｜选择性回关，主要关注同类和同好｜精神状态不稳定会发些负能量，谨慎关注｜最好的姐姐@LoneStar6072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "LoneStar6072"
+              }
+            ]
+          }
+        },
+        "id": "2060108659385077760",
+        "name": "超绝超可爱诗雨酱",
+        "pinned_tweet_id": "2079780752779272691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 121,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "SakuraAmesaki",
+        "verified": false
+      }
+    ]
+  }
+}

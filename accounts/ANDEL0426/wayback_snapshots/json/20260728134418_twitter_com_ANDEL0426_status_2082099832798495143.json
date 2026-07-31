@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2082056173017325850",
+    "created_at": "2026-07-28T13:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082099832798495143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1267260522270912514",
+          "start": 0,
+          "username": "Th1rty5even"
+        },
+        {
+          "end": 22,
+          "id": "1883207896768651264",
+          "start": 13,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082099832798495143",
+    "in_reply_to_user_id": "1267260522270912514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082098534292312247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Th1rty5even @clem0216 我还是塑料袋呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2082056173017325850",
+        "created_at": "2026-07-28T13:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082099832798495143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1267260522270912514",
+              "start": 0,
+              "username": "Th1rty5even"
+            },
+            {
+              "end": 22,
+              "id": "1883207896768651264",
+              "start": 13,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082099832798495143",
+        "in_reply_to_user_id": "1267260522270912514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082098534292312247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Th1rty5even @clem0216 我还是塑料袋呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267260522270912514",
+        "conversation_id": "2082056173017325850",
+        "created_at": "2026-07-28T13:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082098534292312247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            },
+            {
+              "end": 20,
+              "id": "1883207896768651264",
+              "start": 11,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082098534292312247",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082088248520966272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 @clem0216 你又是南梁了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信\n🚪80非墙内 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 411,
+          "like_count": 2479,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T01:04:17.000Z",
+        "description": "ISTJ｜我真的很欣赏白色连裤袜｜B和牛一定要没毛才好看｜喜欢女生｜🔞",
+        "id": "1267260522270912514",
+        "location": "异世界",
+        "name": "三十七筒",
+        "pinned_tweet_id": "2019847412811272268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010405523540348928/E3yy3Jk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1136,
+          "like_count": 5670,
+          "listed_count": 9,
+          "media_count": 153,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "Th1rty5even",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 600,
+          "like_count": 12426,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

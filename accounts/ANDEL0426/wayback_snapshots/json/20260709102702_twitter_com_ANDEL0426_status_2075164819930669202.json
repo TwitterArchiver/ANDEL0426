@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075164795767308288",
+        "3_2075164795716907008"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075164819930669202",
+    "created_at": "2026-07-09T10:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075164819930669202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSXCuW6YKs",
+          "end": 28,
+          "expanded_url": "https://x.com/ANDEL0426/status/2075164819930669202/photo/1",
+          "media_key": "3_2075164795767308288",
+          "start": 5,
+          "url": "https://t.co/sSXCuW6YKs"
+        },
+        {
+          "display_url": "pic.x.com/sSXCuW6YKs",
+          "end": 28,
+          "expanded_url": "https://x.com/ANDEL0426/status/2075164819930669202/photo/1",
+          "media_key": "3_2075164795716907008",
+          "start": 5,
+          "url": "https://t.co/sSXCuW6YKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075164819930669202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "颜悦宝宝 https://t.co/sSXCuW6YKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075164795767308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx3YxYbQAAzjuB.jpg",
+        "width": 946
+      },
+      {
+        "height": 1154,
+        "media_key": "3_2075164795716907008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx3YxMaMAAXFX0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075164795767308288",
+            "3_2075164795716907008"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075164819930669202",
+        "created_at": "2026-07-09T10:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075164819930669202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSXCuW6YKs",
+              "end": 28,
+              "expanded_url": "https://x.com/ANDEL0426/status/2075164819930669202/photo/1",
+              "media_key": "3_2075164795767308288",
+              "start": 5,
+              "url": "https://t.co/sSXCuW6YKs"
+            },
+            {
+              "display_url": "pic.x.com/sSXCuW6YKs",
+              "end": 28,
+              "expanded_url": "https://x.com/ANDEL0426/status/2075164819930669202/photo/1",
+              "media_key": "3_2075164795716907008",
+              "start": 5,
+              "url": "https://t.co/sSXCuW6YKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075164819930669202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "颜悦宝宝 https://t.co/sSXCuW6YKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 265,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

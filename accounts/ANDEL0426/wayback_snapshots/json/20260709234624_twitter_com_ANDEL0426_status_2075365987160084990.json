@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075212709432541184"
+      ],
+      "media_source_tweet_id": [
+        "2075212716307058888"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2075365987160084990",
+    "created_at": "2026-07-09T23:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075365987160084990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1784533634747346944",
+          "start": 3,
+          "username": "104chamm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9s4dYQETd",
+          "end": 55,
+          "expanded_url": "https://x.com/104chamm/status/2075212716307058888/photo/1",
+          "media_key": "3_2075212709432541184",
+          "start": 32,
+          "url": "https://t.co/g9s4dYQETd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075365987160084990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075212716307058888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @104chamm: ⚠︎Cosplay\n内緒、ですよ？ https://t.co/g9s4dYQETd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2075212709432541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyi9tsaQAAS8D9.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075212709432541184"
+          ],
+          "media_source_tweet_id": [
+            "2075212716307058888"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2075365987160084990",
+        "created_at": "2026-07-09T23:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075365987160084990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1784533634747346944",
+              "start": 3,
+              "username": "104chamm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9s4dYQETd",
+              "end": 55,
+              "expanded_url": "https://x.com/104chamm/status/2075212716307058888/photo/1",
+              "media_key": "3_2075212709432541184",
+              "start": 32,
+              "url": "https://t.co/g9s4dYQETd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075365987160084990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075212716307058888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @104chamm: ⚠︎Cosplay\n内緒、ですよ？ https://t.co/g9s4dYQETd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075212709432541184"
+          ]
+        },
+        "author_id": "1784533634747346944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2075212716307058888",
+        "created_at": "2026-07-09T13:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075212716307058888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9s4dYQETd",
+              "end": 41,
+              "expanded_url": "https://x.com/104chamm/status/2075212716307058888/photo/1",
+              "media_key": "3_2075212709432541184",
+              "start": 18,
+              "url": "https://t.co/g9s4dYQETd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075212716307058888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 3910,
+          "like_count": 601,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "⚠︎Cosplay\n内緒、ですよ？ https://t.co/g9s4dYQETd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 277,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T10:42:40.000Z",
+        "description": "20↑姫子くんです。画像の無断使用、AI学習禁止❌東方メインで好きな時に好きなキャラのコスをします。画面の中にしか存在しないので注意⚠️ サブ→@himegorou_44",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "himegorou_44"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/t/ZSML5LvQW/",
+                "end": 23,
+                "expanded_url": "https://tiktok.com/t/ZSML5LvQW/",
+                "start": 0,
+                "url": "https://t.co/qbbLZqby4Q"
+              }
+            ]
+          }
+        },
+        "id": "1784533634747346944",
+        "name": "天羽ひめ🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000218573831331840/kgw5tetG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 285,
+          "like_count": 9235,
+          "listed_count": 22,
+          "media_count": 476,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/qbbLZqby4Q",
+        "username": "104chamm",
+        "verified": false
+      }
+    ]
+  }
+}

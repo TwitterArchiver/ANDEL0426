@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2077018672905015367",
+    "created_at": "2026-07-14T14:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077036767560204712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075106241966444544",
+          "start": 0,
+          "username": "scalar9910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077036767560204712",
+    "in_reply_to_user_id": "2075106241966444544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077032617564864698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scalar9910 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2077018672905015367",
+        "created_at": "2026-07-14T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077036767560204712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075106241966444544",
+              "start": 0,
+              "username": "scalar9910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077036767560204712",
+        "in_reply_to_user_id": "2075106241966444544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077032617564864698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scalar9910 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075106241966444544",
+        "conversation_id": "2077018672905015367",
+        "created_at": "2026-07-14T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077032617564864698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077032617564864698",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077018672905015367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 小学生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 342,
+          "like_count": 1421,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T06:35:45.000Z",
+        "description": "我他妈上去就是一个一夜暴富财源广进逢考必过",
+        "id": "2075106241966444544",
+        "location": "罗德岛",
+        "name": "scalar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075116749327151104/OdXdaNYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 58,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "scalar9910",
+        "verified": false
+      }
+    ]
+  }
+}

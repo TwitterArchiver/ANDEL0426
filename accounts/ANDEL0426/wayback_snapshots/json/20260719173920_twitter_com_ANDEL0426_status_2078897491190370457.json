@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2078871287867597114",
+    "created_at": "2026-07-19T17:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078897491190370457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467659180228055042",
+          "start": 0,
+          "username": "zifan0204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078897491190370457",
+    "in_reply_to_user_id": "1467659180228055042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078897097445978334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifan0204 居然是长发男我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2078897090793783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm5471bQAAA-eR.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2078871287867597114",
+        "created_at": "2026-07-19T17:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078897491190370457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467659180228055042",
+              "start": 0,
+              "username": "zifan0204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078897491190370457",
+        "in_reply_to_user_id": "1467659180228055042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078897097445978334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifan0204 居然是长发男我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078897090793783296"
+          ]
+        },
+        "author_id": "1467659180228055042",
+        "conversation_id": "2078871287867597114",
+        "created_at": "2026-07-19T17:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078897097445978334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGEhL5C56h",
+              "end": 46,
+              "expanded_url": "https://x.com/zifan0204/status/2078897097445978334/photo/1",
+              "media_key": "3_2078897090793783296",
+              "start": 23,
+              "url": "https://t.co/SGEhL5C56h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078897097445978334",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078871287867597114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 互fo吗请你抽有力气的 https://t.co/SGEhL5C56h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 365,
+          "like_count": 1618,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-06T00:56:47.000Z",
+        "description": "01 187cm 70kg 欢迎私信骚扰～🫡",
+        "id": "1467659180228055042",
+        "location": "徐州",
+        "name": "茄汁イワシ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078555331731304448/27kAqXiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "zifan0204",
+        "verified": false
+      }
+    ]
+  }
+}

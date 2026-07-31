@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081332877737037885",
+    "created_at": "2026-07-26T13:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081368351469936931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002873553792966658",
+          "start": 0,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081368351469936931",
+    "in_reply_to_user_id": "2002873553792966658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081366768623476891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenophile080 好激动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081332877737037885",
+        "created_at": "2026-07-26T13:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081368351469936931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002873553792966658",
+              "start": 0,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081368351469936931",
+        "in_reply_to_user_id": "2002873553792966658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081366768623476891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenophile080 好激动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002873553792966658",
+        "conversation_id": "2081332877737037885",
+        "created_at": "2026-07-26T13:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081366768623476891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081366768623476891",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081332877737037885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 要见烟王了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@xxs0721\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 393,
+          "like_count": 2334,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1098
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "HRT自2024.8.4\n我连自己都能骗得过去，何况别人？当我的骗术炉火纯青，谁又能分辨我是雌是雄。\n\n大多好物不坚牢，彩云易散琉璃脆。\n心水：@FrostyStrings",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "辛西娅🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079675781622739346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076592113878441985/fklIDCLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 171,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

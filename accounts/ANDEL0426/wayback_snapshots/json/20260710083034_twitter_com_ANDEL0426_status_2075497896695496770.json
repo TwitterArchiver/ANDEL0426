@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074828862878560256"
+      ],
+      "media_source_tweet_id": [
+        "2074828872152236438"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075497896695496770",
+    "created_at": "2026-07-10T08:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075497896695496770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1625241863631536129",
+          "start": 3,
+          "username": "sketchbook1321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M3pHtTTx9k",
+          "end": 56,
+          "expanded_url": "https://x.com/sketchbook1321/status/2074828872152236438/photo/1",
+          "media_key": "3_2074828862878560256",
+          "start": 33,
+          "url": "https://t.co/M3pHtTTx9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075497896695496770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 714
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074828872152236438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sketchbook1321: 眼鏡男子好きな人に刺され https://t.co/M3pHtTTx9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2198,
+        "media_key": "3_2074828862878560256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtF252asAATSTd.jpg",
+        "width": 2588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074828862878560256"
+          ],
+          "media_source_tweet_id": [
+            "2074828872152236438"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075497896695496770",
+        "created_at": "2026-07-10T08:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075497896695496770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1625241863631536129",
+              "start": 3,
+              "username": "sketchbook1321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3pHtTTx9k",
+              "end": 56,
+              "expanded_url": "https://x.com/sketchbook1321/status/2074828872152236438/photo/1",
+              "media_key": "3_2074828862878560256",
+              "start": 33,
+              "url": "https://t.co/M3pHtTTx9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075497896695496770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 714
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074828872152236438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sketchbook1321: 眼鏡男子好きな人に刺され https://t.co/M3pHtTTx9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074828862878560256"
+          ]
+        },
+        "author_id": "1625241863631536129",
+        "conversation_id": "2074828872152236438",
+        "created_at": "2026-07-08T12:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074828872152236438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3pHtTTx9k",
+              "end": 36,
+              "expanded_url": "https://x.com/sketchbook1321/status/2074828872152236438/photo/1",
+              "media_key": "3_2074828862878560256",
+              "start": 13,
+              "url": "https://t.co/M3pHtTTx9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074828872152236438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 898,
+          "impression_count": 274298,
+          "like_count": 16326,
+          "quote_count": 253,
+          "reply_count": 0,
+          "retweet_count": 714
+        },
+        "reply_settings": "following",
+        "text": "眼鏡男子好きな人に刺され https://t.co/M3pHtTTx9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪16 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 290,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T21:14:00.000Z",
+        "description": "気になる人にいいねしてる、猫を送りつけてくれたら喜ぶ\n🗝️ @Cuo1ga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 30,
+                "username": "Cuo1ga"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ajddden?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ajddden?igsh=MXYzdngyNWR2ZGIweQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/GqdfaZ5xQP"
+              }
+            ]
+          }
+        },
+        "id": "1625241863631536129",
+        "location": "神奈川",
+        "name": "チョコ",
+        "pinned_tweet_id": "2073020507285487865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859885830753701888/jbBld-ZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23154,
+          "following_count": 538,
+          "like_count": 40228,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 29439
+        },
+        "url": "https://t.co/GqdfaZ5xQP",
+        "username": "sketchbook1321",
+        "verified": false
+      }
+    ]
+  }
+}

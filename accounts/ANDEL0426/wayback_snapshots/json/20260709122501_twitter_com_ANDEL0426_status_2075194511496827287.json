@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075194511496827287",
+    "created_at": "2026-07-09T12:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075194511496827287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b0yl0ser/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/b0yl0ser/status/2074875362132021293",
+          "start": 5,
+          "url": "https://t.co/E6lTmdEj1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075194511496827287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074875362132021293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理想型。 https://t.co/E6lTmdEj1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2074875359170850816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtwJWCW8AAPAnK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075194511496827287",
+        "created_at": "2026-07-09T12:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075194511496827287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b0yl0ser/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/b0yl0ser/status/2074875362132021293",
+              "start": 5,
+              "url": "https://t.co/E6lTmdEj1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194511496827287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074875362132021293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理想型。 https://t.co/E6lTmdEj1q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074875359170850816"
+          ]
+        },
+        "author_id": "1856612497941245952",
+        "conversation_id": "2074875362132021293",
+        "created_at": "2026-07-08T15:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074875362132021293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnHcvkjjDm",
+              "end": 23,
+              "expanded_url": "https://x.com/b0yl0ser/status/2074875362132021293/photo/1",
+              "media_key": "3_2074875359170850816",
+              "start": 0,
+              "url": "https://t.co/vnHcvkjjDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074875362132021293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2385,
+          "impression_count": 299616,
+          "like_count": 24101,
+          "quote_count": 147,
+          "reply_count": 86,
+          "retweet_count": 1269
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vnHcvkjjDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 269,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T08:18:22.000Z",
+        "description": "hello world i am 15 minutes old",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/b0yl0ser",
+                "end": 23,
+                "expanded_url": "http://instagram.com/b0yl0ser",
+                "start": 0,
+                "url": "https://t.co/cnsg7ReiGQ"
+              }
+            ]
+          }
+        },
+        "id": "1856612497941245952",
+        "name": "ren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973077988867543040/wYsbC7yX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28851,
+          "following_count": 96,
+          "like_count": 2830,
+          "listed_count": 31,
+          "media_count": 203,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/cnsg7ReiGQ",
+        "username": "b0yl0ser",
+        "verified": false
+      }
+    ]
+  }
+}

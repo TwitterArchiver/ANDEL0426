@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2078042195102421412",
+    "created_at": "2026-07-17T12:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078098727831814300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620861801138372608",
+          "start": 0,
+          "username": "samardotoy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078098727831814300",
+    "in_reply_to_user_id": "1620861801138372608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078071832742404546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samardotoy_ 可能是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2078042195102421412",
+        "created_at": "2026-07-17T12:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078098727831814300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620861801138372608",
+              "start": 0,
+              "username": "samardotoy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078098727831814300",
+        "in_reply_to_user_id": "1620861801138372608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078071832742404546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samardotoy_ 可能是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620861801138372608",
+        "conversation_id": "2078042195102421412",
+        "created_at": "2026-07-17T10:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078071832742404546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078071832742404546",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078042195102421412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 是不是发图图比较容易被推流🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 342,
+          "like_count": 1519,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T19:11:29.000Z",
+        "description": "Rythm Games / HBR / Practice makes Perfect / 不可以色色！但是喜欢看可爱的男孩子和飒飒的女孩子❤️",
+        "id": "1620861801138372608",
+        "location": "上海, 中华人民共和国",
+        "name": "Samardo@今日情話",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621204092663246849/Ew6zN5ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 63,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "samardotoy_",
+        "verified": false
+      }
+    ]
+  }
+}

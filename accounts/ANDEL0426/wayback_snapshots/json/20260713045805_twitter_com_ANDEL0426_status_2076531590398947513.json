@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076358358580535560",
+    "created_at": "2026-07-13T04:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076531590398947513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076531590398947513",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076482567344410920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 谢谢喵w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076358358580535560",
+        "created_at": "2026-07-13T04:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076531590398947513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076531590398947513",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076482567344410920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 谢谢喵w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "2076358358580535560",
+        "created_at": "2026-07-13T01:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076482567344410920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076482567344410920",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076358358580535560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 好萌好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 332,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\nmaster @yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "yekatinez"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2073754389542830144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1516,
+          "like_count": 122432,
+          "listed_count": 8,
+          "media_count": 2146,
+          "tweet_count": 20317
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

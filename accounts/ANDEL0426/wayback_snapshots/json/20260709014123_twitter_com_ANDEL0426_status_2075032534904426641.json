@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2074881913341497351",
+    "created_at": "2026-07-09T01:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075032534904426641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784185682442780672",
+          "start": 0,
+          "username": "teng66351946709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075032534904426641",
+    "in_reply_to_user_id": "1784185682442780672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075024152059412807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teng66351946709 幼儿园"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2074881913341497351",
+        "created_at": "2026-07-09T01:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075032534904426641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784185682442780672",
+              "start": 0,
+              "username": "teng66351946709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075032534904426641",
+        "in_reply_to_user_id": "1784185682442780672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075024152059412807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teng66351946709 幼儿园"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784185682442780672",
+        "conversation_id": "2074881913341497351",
+        "created_at": "2026-07-09T01:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075024152059412807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075024152059412807",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074881913341497351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 六年级？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 261,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T11:39:59.000Z",
+        "description": "因缘聚，缘尽离。",
+        "id": "1784185682442780672",
+        "location": "钢铁丛林",
+        "name": "奥利奥树莓蓝莓吃到食物中毒",
+        "pinned_tweet_id": "1833157367124386161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067699293239341056/tXlePRRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "teng66351946709",
+        "verified": false
+      }
+    ]
+  }
+}

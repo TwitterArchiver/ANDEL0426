@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076667346589245892",
+    "created_at": "2026-07-13T15:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076686859615519218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902888249653334016",
+          "start": 0,
+          "username": "Misak1Kusanagi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076686859615519218",
+    "in_reply_to_user_id": "1902888249653334016",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076679247981351035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misak1Kusanagi1 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076679244999200770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHYxUaakAItwns.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076679244906930176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHYxUEaoAAC64W.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076667346589245892",
+        "created_at": "2026-07-13T15:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076686859615519218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902888249653334016",
+              "start": 0,
+              "username": "Misak1Kusanagi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076686859615519218",
+        "in_reply_to_user_id": "1902888249653334016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076679247981351035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misak1Kusanagi1 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076679244999200770",
+            "3_2076679244906930176"
+          ]
+        },
+        "author_id": "1902888249653334016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076667346589245892",
+        "created_at": "2026-07-13T14:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076679247981351035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MfOIPazQw",
+              "end": 40,
+              "expanded_url": "https://x.com/Misak1Kusanagi1/status/2076679247981351035/photo/1",
+              "media_key": "3_2076679244999200770",
+              "start": 17,
+              "url": "https://t.co/9MfOIPazQw"
+            },
+            {
+              "display_url": "pic.x.com/9MfOIPazQw",
+              "end": 40,
+              "expanded_url": "https://x.com/Misak1Kusanagi1/status/2076679247981351035/photo/1",
+              "media_key": "3_2076679244906930176",
+              "start": 17,
+              "url": "https://t.co/9MfOIPazQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076679247981351035",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076667346589245892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 前任。。。 https://t.co/9MfOIPazQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 335,
+          "like_count": 1344,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:02:03.000Z",
+        "description": "这里是pomelo 可以叫我柚子/♂/负能/欢迎扩/4i/重郁重焦/08高三/mai舟崩什么的都沾一点",
+        "id": "1902888249653334016",
+        "name": "pomelo",
+        "pinned_tweet_id": "2070945673294598445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587225020301312/9qykg60z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 318,
+          "like_count": 3406,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "Misak1Kusanagi1",
+        "verified": false
+      }
+    ]
+  }
+}

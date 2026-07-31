@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2073816610364620836",
+    "created_at": "2026-07-06T11:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074092241162039781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976313339224653828",
+          "start": 0,
+          "username": "Naiv46528_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074092241162039781",
+    "in_reply_to_user_id": "1976313339224653828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073816610364620836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiv46528_ 好想摸摸呀但是注意身体宝宝！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1996,
+        "media_key": "3_2073816599216209920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMetNZ2XQAAs-8d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2073816610364620836",
+        "created_at": "2026-07-06T11:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074092241162039781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976313339224653828",
+              "start": 0,
+              "username": "Naiv46528_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074092241162039781",
+        "in_reply_to_user_id": "1976313339224653828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073816610364620836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiv46528_ 好想摸摸呀但是注意身体宝宝！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073816599216209920"
+          ]
+        },
+        "author_id": "1976313339224653828",
+        "conversation_id": "2073816610364620836",
+        "created_at": "2026-07-05T17:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073816610364620836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhHYuaEIf9",
+              "end": 35,
+              "expanded_url": "https://x.com/Naiv46528_/status/2073816610364620836/photo/1",
+              "media_key": "3_2073816599216209920",
+              "start": 12,
+              "url": "https://t.co/JhHYuaEIf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073816610364620836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一张一张发喜欢看的爽了 https://t.co/JhHYuaEIf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "何",
+        "id": "1782410129012670464",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 255,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T15:46:43.000Z",
+        "description": "✧･ﾟ˚ 🐬 💧 ˚｡ ❄️ ｡･\n我是蓝，除中文外皆为机翻，\n请多关照.\n✧･ﾟ˚ 🐬 💧 ˚｡ ❄️ ｡･",
+        "id": "1976313339224653828",
+        "name": "𓏸𓈒 🫧⁺ ₊ ๑ ⁺ 嗳寺藍⋆ ☁️🩵☁️ ⋆",
+        "pinned_tweet_id": "2071971546604748906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071965593180295168/1S4gwjyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 199,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "Naiv46528_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076980374287401258",
+    "created_at": "2026-07-14T13:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077028419557282155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1615302435794481156",
+          "start": 0,
+          "username": "xxx1143304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077028419557282155",
+    "in_reply_to_user_id": "1615302435794481156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076998118386913305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx1143304 不行太恶心了太臭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076980374287401258",
+        "created_at": "2026-07-14T13:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077028419557282155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1615302435794481156",
+              "start": 0,
+              "username": "xxx1143304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077028419557282155",
+        "in_reply_to_user_id": "1615302435794481156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076998118386913305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx1143304 不行太恶心了太臭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615302435794481156",
+        "conversation_id": "2076980374287401258",
+        "created_at": "2026-07-14T11:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076998118386913305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076998118386913305",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076980374287401258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 我看出来烟是真卖不动了😮‍💨，很难想象烟和香芋冰淇淋联系到一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 342,
+          "like_count": 1420,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T10:58:20.000Z",
+        "description": "",
+        "id": "1615302435794481156",
+        "location": "Taiwan",
+        "name": "再多一点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622925268217364480/O2cLkftM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 44,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "xxx1143304",
+        "verified": false
+      }
+    ]
+  }
+}

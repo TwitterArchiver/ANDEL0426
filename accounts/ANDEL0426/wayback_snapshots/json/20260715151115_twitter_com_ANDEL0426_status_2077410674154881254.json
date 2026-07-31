@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076958963388874752"
+      ],
+      "media_source_tweet_id": [
+        "2076959043126796289"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2077410674154881254",
+    "created_at": "2026-07-15T15:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077410674154881254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "771194591550713857",
+          "start": 3,
+          "username": "Green_Kohgen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DY0NaNkrhU",
+          "end": 47,
+          "expanded_url": "https://x.com/Green_Kohgen/status/2076959043126796289/photo/1",
+          "media_key": "3_2076958963388874752",
+          "start": 24,
+          "url": "https://t.co/DY0NaNkrhU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077410674154881254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3028
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076959043126796289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Green_Kohgen: 十六夜咲夜 https://t.co/DY0NaNkrhU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2141,
+        "media_key": "3_2076958963388874752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLXLEnbgAAvlPo.jpg",
+        "width": 1579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076958963388874752"
+          ],
+          "media_source_tweet_id": [
+            "2076959043126796289"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2077410674154881254",
+        "created_at": "2026-07-15T15:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077410674154881254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "771194591550713857",
+              "start": 3,
+              "username": "Green_Kohgen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DY0NaNkrhU",
+              "end": 47,
+              "expanded_url": "https://x.com/Green_Kohgen/status/2076959043126796289/photo/1",
+              "media_key": "3_2076958963388874752",
+              "start": 24,
+              "url": "https://t.co/DY0NaNkrhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077410674154881254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3028
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076959043126796289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Green_Kohgen: 十六夜咲夜 https://t.co/DY0NaNkrhU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076958963388874752"
+          ]
+        },
+        "author_id": "771194591550713857",
+        "conversation_id": "2076959043126796289",
+        "created_at": "2026-07-14T09:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076959043126796289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DY0NaNkrhU",
+              "end": 29,
+              "expanded_url": "https://x.com/Green_Kohgen/status/2076959043126796289/photo/1",
+              "media_key": "3_2076958963388874752",
+              "start": 6,
+              "url": "https://t.co/DY0NaNkrhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076959043126796289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5133,
+          "impression_count": 310026,
+          "like_count": 31503,
+          "quote_count": 22,
+          "reply_count": 49,
+          "retweet_count": 3028
+        },
+        "reply_settings": "everyone",
+        "text": "十六夜咲夜 https://t.co/DY0NaNkrhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 342,
+          "like_count": 1470,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T03:54:53.000Z",
+        "description": "◆お魚が好き。I like fish.🐟◆趣味でやってるので個人企業問わず絵のお仕事はお受けできません🙇‍♂️",
+        "id": "771194591550713857",
+        "location": "日本",
+        "name": "ぐりこげ🐟",
+        "pinned_tweet_id": "1950122977997029698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/876825012048494592/EYHXuses_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124526,
+          "following_count": 508,
+          "like_count": 10732,
+          "listed_count": 931,
+          "media_count": 428,
+          "tweet_count": 14905
+        },
+        "url": "",
+        "username": "Green_Kohgen",
+        "verified": false
+      }
+    ]
+  }
+}

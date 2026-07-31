@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830144063422808066"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "1830144072176054493",
+    "created_at": "2024-09-01T07:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T08:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830144072176054493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g8c6vyqjxa",
+          "end": 23,
+          "expanded_url": "https://twitter.com/ANDEL0426/status/1830144072176054493/photo/1",
+          "media_key": "3_1830144063422808066",
+          "start": 0,
+          "url": "https://t.co/G8C6VYqJxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830144072176054493",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/G8C6VYqJxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_1830144063422808066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWX6VEQbQAIEcfp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830144063422808066"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "1830144072176054493",
+        "created_at": "2024-09-01T07:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T08:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830144072176054493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8c6vyqjxa",
+              "end": 23,
+              "expanded_url": "https://twitter.com/ANDEL0426/status/1830144072176054493/photo/1",
+              "media_key": "3_1830144063422808066",
+              "start": 0,
+              "url": "https://t.co/G8C6VYqJxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830144072176054493",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G8C6VYqJxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "😐",
+        "id": "1782410129012670464",
+        "name": "Hakashi✂️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825831123001421828/VKMxMFAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 102,
+          "like_count": 222,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

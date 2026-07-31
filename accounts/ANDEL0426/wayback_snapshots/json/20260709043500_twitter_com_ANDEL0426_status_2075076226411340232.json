@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075057692683784682",
+    "created_at": "2026-07-09T04:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075076226411340232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2064961292541329408",
+          "start": 0,
+          "username": "JnwuSuu887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075076226411340232",
+    "in_reply_to_user_id": "2064961292541329408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075071161311056306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JnwuSuu887 粉丝，follow的简称"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075057692683784682",
+        "created_at": "2026-07-09T04:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075076226411340232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2064961292541329408",
+              "start": 0,
+              "username": "JnwuSuu887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075076226411340232",
+        "in_reply_to_user_id": "2064961292541329408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075071161311056306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JnwuSuu887 粉丝，follow的简称"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064961292541329408",
+        "conversation_id": "2075057692683784682",
+        "created_at": "2026-07-09T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075071161311056306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075071161311056306",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075057692683784682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 fo是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2073073589444858101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 261,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T06:42:24.000Z",
+        "description": "",
+        "id": "2064961292541329408",
+        "name": "Jnwu Suuw",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "JnwuSuu887",
+        "verified": true
+      }
+    ]
+  }
+}

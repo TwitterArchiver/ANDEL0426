@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080142940350161007",
+    "created_at": "2026-07-23T10:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080239216194421086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046587414161018880",
+          "start": 0,
+          "username": "Liddy_huiii"
+        },
+        {
+          "end": 25,
+          "id": "1996918310349557762",
+          "start": 13,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080239216194421086",
+    "in_reply_to_user_id": "2046587414161018880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080229816755003544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liddy_huiii @Guli1817513 对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080142940350161007",
+        "created_at": "2026-07-23T10:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080239216194421086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046587414161018880",
+              "start": 0,
+              "username": "Liddy_huiii"
+            },
+            {
+              "end": 25,
+              "id": "1996918310349557762",
+              "start": 13,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239216194421086",
+        "in_reply_to_user_id": "2046587414161018880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080229816755003544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liddy_huiii @Guli1817513 对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046587414161018880",
+        "conversation_id": "2080142940350161007",
+        "created_at": "2026-07-23T09:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080229816755003544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            },
+            {
+              "end": 23,
+              "id": "1996918310349557762",
+              "start": 11,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080229816755003544",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080142940350161007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 @Guli1817513 现在这个傻逼的年龄已经逐步增长了。。网络荼毒的感觉 我弟他们从很小的时候接触网络四五岁就天天骂人傻逼 对着爸妈各种人 不知道什么意思之前就一直在乱骂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 387,
+          "like_count": 2044,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T13:52:46.000Z",
+        "description": "",
+        "id": "2046587414161018880",
+        "name": "逃避",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048123446589263872/_9KaSypB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 7,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "Liddy_huiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "经营自己的呆逼生活中……\n不许骂我，你骂我就是猪\n另一个我➡️@Haii__ro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Haii__ro"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "幸福",
+        "name": "Guli",
+        "pinned_tweet_id": "2069768155795538070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057270374472028160/Z3qJUpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 150,
+          "like_count": 5066,
+          "listed_count": 0,
+          "media_count": 897,
+          "tweet_count": 6462
+        },
+        "url": "",
+        "username": "Guli1817513",
+        "verified": true
+      }
+    ]
+  }
+}

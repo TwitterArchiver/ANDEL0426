@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2077408552541724698",
+    "created_at": "2026-07-15T15:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077419859533840602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685351988303966208",
+          "start": 0,
+          "username": "HanYX1129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077419859533840602",
+    "in_reply_to_user_id": "1685351988303966208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077412923966693450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanYX1129 哪有逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2077408552541724698",
+        "created_at": "2026-07-15T15:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077419859533840602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685351988303966208",
+              "start": 0,
+              "username": "HanYX1129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077419859533840602",
+        "in_reply_to_user_id": "1685351988303966208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077412923966693450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanYX1129 哪有逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685351988303966208",
+        "conversation_id": "2077408552541724698",
+        "created_at": "2026-07-15T15:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077412923966693450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077412923966693450",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077408552541724698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 你怎么把孙笑川困住了？牛逼兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 342,
+          "like_count": 1477,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T18:10:13.000Z",
+        "description": "分享碎碎念吧",
+        "id": "1685351988303966208",
+        "location": "地球",
+        "name": "韩逾惜",
+        "pinned_tweet_id": "1686027191631347713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686025327670173696/x8WwctxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 31,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "HanYX1129",
+        "verified": false
+      }
+    ]
+  }
+}

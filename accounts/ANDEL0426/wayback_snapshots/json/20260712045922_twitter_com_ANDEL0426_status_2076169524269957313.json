@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075960407223922889",
+    "created_at": "2026-07-12T04:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076169524269957313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813933643125170176",
+          "start": 0,
+          "username": "jhrcttt"
+        },
+        {
+          "end": 23,
+          "id": "1537753455292719105",
+          "start": 9,
+          "username": "Baise13501410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076169524269957313",
+    "in_reply_to_user_id": "1813933643125170176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076149102719770936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhrcttt @Baise13501410 哦哦好的宝宝，还想怎么骂快点 我今天心情不好让我看看乐子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075960407223922889",
+        "created_at": "2026-07-12T04:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076169524269957313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813933643125170176",
+              "start": 0,
+              "username": "jhrcttt"
+            },
+            {
+              "end": 23,
+              "id": "1537753455292719105",
+              "start": 9,
+              "username": "Baise13501410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076169524269957313",
+        "in_reply_to_user_id": "1813933643125170176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076149102719770936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhrcttt @Baise13501410 哦哦好的宝宝，还想怎么骂快点 我今天心情不好让我看看乐子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813933643125170176",
+        "conversation_id": "2075960407223922889",
+        "created_at": "2026-07-12T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076149102719770936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            },
+            {
+              "end": 25,
+              "id": "1537753455292719105",
+              "start": 11,
+              "username": "Baise13501410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076149102719770936",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076099214145356241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 @Baise13501410 操的就是你这个16岁的，等着被强奸吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 321,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T13:47:49.000Z",
+        "description": "q",
+        "id": "1813933643125170176",
+        "name": "专门骂婊子（婊子敢骂我跟你骂到底）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992498761227264000/41dYW3kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 138,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "jhrcttt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T11:06:22.000Z",
+        "description": "",
+        "id": "1537753455292719105",
+        "name": "Baise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022315949194670080/IttlnMT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Baise13501410",
+        "verified": false
+      }
+    ]
+  }
+}

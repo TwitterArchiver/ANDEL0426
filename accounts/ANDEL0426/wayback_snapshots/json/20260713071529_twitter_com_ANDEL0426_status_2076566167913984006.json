@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076565999613247872",
+    "created_at": "2026-07-13T07:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076566167913984006"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076566167913984006",
+    "in_reply_to_user_id": "1782410129012670464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076565999613247872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "我他妈就是傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_2076565985474351104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFxwvzbkAAXFu2.jpg",
+        "width": 1136
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076565985512062976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFxwv8bAAA5hEL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076565985470152704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFxwvybgAA85fW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076565999613247872",
+        "created_at": "2026-07-13T07:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076566167913984006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076566167913984006",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076565999613247872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我他妈就是傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076565985474351104",
+            "3_2076565985512062976",
+            "3_2076565985470152704"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076565999613247872",
+        "created_at": "2026-07-13T07:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076565999613247872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P18P5MhJIz",
+              "end": 23,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076565999613247872/photo/1",
+              "media_key": "3_2076565985474351104",
+              "start": 0,
+              "url": "https://t.co/P18P5MhJIz"
+            },
+            {
+              "display_url": "pic.x.com/P18P5MhJIz",
+              "end": 23,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076565999613247872/photo/1",
+              "media_key": "3_2076565985512062976",
+              "start": 0,
+              "url": "https://t.co/P18P5MhJIz"
+            },
+            {
+              "display_url": "pic.x.com/P18P5MhJIz",
+              "end": 23,
+              "expanded_url": "https://x.com/ANDEL0426/status/2076565999613247872/photo/1",
+              "media_key": "3_2076565985470152704",
+              "start": 0,
+              "url": "https://t.co/P18P5MhJIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076565999613247872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/P18P5MhJIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 332,
+          "like_count": 1288,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

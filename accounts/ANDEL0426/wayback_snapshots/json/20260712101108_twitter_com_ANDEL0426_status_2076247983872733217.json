@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075960407223922889",
+    "created_at": "2026-07-12T10:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076247983872733217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1966599533510750208",
+          "start": 0,
+          "username": "tinkixn322169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076247983872733217",
+    "in_reply_to_user_id": "1966599533510750208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076048080181534955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinkixn322169 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075960407223922889",
+        "created_at": "2026-07-12T10:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076247983872733217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1966599533510750208",
+              "start": 0,
+              "username": "tinkixn322169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076247983872733217",
+        "in_reply_to_user_id": "1966599533510750208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076048080181534955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinkixn322169 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966599533510750208",
+        "conversation_id": "2075960407223922889",
+        "created_at": "2026-07-11T20:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076048080181534955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076048080181534955",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075960407223922889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 好好学习天天向上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 322,
+          "like_count": 1196,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T20:27:34.000Z",
+        "description": "",
+        "id": "1966599533510750208",
+        "name": "夺魂猪猪侠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076058528347983873/cOTIEhZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "tinkixn322169",
+        "verified": false
+      }
+    ]
+  }
+}

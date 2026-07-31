@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076334708267610601",
+    "created_at": "2026-07-12T18:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076372590873149544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758876738652942336",
+          "start": 0,
+          "username": "Felicia1337"
+        },
+        {
+          "end": 23,
+          "id": "2018306514549972992",
+          "start": 13,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076372590873149544",
+    "in_reply_to_user_id": "1758876738652942336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076372080757817567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Felicia1337 @bcfqdtfqz 不能只抽这个啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076334708267610601",
+        "created_at": "2026-07-12T18:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076372590873149544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758876738652942336",
+              "start": 0,
+              "username": "Felicia1337"
+            },
+            {
+              "end": 23,
+              "id": "2018306514549972992",
+              "start": 13,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076372590873149544",
+        "in_reply_to_user_id": "1758876738652942336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076372080757817567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Felicia1337 @bcfqdtfqz 不能只抽这个啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758876738652942336",
+        "conversation_id": "2076334708267610601",
+        "created_at": "2026-07-12T18:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076372080757817567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 21,
+              "id": "1782410129012670464",
+              "start": 11,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076372080757817567",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076370226011398418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @ANDEL0426 电子烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 329,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T15:31:21.000Z",
+        "description": "💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞@yeyvv520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "yeyvv520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OsvXTXb",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OsvXTXb",
+                "start": 0,
+                "url": "https://t.co/dyKMx8isH8"
+              }
+            ]
+          }
+        },
+        "id": "1758876738652942336",
+        "location": "北京",
+        "name": "Feeeelicia",
+        "pinned_tweet_id": "2037809943877980186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075568633301041153/ClKEXuMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 1214,
+          "like_count": 79252,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/dyKMx8isH8",
+        "username": "Felicia1337",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1421,
+          "like_count": 412,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 2921
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

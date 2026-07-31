@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075828201868390689",
+    "created_at": "2026-07-11T07:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075839155880550515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066039601828188160",
+          "start": 0,
+          "username": "hahaham9ba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075839155880550515",
+    "in_reply_to_user_id": "2066039601828188160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075837597729894408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahaham9ba 让我圈钱。就这个作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075828201868390689",
+        "created_at": "2026-07-11T07:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075839155880550515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066039601828188160",
+              "start": 0,
+              "username": "hahaham9ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075839155880550515",
+        "in_reply_to_user_id": "2066039601828188160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075837597729894408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahaham9ba 让我圈钱。就这个作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066039601828188160",
+        "conversation_id": "2075828201868390689",
+        "created_at": "2026-07-11T07:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075837597729894408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075837597729894408",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828201868390689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 请问 门有什么用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 312,
+          "like_count": 1067,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T06:07:31.000Z",
+        "description": "",
+        "id": "2066039601828188160",
+        "name": "珈百璃",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "hahaham9ba",
+        "verified": false
+      }
+    ]
+  }
+}

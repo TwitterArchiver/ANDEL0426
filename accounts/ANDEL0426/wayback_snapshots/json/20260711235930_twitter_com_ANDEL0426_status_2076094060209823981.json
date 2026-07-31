@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075968660154568873",
+    "created_at": "2026-07-11T23:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T00:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076094060209823981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1768501952856653825",
+          "start": 0,
+          "username": "zbk0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076094060209823981",
+    "in_reply_to_user_id": "1768501952856653825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076003348621521349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zbk0525 啥都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075968660154568873",
+        "created_at": "2026-07-11T23:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076094060209823981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1768501952856653825",
+              "start": 0,
+              "username": "zbk0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076094060209823981",
+        "in_reply_to_user_id": "1768501952856653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076003348621521349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zbk0525 啥都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768501952856653825",
+        "conversation_id": "2075968660154568873",
+        "created_at": "2026-07-11T17:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076003348621521349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076003348621521349",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075968660154568873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 入你的门可以获得什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 321,
+          "like_count": 1166,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T04:58:24.000Z",
+        "description": "",
+        "id": "1768501952856653825",
+        "name": "睡觉老是腿麻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768502021840392192/2yVDNidM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "zbk0525",
+        "verified": false
+      }
+    ]
+  }
+}

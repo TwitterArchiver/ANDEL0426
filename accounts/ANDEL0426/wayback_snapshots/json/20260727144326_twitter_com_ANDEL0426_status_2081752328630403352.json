@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081715551618183333",
+    "created_at": "2026-07-27T14:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081752328630403352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901639919308820480",
+          "start": 0,
+          "username": "Miyuki__ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081752328630403352",
+    "in_reply_to_user_id": "1901639919308820480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081750221202268243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyuki__ii 谢谢宝宝然后什么雷霆名字，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-27T14:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081752328630403352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1901639919308820480",
+              "start": 0,
+              "username": "Miyuki__ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081752328630403352",
+        "in_reply_to_user_id": "1901639919308820480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081750221202268243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyuki__ii 谢谢宝宝然后什么雷霆名字，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901639919308820480",
+        "conversation_id": "2081715551618183333",
+        "created_at": "2026-07-27T14:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081750221202268243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081750221202268243",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081715551618183333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 萌萌捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 401,
+          "like_count": 2432,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1145
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T14:21:44.000Z",
+        "description": "天秤座 istp \n喜欢Metal 啤酒 喜欢看书看电影 \n小号@Rikoar3r（过🚪可解锁\n有🚪 纯绿\n欢迎来提问https://t.co/IqvPpSHH7l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "Rikoar3r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuki80391",
+                "end": 82,
+                "expanded_url": "https://ngl.link/miyuki80391",
+                "start": 59,
+                "url": "https://t.co/IqvPpSHH7l"
+              }
+            ]
+          }
+        },
+        "id": "1901639919308820480",
+        "location": "猫",
+        "name": "刚塞被屁崩出",
+        "pinned_tweet_id": "2081748527546515506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071512312738205696/KD9-0gyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 195,
+          "like_count": 7803,
+          "listed_count": 3,
+          "media_count": 560,
+          "tweet_count": 1609
+        },
+        "url": "",
+        "username": "Miyuki__ii",
+        "verified": false
+      }
+    ]
+  }
+}

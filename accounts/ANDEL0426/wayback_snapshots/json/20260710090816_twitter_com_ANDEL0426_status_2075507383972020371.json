@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075210953340366848"
+      ],
+      "media_source_tweet_id": [
+        "2075210959975784511"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075507383972020371",
+    "created_at": "2026-07-10T09:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075507383972020371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735645555232280576",
+          "start": 3,
+          "username": "Kirinaru_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcghDhmmHP",
+          "end": 56,
+          "expanded_url": "https://x.com/Kirinaru_cos/status/2075210959975784511/photo/1",
+          "media_key": "3_2075210953340366848",
+          "start": 33,
+          "url": "https://t.co/vcghDhmmHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075507383972020371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075210959975784511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirinaru_cos: あなたはお嬢様には会えない。 https://t.co/vcghDhmmHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075210953340366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyhXfvaMAAJjIJ.jpg",
+        "width": 2668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075210953340366848"
+          ],
+          "media_source_tweet_id": [
+            "2075210959975784511"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075507383972020371",
+        "created_at": "2026-07-10T09:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075507383972020371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735645555232280576",
+              "start": 3,
+              "username": "Kirinaru_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcghDhmmHP",
+              "end": 56,
+              "expanded_url": "https://x.com/Kirinaru_cos/status/2075210959975784511/photo/1",
+              "media_key": "3_2075210953340366848",
+              "start": 33,
+              "url": "https://t.co/vcghDhmmHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075507383972020371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075210959975784511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirinaru_cos: あなたはお嬢様には会えない。 https://t.co/vcghDhmmHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075210953340366848"
+          ]
+        },
+        "author_id": "1735645555232280576",
+        "conversation_id": "2075210959975784511",
+        "created_at": "2026-07-09T13:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075210959975784511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcghDhmmHP",
+              "end": 38,
+              "expanded_url": "https://x.com/Kirinaru_cos/status/2075210959975784511/photo/1",
+              "media_key": "3_2075210953340366848",
+              "start": 15,
+              "url": "https://t.co/vcghDhmmHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075210959975784511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 59964,
+          "like_count": 6059,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "あなたはお嬢様には会えない。 https://t.co/vcghDhmmHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪16 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 290,
+          "like_count": 925,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T12:59:11.000Z",
+        "description": "Cosplay.Japan 新規依頼✖︎   @Rul3__2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "Rul3__2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/7lulu_15",
+                "end": 23,
+                "expanded_url": "https://lit.link/7lulu_15",
+                "start": 0,
+                "url": "https://t.co/j02g0Lbe44"
+              }
+            ]
+          }
+        },
+        "id": "1735645555232280576",
+        "location": "関東在住  - 詳細 ▶︎",
+        "name": "なるる🍓",
+        "pinned_tweet_id": "2075210959975784511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040869170070564864/U9Cc_Ecz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435,
+          "following_count": 681,
+          "like_count": 62231,
+          "listed_count": 60,
+          "media_count": 112,
+          "tweet_count": 2842
+        },
+        "url": "https://t.co/j02g0Lbe44",
+        "username": "Kirinaru_cos",
+        "verified": false
+      }
+    ]
+  }
+}

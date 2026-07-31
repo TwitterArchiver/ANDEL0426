@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2080958782365180074",
+    "created_at": "2026-07-26T05:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081254539840438351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794059582878232576",
+          "start": 0,
+          "username": "ygriln924874202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081254539840438351",
+    "in_reply_to_user_id": "1794059582878232576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081239874452046146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygriln924874202 我已绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2080958782365180074",
+        "created_at": "2026-07-26T05:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081254539840438351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794059582878232576",
+              "start": 0,
+              "username": "ygriln924874202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081254539840438351",
+        "in_reply_to_user_id": "1794059582878232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081239874452046146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygriln924874202 我已绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794059582878232576",
+        "conversation_id": "2080958782365180074",
+        "created_at": "2026-07-26T04:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081239874452046146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081239874452046146",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080958782365180074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 我他妈看一圈你主页私信截图要笑死了，好惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@xxs0721\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 394,
+          "like_count": 2312,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T17:35:23.000Z",
+        "description": "2005.3.13 双鱼座 infp 坐标长春 友跨\n普通男生 无任何政治立场 假小子是对的\nhiphop乐迷 老二刺猿 泛性恋 交友欢迎",
+        "id": "1794059582878232576",
+        "name": "猫猫友人",
+        "pinned_tweet_id": "2073415338373378304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073869761599901696/x1z1ltvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 55,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "ygriln924874202",
+        "verified": false
+      }
+    ]
+  }
+}

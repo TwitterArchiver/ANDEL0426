@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075989046573281346",
+    "created_at": "2026-07-12T15:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076330703462301945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493620079581298692",
+          "start": 0,
+          "username": "hydrogen_nia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076330703462301945",
+    "in_reply_to_user_id": "1493620079581298692",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075989046573281346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hydrogen_nia 宝宝喵🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075989034820845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9lBzIaQAAt9nQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075989046573281346",
+        "created_at": "2026-07-12T15:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076330703462301945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493620079581298692",
+              "start": 0,
+              "username": "hydrogen_nia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330703462301945",
+        "in_reply_to_user_id": "1493620079581298692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989046573281346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hydrogen_nia 宝宝喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075989034820845568"
+          ]
+        },
+        "author_id": "1493620079581298692",
+        "conversation_id": "2075989046573281346",
+        "created_at": "2026-07-11T17:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075989046573281346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CoiX0WGa4",
+              "end": 65,
+              "expanded_url": "https://x.com/hydrogen_nia/status/2075989046573281346/photo/1",
+              "media_key": "3_2075989034820845568",
+              "start": 42,
+              "url": "https://t.co/0CoiX0WGa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075989046573281346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12393,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点好奇，在xnn中底子算好吗qwq\n（要是丑到大家了，致歉qwq\n#男娘 #伪娘 https://t.co/0CoiX0WGa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 326,
+          "like_count": 1237,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T16:16:05.000Z",
+        "description": "INFJ-T / 困 / 距离黎明还有三秒钟 / 究极舞萌吃 / chemistry / 东方厨 / 我的宝宝@Yuhane_ZZZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Yuhane_ZZZ"
+              }
+            ]
+          }
+        },
+        "id": "1493620079581298692",
+        "name": "雨柔yurki _official🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029209588751605760/42geeMk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 391,
+          "like_count": 6548,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 2520
+        },
+        "url": "",
+        "username": "hydrogen_nia",
+        "verified": false
+      }
+    ]
+  }
+}

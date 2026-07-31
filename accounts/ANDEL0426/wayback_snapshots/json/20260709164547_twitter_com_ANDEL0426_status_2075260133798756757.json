@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2075240233860563155",
+    "created_at": "2026-07-09T16:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075260133798756757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2074671287671332864",
+          "start": 0,
+          "username": "cnm14438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075260133798756757",
+    "in_reply_to_user_id": "2074671287671332864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075252291695947810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnm14438 太性情了bro，那还说啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2075240233860563155",
+        "created_at": "2026-07-09T16:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075260133798756757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2074671287671332864",
+              "start": 0,
+              "username": "cnm14438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075260133798756757",
+        "in_reply_to_user_id": "2074671287671332864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075252291695947810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnm14438 太性情了bro，那还说啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074671287671332864",
+        "conversation_id": "2075240233860563155",
+        "created_at": "2026-07-09T16:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075252291695947810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075252291695947810",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240233860563155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 哥的龙筋借你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 276,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T01:48:32.000Z",
+        "description": "看我你是gay",
+        "id": "2074671287671332864",
+        "name": "大哥大姐过年好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074672471123652608/gjLZHMRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "cnm14438",
+        "verified": false
+      }
+    ]
+  }
+}

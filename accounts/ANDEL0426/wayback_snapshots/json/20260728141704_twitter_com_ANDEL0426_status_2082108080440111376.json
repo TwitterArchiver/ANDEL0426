@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2082019648200176036",
+    "created_at": "2026-07-28T14:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082108080440111376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491630454730293248",
+          "start": 0,
+          "username": "yalishandayiwa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082108080440111376",
+    "in_reply_to_user_id": "1491630454730293248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082076053464645820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yalishandayiwa1 对，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2082019648200176036",
+        "created_at": "2026-07-28T14:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082108080440111376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491630454730293248",
+              "start": 0,
+              "username": "yalishandayiwa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082108080440111376",
+        "in_reply_to_user_id": "1491630454730293248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082076053464645820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yalishandayiwa1 对，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630454730293248",
+        "conversation_id": "2082019648200176036",
+        "created_at": "2026-07-28T12:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082076053464645820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082076053464645820",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082019648200176036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 还有就是火车站，飞机场一群脑残堵路，我之前下飞机累的要死，一群脑残还在那边尖叫，堵住出航站楼的道路，真的恶心死了。那群恶心人的追星脑残，能不能去死？（正常追星能理解。那些恶心别人的，能不能去死？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信\n🚪80非墙内 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 412,
+          "like_count": 2492,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1174
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:02.000Z",
+        "description": "单亲父亲家有女儿\n超级杂食来这里只是看喜欢看的东西和回复有意思的。请互相尊重 生理男心理男异性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yalishandayiwa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yalishandayiwa1",
+                "start": 0,
+                "url": "https://t.co/OEApHneRdu"
+              }
+            ]
+          }
+        },
+        "id": "1491630454730293248",
+        "location": "苏丹后宫",
+        "name": "树莓鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025655970349871104/v2373Lp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 271,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/OEApHneRdu",
+        "username": "yalishandayiwa1",
+        "verified": false
+      }
+    ]
+  }
+}

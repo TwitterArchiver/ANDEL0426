@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2076324854689919296",
+    "created_at": "2026-07-12T15:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076329227486630386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1980470627539800064",
+          "start": 0,
+          "username": "aparasr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076329227486630386",
+    "in_reply_to_user_id": "1980470627539800064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076327305195254019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aparasr 打这么多字累不累宝宝 我要是顺男你不骂我更狠吗 还有我在底下评论明确说清我被那些人恶心的事实 以及善意是相互的不是吗 你对我好我肯定把你当朋友 但你无缘无故来一句母狗也能说明你也是那种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076324854689919296",
+        "created_at": "2026-07-12T15:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076329227486630386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1980470627539800064",
+              "start": 0,
+              "username": "aparasr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076329227486630386",
+        "in_reply_to_user_id": "1980470627539800064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076327305195254019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aparasr 打这么多字累不累宝宝 我要是顺男你不骂我更狠吗 还有我在底下评论明确说清我被那些人恶心的事实 以及善意是相互的不是吗 你对我好我肯定把你当朋友 但你无缘无故来一句母狗也能说明你也是那种人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980470627539800064",
+        "conversation_id": "2076324854689919296",
+        "created_at": "2026-07-12T15:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076327305195254019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076327305195254019",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076326008480022557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 贝贝 你怎么老是喜欢学顺男攻击性少数呢 一股味 首先引战歧视还要表达嗯我有很多木桶饭朋友但是谁谁谁是人妖跨出 宝宝 有人可能惹你生气 说的话不对 你直接指出人家哪里不对就是了 自己找不清问题就那顺男语言攻击他人性别认同真是恶俗透顶了 更何况你也不是顺男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n纯绿 无任何nsfw🚪25 除了日常都不聊",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 326,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:06:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aparas.top",
+                "end": 23,
+                "expanded_url": "http://aparas.top",
+                "start": 0,
+                "url": "https://t.co/3n8ZRrbcfM"
+              }
+            ]
+          }
+        },
+        "id": "1980470627539800064",
+        "location": "Soochow / Peking",
+        "name": "Parasomnia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046013059832201216/a49oEe5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 193,
+          "like_count": 4241,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/3n8ZRrbcfM",
+        "username": "aparasr",
+        "verified": false
+      }
+    ]
+  }
+}

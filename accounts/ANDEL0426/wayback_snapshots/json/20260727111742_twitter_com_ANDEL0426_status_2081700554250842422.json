@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2081648759415710023",
+    "created_at": "2026-07-27T11:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081700554250842422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057006320851849216",
+          "start": 0,
+          "username": "yamazakiisuzu"
+        },
+        {
+          "end": 27,
+          "id": "1929798380240465921",
+          "start": 15,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081700554250842422",
+    "in_reply_to_user_id": "2057006320851849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081663134033752378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu @AacerF59616 我总感觉大多数mtf只是在模仿大众刻板印象中的女性，但事实上真正的生理女跟他们完全不一样，，，好悲哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2081648759415710023",
+        "created_at": "2026-07-27T11:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081700554250842422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057006320851849216",
+              "start": 0,
+              "username": "yamazakiisuzu"
+            },
+            {
+              "end": 27,
+              "id": "1929798380240465921",
+              "start": 15,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081700554250842422",
+        "in_reply_to_user_id": "2057006320851849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081663134033752378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu @AacerF59616 我总感觉大多数mtf只是在模仿大众刻板印象中的女性，但事实上真正的生理女跟他们完全不一样，，，好悲哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057006320851849216",
+        "conversation_id": "2081648759415710023",
+        "created_at": "2026-07-27T08:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081663134033752378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081663134033752378",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081648759415710023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 我可没规定什么，这不过是一个先学会走路才能跑的问题罢了，不先像顺女一样从最基本的女性开始做起，你谈什么女性化，谈什么个性，而且难道不是你们跨性别一天到晚在推上发文说什么自己好难看好焦虑？神人，那你到底是想变好看还是不想啊？😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "性别不明\n小杯杯@xxs0721\n非眼熟私信只回口令 如要互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 401,
+          "like_count": 2422,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T07:51:56.000Z",
+        "description": "ここは山崎いすずの個人垢/中国人/日本語を勉強している/日本語の程度はN95です/讨厌阳光，讨厌风/如果可能的话30岁就自杀吧🐱",
+        "id": "2057006320851849216",
+        "location": "༎ຶ⁠‿⁠༎ຶ",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2078265672631824475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413683731226624/mYzWrFfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 152,
+          "like_count": 5069,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1832
+        },
+        "url": "",
+        "username": "yamazakiisuzu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 671,
+          "like_count": 4494,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1283
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}
