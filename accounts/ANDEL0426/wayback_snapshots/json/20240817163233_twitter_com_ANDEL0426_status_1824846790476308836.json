@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "1824770663669760107",
+    "created_at": "2024-08-17T16:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T17:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824846790476308836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1525867065395105793",
+          "start": 0,
+          "username": "catiesmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824846790476308836",
+    "in_reply_to_user_id": "1525867065395105793",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824770663669760107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catiesmeow 綺麗......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "1824770663669760107",
+        "created_at": "2024-08-17T16:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T17:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824846790476308836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1525867065395105793",
+              "start": 0,
+              "username": "catiesmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824846790476308836",
+        "in_reply_to_user_id": "1525867065395105793",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824770663669760107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catiesmeow 綺麗......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824770654434144256"
+          ]
+        },
+        "author_id": "1525867065395105793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1824770663669760107",
+        "created_at": "2024-08-17T11:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T12:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824770663669760107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50lazjntuq",
+              "end": 27,
+              "expanded_url": "https://twitter.com/catiesmeow/status/1824770663669760107/photo/1",
+              "media_key": "3_1824770654434144256",
+              "start": 4,
+              "url": "https://t.co/50lAzJnTuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824770663669760107",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8523,
+          "impression_count": 2779230,
+          "like_count": 55094,
+          "quote_count": 271,
+          "reply_count": 391,
+          "retweet_count": 2220
+        },
+        "reply_settings": "everyone",
+        "text": "スイカ https://t.co/50lAzJnTuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "Hakashiはネット名、私は日本語が下手です...私は中国人です。 とにかく、よろしくお願いします。",
+        "id": "1782410129012670464",
+        "name": "Hakashi✂️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782410242351071232/CHtituzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 90,
+          "like_count": 144,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ANDEL0426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T15:55:40.000Z",
+        "description": "コスプレヤー ♡ main: @catiescos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "catiescos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/catiesmeow",
+                "end": 23,
+                "expanded_url": "http://beacons.ai/catiesmeow",
+                "start": 0,
+                "url": "https://t.co/nZ7GJduBwT"
+              }
+            ]
+          }
+        },
+        "id": "1525867065395105793",
+        "location": "Exclusive content→",
+        "name": "caties ^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796535765843030016/rNMDn21b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521623,
+          "following_count": 192,
+          "like_count": 1752,
+          "listed_count": 1297,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/nZ7GJduBwT",
+        "username": "catiesmeow",
+        "verified": false
+      }
+    ]
+  }
+}

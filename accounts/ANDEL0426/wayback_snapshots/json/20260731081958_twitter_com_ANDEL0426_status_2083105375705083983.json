@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083105366766993408",
+        "3_2083105366754365440"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2083105375705083983",
+    "created_at": "2026-07-31T08:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083105375705083983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SsUaU1Y5rW",
+          "end": 30,
+          "expanded_url": "https://x.com/ANDEL0426/status/2083105375705083983/photo/1",
+          "media_key": "3_2083105366766993408",
+          "start": 7,
+          "url": "https://t.co/SsUaU1Y5rW"
+        },
+        {
+          "display_url": "pic.x.com/SsUaU1Y5rW",
+          "end": 30,
+          "expanded_url": "https://x.com/ANDEL0426/status/2083105375705083983/photo/1",
+          "media_key": "3_2083105366754365440",
+          "start": 7,
+          "url": "https://t.co/SsUaU1Y5rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083105375705083983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ok我将尝试 https://t.co/SsUaU1Y5rW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1491,
+        "media_key": "3_2083105366766993408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOitS1fbQAA3-dB.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1595,
+        "media_key": "3_2083105366754365440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOitS1cakAABw44.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083105366766993408",
+            "3_2083105366754365440"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2083105375705083983",
+        "created_at": "2026-07-31T08:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083105375705083983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SsUaU1Y5rW",
+              "end": 30,
+              "expanded_url": "https://x.com/ANDEL0426/status/2083105375705083983/photo/1",
+              "media_key": "3_2083105366766993408",
+              "start": 7,
+              "url": "https://t.co/SsUaU1Y5rW"
+            },
+            {
+              "display_url": "pic.x.com/SsUaU1Y5rW",
+              "end": 30,
+              "expanded_url": "https://x.com/ANDEL0426/status/2083105375705083983/photo/1",
+              "media_key": "3_2083105366754365440",
+              "start": 7,
+              "url": "https://t.co/SsUaU1Y5rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083105375705083983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok我将尝试 https://t.co/SsUaU1Y5rW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的性别不重要。\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令 如要互fo请私信\n🚪45纯绿墙外 上来就发屌的阳痿一辈子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "xxs0721"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "username": "yoruheartpath"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 414,
+          "like_count": 2609,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1221
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}
