@@ -1,7 +1,7 @@
 {
   "name": "ADadAD钙",
   "username": "@ANDEL0426",
-  "bio": "我的性别不重要。 狗狗@xxs0721好兄弟@yoruheartpath 非眼熟私信只回口令 如要互fo请私信 🚪45纯绿墙外 上来就发屌的阳痿一辈子",
+  "bio": "10.4.14｜无性别｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外\n2.0 @adCa00414 3.0 @hamisa414",
   "location": "海女美术大学",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,16 +10,26 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 19,
-        "start": 11,
+        "end": 30,
+        "start": 22,
         "username": "xxs0721"
       },
       {
-        "end": 36,
-        "start": 22,
+        "end": 47,
+        "start": 33,
         "username": "yoruheartpath"
+      },
+      {
+        "end": 81,
+        "start": 71,
+        "username": "adCa00414"
+      },
+      {
+        "end": 96,
+        "start": 86,
+        "username": "hamisa414"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg"
 }
