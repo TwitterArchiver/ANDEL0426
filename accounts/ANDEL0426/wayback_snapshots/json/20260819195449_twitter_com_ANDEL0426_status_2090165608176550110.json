@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2089962453312651667",
+    "created_at": "2026-08-19T19:54:49.000Z",
+    "display_text_range": [
+      10,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090165608176550110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370394531833638916",
+          "start": 0,
+          "username": "daxiniu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090165608176550110",
+    "in_reply_to_user_id": "1370394531833638916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089962453312651667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daxiniu1 不是plq眼瞎吗这个老师的回复是p的啊我看过原图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2089962444466892800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEJxShbMAAszZ-.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2089962453312651667",
+        "created_at": "2026-08-19T19:54:49.000Z",
+        "display_text_range": [
+          10,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090165608176550110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370394531833638916",
+              "start": 0,
+              "username": "daxiniu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090165608176550110",
+        "in_reply_to_user_id": "1370394531833638916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089962453312651667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daxiniu1 不是plq眼瞎吗这个老师的回复是p的啊我看过原图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089962444466892800"
+          ]
+        },
+        "author_id": "1370394531833638916",
+        "conversation_id": "2089962453312651667",
+        "created_at": "2026-08-19T06:27:33.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089962453312651667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMsDHLXp1B",
+              "end": 61,
+              "expanded_url": "https://x.com/daxiniu1/status/2089962453312651667/photo/1",
+              "media_key": "3_2089962444466892800",
+              "start": 38,
+              "url": "https://t.co/RMsDHLXp1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089962453312651667",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089962444466892800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 1060462,
+          "like_count": 3573,
+          "quote_count": 6,
+          "reply_count": 536,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "最可悲的事情，就是想让原本不认可自己的人认可自己，无论对方是老师或是朋友。 https://t.co/RMsDHLXp1B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别｜幽灵ban中｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "xxs0721"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "adCa00414"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2090165608176550110",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 410,
+          "like_count": 2680,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-12T15:21:42.000Z",
+        "description": "愿世界和平",
+        "id": "1370394531833638916",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090051572575461532",
+        "name": "TFFHMR",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370394531833638916/1785914253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073014815870828545/h_Jq0aB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 2617,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "daxiniu1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

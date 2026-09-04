@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2088564852860309777",
+    "created_at": "2026-08-15T09:53:59.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088564852860309777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 57,
+          "id": "868831876315848705",
+          "start": 48,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "弥子猫测试",
+          "display_url": "idrlabs.com/cn/yani-neko/7…",
+          "end": 44,
+          "expanded_url": "https://www.idrlabs.com/cn/yani-neko/70-45-80-45-20-65-55/result.php",
+          "start": 21,
+          "status": 200,
+          "title": "弥子猫测试: 我最像 弥子 (80%)。",
+          "unwound_url": "https://www.idrlabs.com/cn/yani-neko/70-45-80-45-20-65-55/result.php",
+          "url": "https://t.co/PG5j2U7EKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088564852860309777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弥子猫测试: 我最像 弥子 (80%)。 https://t.co/PG5j2U7EKc 来自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2088564852860309777",
+        "created_at": "2026-08-15T09:53:59.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088564852860309777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "868831876315848705",
+              "start": 48,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "弥子猫测试",
+              "display_url": "idrlabs.com/cn/yani-neko/7…",
+              "end": 44,
+              "expanded_url": "https://www.idrlabs.com/cn/yani-neko/70-45-80-45-20-65-55/result.php",
+              "start": 21,
+              "status": 200,
+              "title": "弥子猫测试: 我最像 弥子 (80%)。",
+              "unwound_url": "https://www.idrlabs.com/cn/yani-neko/70-45-80-45-20-65-55/result.php",
+              "url": "https://t.co/PG5j2U7EKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088564852860309777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弥子猫测试: 我最像 弥子 (80%)。 https://t.co/PG5j2U7EKc 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "无性别｜幽灵ban中｜眼熟互fo｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪45纯绿墙外\n怀念2.0 @adCa00414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "xxs0721"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "adCa00414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2088564852860309777",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 409,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1246
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088413006296133744",
+        "name": "IDRlabs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/868831876315848705/1519302772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9610,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 39,
+          "media_count": 19,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

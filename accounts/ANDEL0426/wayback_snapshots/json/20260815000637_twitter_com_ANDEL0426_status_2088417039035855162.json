@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2088205843917639986",
+    "created_at": "2026-08-15T00:06:37.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088417039035855162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493410554597486594",
+          "start": 0,
+          "username": "cat34135455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088417039035855162",
+    "in_reply_to_user_id": "1493410554597486594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088215422156066964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat34135455 我都哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2088205843917639986",
+        "created_at": "2026-08-15T00:06:37.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088417039035855162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493410554597486594",
+              "start": 0,
+              "username": "cat34135455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088417039035855162",
+        "in_reply_to_user_id": "1493410554597486594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088215422156066964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat34135455 我都哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493410554597486594",
+        "conversation_id": "2088205843917639986",
+        "created_at": "2026-08-14T10:45:28.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088215422156066964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088215422156066964",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088205843917639986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 美丽的幽灵。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "无性别｜幽灵ban中｜眼熟互fo｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪45纯绿墙外\n怀念2.0 @adCa00414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "xxs0721"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "adCa00414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2088417039035855162",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 408,
+          "like_count": 2631,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T02:23:40.000Z",
+        "description": "世界只是一直在旋转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cat28309",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cat28309",
+                "start": 0,
+                "url": "https://t.co/81hq15q33S"
+              }
+            ]
+          }
+        },
+        "id": "1493410554597486594",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2088277981810864439",
+        "name": "cat",
+        "pinned_tweet_id": "2044865841205055727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493410554597486594/1775959900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086078351446597632/utMO9877_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 118,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/81hq15q33S",
+        "username": "cat34135455",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
