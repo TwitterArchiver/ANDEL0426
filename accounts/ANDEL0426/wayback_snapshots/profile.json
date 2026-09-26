@@ -1,7 +1,7 @@
 {
-  "name": "ADadAD钙",
+  "name": "A(*^^*)D",
   "username": "@ANDEL0426",
-  "bio": "10.4.14｜无性别｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外\n2.0 @adCa00414 3.0 @hamisa414",
+  "bio": "10.4.14｜无性别烟鬼喵｜互fo\n日本語下手desu 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414（都死了）",
   "location": "海女美术大学",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,23 +10,18 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 30,
-        "start": 22,
-        "username": "xxs0721"
-      },
-      {
-        "end": 47,
-        "start": 33,
+        "end": 46,
+        "start": 32,
         "username": "yoruheartpath"
       },
       {
-        "end": 81,
-        "start": 71,
+        "end": 92,
+        "start": 82,
         "username": "adCa00414"
       },
       {
-        "end": 96,
-        "start": 86,
+        "end": 107,
+        "start": 97,
         "username": "hamisa414"
       }
     ]
