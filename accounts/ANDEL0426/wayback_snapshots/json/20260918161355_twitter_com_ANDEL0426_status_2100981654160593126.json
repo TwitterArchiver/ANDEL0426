@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100925035796123648"
+      ],
+      "media_source_tweet_id": [
+        "2100925475866693674"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2100981654160593126",
+    "created_at": "2026-09-18T16:13:55.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100981654160593126"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "十六夜咲夜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3098042792",
+          "start": 3,
+          "username": "Houdukixx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J38gp6azfr",
+          "end": 56,
+          "expanded_url": "https://x.com/Houdukixx/status/2100925475866693674/photo/1",
+          "media_key": "3_2100925035796123648",
+          "start": 33,
+          "url": "https://t.co/J38gp6azfr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100981654160593126",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100925035796123648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 586
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100925475866693674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Houdukixx: 紅魔館の番犬🐺🗡️\n\n#十六夜咲夜 https://t.co/J38gp6azfr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_2100925035796123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf8MFpaUAAU3dW.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100925035796123648"
+          ],
+          "media_source_tweet_id": [
+            "2100925475866693674"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2100981654160593126",
+        "created_at": "2026-09-18T16:13:55.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100981654160593126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "十六夜咲夜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3098042792",
+              "start": 3,
+              "username": "Houdukixx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J38gp6azfr",
+              "end": 56,
+              "expanded_url": "https://x.com/Houdukixx/status/2100925475866693674/photo/1",
+              "media_key": "3_2100925035796123648",
+              "start": 33,
+              "url": "https://t.co/J38gp6azfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100981654160593126",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100925035796123648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 586
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100925475866693674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Houdukixx: 紅魔館の番犬🐺🗡️\n\n#十六夜咲夜 https://t.co/J38gp6azfr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100925035796123648"
+          ]
+        },
+        "author_id": "3098042792",
+        "conversation_id": "2100925475866693674",
+        "created_at": "2026-09-18T12:30:41.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100925475866693674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "十六夜咲夜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J38gp6azfr",
+              "end": 41,
+              "expanded_url": "https://x.com/Houdukixx/status/2100925475866693674/photo/1",
+              "media_key": "3_2100925035796123648",
+              "start": 18,
+              "url": "https://t.co/J38gp6azfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100925475866693674",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100925035796123648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 852,
+          "impression_count": 31793,
+          "like_count": 5268,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "紅魔館の番犬🐺🗡️\n\n#十六夜咲夜 https://t.co/J38gp6azfr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2100981654160593126",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 470,
+          "like_count": 2754,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-03-19T14:38:33.000Z",
+        "description": "たぶん、趣味でイラスト描いたりシナリオ考えたりゲーム作ったりしている人です。ジャンルは基本東方、他気分次第。 🚫AI学習禁止\nイラスト\nhttps://t.co/NTJvC0oJr2\nSkeb(コミッション)\nhttps://t.co/sljyndS511",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14105089",
+                "end": 91,
+                "expanded_url": "https://www.pixiv.net/users/14105089",
+                "start": 68,
+                "url": "https://t.co/NTJvC0oJr2"
+              },
+              {
+                "display_url": "skeb.jp/@Houdukixx",
+                "end": 128,
+                "expanded_url": "https://skeb.jp/@Houdukixx",
+                "start": 105,
+                "url": "https://t.co/sljyndS511"
+              }
+            ]
+          }
+        },
+        "id": "3098042792",
+        "is_identity_verified": false,
+        "location": "ハムスターの家",
+        "most_recent_tweet_id": "2100926464615170127",
+        "name": "ホウヅキ🐀",
+        "pinned_tweet_id": "2062856197854900499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3098042792/1542891900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680673789095596032/RaJRqqO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7440,
+          "following_count": 431,
+          "like_count": 18281,
+          "listed_count": 128,
+          "media_count": 563,
+          "tweet_count": 25179
+        },
+        "url": "",
+        "username": "Houdukixx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

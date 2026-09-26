@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2100607216520954178",
+    "created_at": "2026-09-17T15:53:01.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100614006407070056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053110961868013568",
+          "start": 0,
+          "username": "Jiang_Liu2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100614006407070056",
+    "in_reply_to_user_id": "2053110961868013568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100610664402460872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiang_Liu2026 我也快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2100607216520954178",
+        "created_at": "2026-09-17T15:53:01.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100614006407070056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053110961868013568",
+              "start": 0,
+              "username": "Jiang_Liu2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100614006407070056",
+        "in_reply_to_user_id": "2053110961868013568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100610664402460872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiang_Liu2026 我也快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053110961868013568",
+        "conversation_id": "2100607216520954178",
+        "created_at": "2026-09-17T15:39:44.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100610664402460872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100610664402460872",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100607216520954178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 为什么第一张图片有磕叶子的感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2100614006407070056",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 457,
+          "like_count": 2714,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T13:53:24.000Z",
+        "description": "Before was was was，was was is.",
+        "id": "2053110961868013568",
+        "is_identity_verified": false,
+        "location": "香港🇭🇰🇨🇳",
+        "most_recent_tweet_id": "2100610664402460872",
+        "name": "江流",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053110961868013568/1778384368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053314790651826176/wiD5R8QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 42,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Jiang_Liu2026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

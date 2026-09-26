@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2099573032985739624",
+    "created_at": "2026-09-15T10:54:43.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099814161933127984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652733611022635009",
+          "start": 0,
+          "username": "kingCrimson_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099814161933127984",
+    "in_reply_to_user_id": "1652733611022635009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099573032985739624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingCrimson_09 我想弄你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53845,
+        "height": 710,
+        "media_key": "13_2099572871928627201",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099572871928627201/img/PmbI4slBfHci3ora.jpg",
+        "public_metrics": {
+          "view_count": 99
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099572871928627201/vid/avc1/486x270/nrxQylRcZX_2COpv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099572871928627201/vid/avc1/648x360/B4Xb0OUG1fwd_Sok.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099572871928627201/vid/avc1/1280x710/j6NM6PAmsNGsYkP8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099572871928627201/pl/oakJoY8gwrFtc3b1.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2099573032985739624",
+        "created_at": "2026-09-15T10:54:43.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099814161933127984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652733611022635009",
+              "start": 0,
+              "username": "kingCrimson_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099814161933127984",
+        "in_reply_to_user_id": "1652733611022635009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099573032985739624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingCrimson_09 我想弄你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099572871928627201"
+          ]
+        },
+        "author_id": "1652733611022635009",
+        "conversation_id": "2099573032985739624",
+        "created_at": "2026-09-14T18:56:33.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T19:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099573032985739624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRv9HLfIBi",
+              "end": 45,
+              "expanded_url": "https://x.com/kingCrimson_09/status/2099573032985739624/video/1",
+              "media_key": "13_2099572871928627201",
+              "start": 22,
+              "url": "https://t.co/gRv9HLfIBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099573032985739624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099572871928627201"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你从来不缺有人陪，也可能只是我一时兴起吧… https://t.co/gRv9HLfIBi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs0721"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "adCa00414"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2099814161933127984",
+        "name": "ADadAD钙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 411,
+          "like_count": 2707,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-30T17:56:40.000Z",
+        "description": "繁华散尽之后，行者徒悲伤\n黄昏啊，宛如手心的，曼珠沙华\n恋人：@17yearsDaye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "17yearsDaye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kingcrimson177…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kingcrimson17700",
+                "start": 0,
+                "url": "https://t.co/p1Qj5VoTiO"
+              }
+            ]
+          }
+        },
+        "id": "1652733611022635009",
+        "is_identity_verified": false,
+        "location": "人世与幽冥的分界线",
+        "most_recent_tweet_id": "2099758189046861828",
+        "name": "你是多首的怪物",
+        "pinned_tweet_id": "2089118541958308150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652733611022635009/1786932013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091019253759582209/mQN_2w17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 565,
+          "like_count": 3075,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/p1Qj5VoTiO",
+        "username": "kingCrimson_09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

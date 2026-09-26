@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2100905813057708542",
+    "created_at": "2026-09-18T14:32:36.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100956159402545255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856752962879782912",
+          "start": 0,
+          "username": "Oowbsgvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100956159402545255",
+    "in_reply_to_user_id": "1856752962879782912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100951680132977138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oowbsgvc 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2100905813057708542",
+        "created_at": "2026-09-18T14:32:36.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100956159402545255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856752962879782912",
+              "start": 0,
+              "username": "Oowbsgvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100956159402545255",
+        "in_reply_to_user_id": "1856752962879782912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100951680132977138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oowbsgvc 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856752962879782912",
+        "conversation_id": "2100905813057708542",
+        "created_at": "2026-09-18T14:14:48.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100951680132977138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100951680132977138",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100905813057708542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 祝賀你🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2100956159402545255",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 460,
+          "like_count": 2735,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1379
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-13T17:36:34.000Z",
+        "description": "Moi, zh-CN,TW/EN/FR/JP ができます。\n友跨猫娘 | 🏳️‍🌈🏳️‍⚧️🌊🌸 | 邦烤批\n去中心化 自由意志/古典自由主义\n谢谢喜欢喵 无创可贴内容 🉑NSFW 🈚️线下 不礼貌拉黑喵\n验证我的身份⬇️\n63ECBB1F89A76063616CD4EDD2F9324BECD6F59C",
+        "id": "1856752962879782912",
+        "is_identity_verified": false,
+        "location": "中國小陸",
+        "most_recent_tweet_id": "2100951680132977138",
+        "name": "无敌仑库(弹)邪王🌊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856752962879782912/1783586996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095231885979045888/rD8EUI7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 312,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "Oowbsgvc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

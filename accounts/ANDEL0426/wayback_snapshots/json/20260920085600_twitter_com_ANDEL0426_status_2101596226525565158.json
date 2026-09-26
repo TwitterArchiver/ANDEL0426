@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2101562330224189870",
+    "created_at": "2026-09-20T08:56:00.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101596226525565158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1759193124969250816",
+          "start": 0,
+          "username": "Thaly929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101596226525565158",
+    "in_reply_to_user_id": "1759193124969250816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101577028659273788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thaly929 真，中秋下午回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2101562330224189870",
+        "created_at": "2026-09-20T08:56:00.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101596226525565158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1759193124969250816",
+              "start": 0,
+              "username": "Thaly929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101596226525565158",
+        "in_reply_to_user_id": "1759193124969250816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101577028659273788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thaly929 真，中秋下午回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759193124969250816",
+        "conversation_id": "2101562330224189870",
+        "created_at": "2026-09-20T07:39:43.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101577028659273788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101577028659273788",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101562330224189870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 真的假的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2101596226525565158",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 503,
+          "like_count": 2876,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-18T12:28:29.000Z",
+        "description": "QC",
+        "id": "1759193124969250816",
+        "is_identity_verified": false,
+        "location": "塔菲岛",
+        "most_recent_tweet_id": "2101577028659273788",
+        "name": "是，千层捏~",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759193124969250816/1708261478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759202006366121984/ZlpcXS37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "Thaly929",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2102337246984798721",
+    "created_at": "2026-09-22T22:57:06.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T23:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102532669435523414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3283160516",
+          "start": 0,
+          "username": "cherrydog17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102532669435523414",
+    "in_reply_to_user_id": "3283160516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102532137295790216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cherrydog17 买不到呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2102337246984798721",
+        "created_at": "2026-09-22T22:57:06.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T23:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102532669435523414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3283160516",
+              "start": 0,
+              "username": "cherrydog17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102532669435523414",
+        "in_reply_to_user_id": "3283160516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102532137295790216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cherrydog17 买不到呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3283160516",
+        "conversation_id": "2102337246984798721",
+        "created_at": "2026-09-22T22:54:59.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T23:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102532137295790216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102532137295790216",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102337246984798721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 軟七星"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n日本語下手desu 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414（都死了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "adCa00414"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2102532669435523414",
+        "name": "A(*^^*)D",
+        "pinned_tweet_id": "2102362102161965105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 540,
+          "like_count": 3099,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1537
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-18T08:06:50.000Z",
+        "description": "",
+        "id": "3283160516",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102532137295790216",
+        "name": "cherrydog",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3283160516/1440249389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063373060418486272/x_3fQYw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 172,
+          "like_count": 12394,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "cherrydog17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101110931459833857"
+      ],
+      "media_source_tweet_id": [
+        "2101110995213246507"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2101200691465437474",
+    "created_at": "2026-09-19T06:44:17.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101200691465437474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1353292977142075393",
+          "start": 3,
+          "username": "Gurina_Core15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1BGaAuPHTf",
+          "end": 69,
+          "expanded_url": "https://x.com/Gurina_Core15/status/2101110995213246507/photo/1",
+          "media_key": "3_2101110931459833857",
+          "start": 46,
+          "url": "https://t.co/1BGaAuPHTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101200691465437474",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101110931459833857"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101110995213246507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gurina_Core15: 🎵月時計　～ ルナ・ダイアル\n\n紅魔郷NC ver. https://t.co/1BGaAuPHTf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_2101110931459833857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSilQo9agAEWuLR.jpg",
+        "width": 2020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101110931459833857"
+          ],
+          "media_source_tweet_id": [
+            "2101110995213246507"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2101200691465437474",
+        "created_at": "2026-09-19T06:44:17.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101200691465437474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1353292977142075393",
+              "start": 3,
+              "username": "Gurina_Core15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BGaAuPHTf",
+              "end": 69,
+              "expanded_url": "https://x.com/Gurina_Core15/status/2101110995213246507/photo/1",
+              "media_key": "3_2101110931459833857",
+              "start": 46,
+              "url": "https://t.co/1BGaAuPHTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101200691465437474",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101110931459833857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101110995213246507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gurina_Core15: 🎵月時計　～ ルナ・ダイアル\n\n紅魔郷NC ver. https://t.co/1BGaAuPHTf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101110931459833857"
+          ]
+        },
+        "author_id": "1353292977142075393",
+        "conversation_id": "2101110995213246507",
+        "created_at": "2026-09-19T00:47:52.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101110995213246507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BGaAuPHTf",
+              "end": 50,
+              "expanded_url": "https://x.com/Gurina_Core15/status/2101110995213246507/photo/1",
+              "media_key": "3_2101110931459833857",
+              "start": 27,
+              "url": "https://t.co/1BGaAuPHTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101110995213246507",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101110931459833857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 5302,
+          "like_count": 853,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "🎵月時計　～ ルナ・ダイアル\n\n紅魔郷NC ver. https://t.co/1BGaAuPHTf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2101200707777151283",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 471,
+          "like_count": 2772,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1398
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-24T10:46:13.000Z",
+        "description": "気ままにイラスト 修行中（たぶん一生）\n無断転載✖　AI学習✖\n音ゲーとか東方とかの曲をイラストにするのが好き\n投稿は基本週一ぐらい　\n\n★リクエストは受け付けておりませんがイラストの使用等ご相談がある方はDM下さい\n\n【Pixiv】https://t.co/mkRIiE67ls",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/67604289",
+                "end": 140,
+                "expanded_url": "http://pixiv.net/users/67604289",
+                "start": 117,
+                "url": "https://t.co/mkRIiE67ls"
+              }
+            ]
+          }
+        },
+        "id": "1353292977142075393",
+        "is_identity_verified": false,
+        "location": "エンド",
+        "most_recent_tweet_id": "2101189753551147278",
+        "name": "ぐりな",
+        "pinned_tweet_id": "2035194487824425209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353292977142075393/1779884272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943237089497370624/Ay59yVcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 416,
+          "like_count": 15477,
+          "listed_count": 31,
+          "media_count": 694,
+          "tweet_count": 7016
+        },
+        "url": "",
+        "username": "Gurina_Core15",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

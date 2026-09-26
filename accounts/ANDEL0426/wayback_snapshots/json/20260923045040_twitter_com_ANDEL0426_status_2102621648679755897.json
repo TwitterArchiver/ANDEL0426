@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2102337246984798721",
+    "created_at": "2026-09-23T04:50:40.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102621648679755897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062076340682346496",
+          "start": 0,
+          "username": "ChenMoLi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102621648679755897",
+    "in_reply_to_user_id": "2062076340682346496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102496802083951092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenMoLi7 🫡🫡好看喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102496787105988608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS2RsDjaQAAMVrN.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2102337246984798721",
+        "created_at": "2026-09-23T04:50:40.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102621648679755897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062076340682346496",
+              "start": 0,
+              "username": "ChenMoLi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102621648679755897",
+        "in_reply_to_user_id": "2062076340682346496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102496802083951092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenMoLi7 🫡🫡好看喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102496787105988608"
+          ]
+        },
+        "author_id": "2062076340682346496",
+        "conversation_id": "2102337246984798721",
+        "created_at": "2026-09-22T20:34:34.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T21:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102496802083951092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U16AVtFQvn",
+              "end": 38,
+              "expanded_url": "https://x.com/ChenMoLi7/status/2102496802083951092/photo/1",
+              "media_key": "3_2102496787105988608",
+              "start": 15,
+              "url": "https://t.co/U16AVtFQvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102496802083951092",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102496787105988608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102337246984798721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 瑞思拜 https://t.co/U16AVtFQvn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n日本語下手desu 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414（都死了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "adCa00414"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2102621648679755897",
+        "name": "A(*^^*)D",
+        "pinned_tweet_id": "2102362102161965105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 561,
+          "like_count": 3141,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1559
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T07:39:46.000Z",
+        "description": "MoLi 非二元 對不起 實名上網",
+        "id": "2062076340682346496",
+        "is_identity_verified": false,
+        "location": "Hualien County, Taiwan",
+        "most_recent_tweet_id": "2102502312245895534",
+        "name": "𝒞𝒽𝑒𝓃ℳ𝑜ℒ𝒾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062076340682346496/1782711165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077061133713409/liof1fQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 49,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "ChenMoLi7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

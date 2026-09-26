@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2096973952304533611",
+    "created_at": "2026-09-07T14:48:44.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096973952304533611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3yeezzz/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/3yeezzz/status/2096893631450038410",
+          "start": 14,
+          "url": "https://t.co/DiAtMoJpvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096973952304533611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096893631450038410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请多关注这个萌女孩 欧内盖 https://t.co/DiAtMoJpvP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2096973952304533611",
+        "created_at": "2026-09-07T14:48:44.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096973952304533611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3yeezzz/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/3yeezzz/status/2096893631450038410",
+              "start": 14,
+              "url": "https://t.co/DiAtMoJpvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096973952304533611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096893631450038410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请多关注这个萌女孩 欧内盖 https://t.co/DiAtMoJpvP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096847118581551104",
+        "conversation_id": "2096893631450038410",
+        "created_at": "2026-09-07T09:29:34.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096893631450038410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096893631450038410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我有很想要找回的互关哦。但是我记不清他们的账号了。\n不过我觉得一定可以在互联网上再见面的！因为人与人之间存在引力嘛...再有就是相信的力量哦，相信我们一定可以再见面的！这个就是念力～念力足够强大的话，就算是死人也可以复活，更不要说区区的重逢了！(ˆˇˆ) \n一直支持我的互关，谢谢你们。\n咻咻...我也能遇见你们这样的人真是太好了，喜欢大家，最喜欢你们了...每一个人都好喜欢哦♡\n一定会再见的，我一定会和大家找回彼此，我就在这里哦。\n如果你找到我的话，你好，谢谢你，好久不见了，来做好朋友吧。\n₍˄ ₗ   ̫ ₗ ˄₎੭ﾞ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我有很想要找回的互关哦。但是我记不清他们的账号了。\n不过我觉得一定可以在互联网上再见面的！因为人与人之间存在引力嘛...再有就是相信的力量哦，相信我们一定可以再见面的！这个就是念力～念力足够强大的话，就算是死人也可以复活，更不要说区区的重逢了！(ˆˇˆ) \n一直支持我的互关，谢谢你们。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs0721"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "adCa00414"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2096973952304533611",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 406,
+          "like_count": 2696,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:25:56.000Z",
+        "description": "愛，愛，愛",
+        "id": "2096847118581551104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096941189765492906",
+        "name": "1dLe_0iy3af7Ye",
+        "pinned_tweet_id": "2096893631450038410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096847118581551104/1788762411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096847486854082560/BvWdGIBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 107,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "3YeEzzZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

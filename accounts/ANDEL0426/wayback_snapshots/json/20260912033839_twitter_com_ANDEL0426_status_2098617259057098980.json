@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2098551179802522093",
+    "created_at": "2026-09-12T03:38:39.000Z",
+    "display_text_range": [
+      21,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T04:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098617259057098980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1562383316942483458",
+          "start": 0,
+          "username": "chxuyng2"
+        },
+        {
+          "end": 20,
+          "id": "2083477847797362688",
+          "start": 10,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098617259057098980",
+    "in_reply_to_user_id": "1562383316942483458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098604481521070236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chxuyng2 @adCa00414 小县城每个路口都有逆行的区我都哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2098551179802522093",
+        "created_at": "2026-09-12T03:38:39.000Z",
+        "display_text_range": [
+          21,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098617259057098980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1562383316942483458",
+              "start": 0,
+              "username": "chxuyng2"
+            },
+            {
+              "end": 20,
+              "id": "2083477847797362688",
+              "start": 10,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098617259057098980",
+        "in_reply_to_user_id": "1562383316942483458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098604481521070236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chxuyng2 @adCa00414 小县城每个路口都有逆行的区我都哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562383316942483458",
+        "conversation_id": "2098551179802522093",
+        "created_at": "2026-09-12T02:47:53.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098604481521070236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2083477847797362688",
+              "start": 0,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098604481521070236",
+        "in_reply_to_user_id": "2083477847797362688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098551179802522093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adCa00414 恶心的臭区喵，逆行想死还要拉上别人喵～😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs0721"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "adCa00414"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2098617259057098980",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2081674171550154784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 407,
+          "like_count": 2677,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1290
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-24T10:16:48.000Z",
+        "description": "喜欢拍照哦，大部分都是自己拍的\n喜欢的小诗\n我的小鱼你醒了，\n还认识早晨吗？\n昨夜你曾经说，\n愿夜幕永不开启，\n你的香腮边轻轻滑落的，\n是你的泪，\n还是我的泪？\n初吻吻别的那个季节，\n不是已经哭过了吗？\n我的指尖还记忆着，\n你慌乱的心跳，\n温润的体香里，\n那一绺长发飘飘。",
+        "id": "1562383316942483458",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098616180240203873",
+        "name": "初雪樱",
+        "pinned_tweet_id": "2096594657538883976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562383316942483458/1788879177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097298642373914624/Lh6c45wZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 69,
+          "like_count": 2078,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "chxuyng2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n躁狂双相重焦中郁总之我精神有问题\n友跨｜烟鬼｜海豹厨｜USAO全肯定\nnon-binary\n我的狗@xxs1966\n纯绿墙外🚪30 不加v 完全被动聊天\n非要加的话🚪100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "xxs1966"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098616485354877323",
+        "name": "你是谁，AD钙",
+        "pinned_tweet_id": "2089180053561278594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083477847797362688/1787421788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095896813144543232/SPve7Ncr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 150,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

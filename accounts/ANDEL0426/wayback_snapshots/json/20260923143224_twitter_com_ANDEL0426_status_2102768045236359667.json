@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2102764271860129947",
+    "created_at": "2026-09-23T14:32:24.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102768045236359667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048318230549102592",
+          "start": 0,
+          "username": "mevifu580"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102768045236359667",
+    "in_reply_to_user_id": "2048318230549102592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102765099824087160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mevifu580 我有外区id口牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2102764271860129947",
+        "created_at": "2026-09-23T14:32:24.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102768045236359667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048318230549102592",
+              "start": 0,
+              "username": "mevifu580"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102768045236359667",
+        "in_reply_to_user_id": "2048318230549102592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102765099824087160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mevifu580 我有外区id口牙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048318230549102592",
+        "conversation_id": "2102764271860129947",
+        "created_at": "2026-09-23T14:20:41.000Z",
+        "display_text_range": [
+          11,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102765099824087160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102765099824087160",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102764271860129947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 中国Apple ID没办法购买蓝v，注册外区Apple ID首选美国和日本，可以去淘宝上购买礼品卡，一般第一次开会给你打半价用两个月"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n日本語下手desu 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414（都死了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "adCa00414"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2102768045236359667",
+        "name": "A(*^^*)D",
+        "pinned_tweet_id": "2102362102161965105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 562,
+          "like_count": 3199,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T08:30:48.000Z",
+        "description": "こちらは梅比芙/maybe芙/柔和芙\n不参与激烈政治讨论\nがんばれ がんばれ がんばれよ俺ら 終わったら 終わったら 灰になるだけ 欲しいもの それしかいらねえから なんもねえ\n润日カウントダウン中｜跑路｜毛左｜貧乏野郎| 一生独身でいる|岁静｜EJU or 共通テスト？|觉得有趣就fo｜烟鬼｜JLPT N3｜懒蛆｜…",
+        "id": "2048318230549102592",
+        "is_identity_verified": false,
+        "location": "軌道上",
+        "most_recent_tweet_id": "2102765099824087160",
+        "name": "本州島でメビフフ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048318230549102592/1789175327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099350911491698688/SAo2dRNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 361,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "mevifu580",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

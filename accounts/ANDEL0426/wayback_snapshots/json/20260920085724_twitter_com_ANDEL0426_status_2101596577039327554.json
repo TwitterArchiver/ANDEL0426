@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101340603401539585"
+      ],
+      "media_source_tweet_id": [
+        "2101340608992600571"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2101596577039327554",
+    "created_at": "2026-09-20T08:57:24.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101596577039327554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1784533634747346944",
+          "start": 3,
+          "username": "104chamm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqvn4gD2im",
+          "end": 52,
+          "expanded_url": "https://x.com/104chamm/status/2101340608992600571/photo/1",
+          "media_key": "3_2101340603401539585",
+          "start": 29,
+          "url": "https://t.co/zqvn4gD2im"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101596577039327554",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101340603401539585"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101340608992600571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @104chamm: あなたはお嬢様には会えない。 https://t.co/zqvn4gD2im"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2101340603401539585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSl2JTnakAEDssf.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101340603401539585"
+          ],
+          "media_source_tweet_id": [
+            "2101340608992600571"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2101596577039327554",
+        "created_at": "2026-09-20T08:57:24.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101596577039327554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1784533634747346944",
+              "start": 3,
+              "username": "104chamm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqvn4gD2im",
+              "end": 52,
+              "expanded_url": "https://x.com/104chamm/status/2101340608992600571/photo/1",
+              "media_key": "3_2101340603401539585",
+              "start": 29,
+              "url": "https://t.co/zqvn4gD2im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101596577039327554",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101340603401539585"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101340608992600571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @104chamm: あなたはお嬢様には会えない。 https://t.co/zqvn4gD2im"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101340603401539585"
+          ]
+        },
+        "author_id": "1784533634747346944",
+        "conversation_id": "2101340608992600571",
+        "created_at": "2026-09-19T16:00:16.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101340608992600571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqvn4gD2im",
+              "end": 38,
+              "expanded_url": "https://x.com/104chamm/status/2101340608992600571/photo/1",
+              "media_key": "3_2101340603401539585",
+              "start": 15,
+              "url": "https://t.co/zqvn4gD2im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101340608992600571",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101340603401539585"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 6065,
+          "like_count": 896,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "あなたはお嬢様には会えない。 https://t.co/zqvn4gD2im"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2101596577039327554",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 503,
+          "like_count": 2879,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-28T10:42:40.000Z",
+        "description": "関東 20↑姫子くんです。画像の無断使用禁止❌東方メインで好きな時に好きなキャラのコスをします。画面の中にしか存在しないので注意⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/t/ZSML5LvQW/",
+                "end": 23,
+                "expanded_url": "https://tiktok.com/t/ZSML5LvQW/",
+                "start": 0,
+                "url": "https://t.co/qbbLZqby4Q"
+              }
+            ]
+          }
+        },
+        "id": "1784533634747346944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101345506714948087",
+        "name": "天羽ひめ🎀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784533634747346944/1777520569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000218573831331840/kgw5tetG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 288,
+          "like_count": 9597,
+          "listed_count": 21,
+          "media_count": 538,
+          "tweet_count": 2740
+        },
+        "url": "https://t.co/qbbLZqby4Q",
+        "username": "104chamm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

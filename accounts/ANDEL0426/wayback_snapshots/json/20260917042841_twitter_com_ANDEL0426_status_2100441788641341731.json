@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2100441788641341731",
+    "created_at": "2026-09-17T04:28:41.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100441788641341731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zombosowl/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zombosowl/status/2099830170572001407",
+          "start": 4,
+          "url": "https://t.co/fxXurk4BeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100441788641341731",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099830170572001407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf https://t.co/fxXurk4BeD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7466,
+        "height": 492,
+        "media_key": "13_2098243358254628867",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098243358254628867/img/2u8aQIN0Lck4sbDl.jpg",
+        "public_metrics": {
+          "view_count": 2481330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098243358254628867/vid/avc1/320x334/6_TW7Jz2a1_EkbF6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098243358254628867/vid/avc1/470x492/KVHw4SsPdARAadzN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098243358254628867/pl/o7mPhDVviUZ1IuMp.m3u8"
+          }
+        ],
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2100441788641341731",
+        "created_at": "2026-09-17T04:28:41.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100441788641341731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zombosowl/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zombosowl/status/2099830170572001407",
+              "start": 4,
+              "url": "https://t.co/fxXurk4BeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100441788641341731",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099830170572001407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf https://t.co/fxXurk4BeD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098243358254628867"
+          ],
+          "media_source_tweet_id": [
+            "2098243367343681815"
+          ]
+        },
+        "author_id": "1505266350595444739",
+        "conversation_id": "2099830170572001407",
+        "created_at": "2026-09-15T11:58:20.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099830170572001407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BduHn89nEZ",
+              "end": 61,
+              "expanded_url": "https://x.com/mvpwizz/status/2098243367343681815/video/1",
+              "media_key": "13_2098243358254628867",
+              "start": 38,
+              "url": "https://t.co/BduHn89nEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099830170572001407",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2098243358254628867"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2797,
+          "impression_count": 595627,
+          "like_count": 17291,
+          "quote_count": 90,
+          "reply_count": 148,
+          "retweet_count": 1380
+        },
+        "reply_settings": "everyone",
+        "text": "Finalmente porno de útiles escolares  https://t.co/BduHn89nEZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2100441788641341731",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 448,
+          "like_count": 2702,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-19T19:35:06.000Z",
+        "description": "cuenta principal, side @sebas214150",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "sebas214150"
+              }
+            ]
+          }
+        },
+        "id": "1505266350595444739",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100438385554854316",
+        "name": "sebasTIAN",
+        "pinned_tweet_id": "2097504956139933718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505266350595444739/1736206579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097762826886475777/MhqhAeQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 801,
+          "like_count": 37707,
+          "listed_count": 1,
+          "media_count": 2200,
+          "tweet_count": 18794
+        },
+        "url": "",
+        "username": "Zombosowl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

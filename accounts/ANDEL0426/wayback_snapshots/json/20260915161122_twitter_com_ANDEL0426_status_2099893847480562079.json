@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099893835677741056",
+        "3_2099893835732238336",
+        "3_2099893835753254912",
+        "3_2099893835694501888"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099893847480562079",
+    "created_at": "2026-09-15T16:11:22.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099893847480562079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 68,
+          "id": "2074146558443171840",
+          "start": 60,
+          "username": "xxs1966"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r13GO5XoWT",
+          "end": 113,
+          "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+          "media_key": "3_2099893835677741056",
+          "start": 90,
+          "url": "https://t.co/r13GO5XoWT"
+        },
+        {
+          "display_url": "pic.x.com/r13GO5XoWT",
+          "end": 113,
+          "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+          "media_key": "3_2099893835732238336",
+          "start": 90,
+          "url": "https://t.co/r13GO5XoWT"
+        },
+        {
+          "display_url": "pic.x.com/r13GO5XoWT",
+          "end": 113,
+          "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+          "media_key": "3_2099893835753254912",
+          "start": 90,
+          "url": "https://t.co/r13GO5XoWT"
+        },
+        {
+          "display_url": "pic.x.com/r13GO5XoWT",
+          "end": 113,
+          "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+          "media_key": "3_2099893835694501888",
+          "start": 90,
+          "url": "https://t.co/r13GO5XoWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099893847480562079",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099893835677741056"
+      },
+      {
+        "media_key": "3_2099893835732238336"
+      },
+      {
+        "media_key": "3_2099893835753254912"
+      },
+      {
+        "media_key": "3_2099893835694501888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "置顶\nAD钙 应该是无性别的傻逼\n发的东西很没营养 号死了就退推\n喜欢打舞萌。\n我的狗我的飞机杯我的肉便器我的奴隶我主人@xxs1966 喵\n唯一想要的是钱。\n图四赞赏码让我圈点 https://t.co/r13GO5XoWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2099893835677741056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRSUV2asAAKK2f.jpg",
+        "width": 752
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099893835732238336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRSUWDaQAAqgmD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 956,
+        "media_key": "3_2099893835753254912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRSUWIa8AA5HIH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2099893835694501888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRSUV6acAARUUg.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099893835677741056",
+            "3_2099893835732238336",
+            "3_2099893835753254912",
+            "3_2099893835694501888"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099893847480562079",
+        "created_at": "2026-09-15T16:11:22.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099893847480562079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "2074146558443171840",
+              "start": 60,
+              "username": "xxs1966"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r13GO5XoWT",
+              "end": 113,
+              "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+              "media_key": "3_2099893835677741056",
+              "start": 90,
+              "url": "https://t.co/r13GO5XoWT"
+            },
+            {
+              "display_url": "pic.x.com/r13GO5XoWT",
+              "end": 113,
+              "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+              "media_key": "3_2099893835732238336",
+              "start": 90,
+              "url": "https://t.co/r13GO5XoWT"
+            },
+            {
+              "display_url": "pic.x.com/r13GO5XoWT",
+              "end": 113,
+              "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+              "media_key": "3_2099893835753254912",
+              "start": 90,
+              "url": "https://t.co/r13GO5XoWT"
+            },
+            {
+              "display_url": "pic.x.com/r13GO5XoWT",
+              "end": 113,
+              "expanded_url": "https://x.com/ANDEL0426/status/2099893847480562079/photo/1",
+              "media_key": "3_2099893835694501888",
+              "start": 90,
+              "url": "https://t.co/r13GO5XoWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099893847480562079",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099893835677741056"
+          },
+          {
+            "media_key": "3_2099893835732238336"
+          },
+          {
+            "media_key": "3_2099893835753254912"
+          },
+          {
+            "media_key": "3_2099893835694501888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶\nAD钙 应该是无性别的傻逼\n发的东西很没营养 号死了就退推\n喜欢打舞萌。\n我的狗我的飞机杯我的肉便器我的奴隶我主人@xxs1966 喵\n唯一想要的是钱。\n图四赞赏码让我圈点 https://t.co/r13GO5XoWT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别｜吃播博主（大概\n狗狗@xxs0721好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs0721"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "adCa00414"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2099893847480562079",
+        "name": "ADadAD钙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 412,
+          "like_count": 2717,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1320
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T15:02:00.000Z",
+        "description": "前世\n@xxs8964 @xxs0721 @xxs1976\nlgbtq全友好\n是高性能机器人♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "xxs8964"
+              },
+              {
+                "end": 20,
+                "start": 12,
+                "username": "xxs0721"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "xxs1976"
+              }
+            ]
+          }
+        },
+        "id": "2074146558443171840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099886834180603954",
+        "name": "✟高性能小学生4.0✟",
+        "pinned_tweet_id": "2074337921566654693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074146558443171840/1783535405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074922484231819264/EDjYtCNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 119,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "xxs1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

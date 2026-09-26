@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2102310932114468969",
+    "created_at": "2026-09-23T04:44:09.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102620010502131882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088823399493906433",
+          "start": 0,
+          "username": "QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102620010502131882",
+    "in_reply_to_user_id": "2088823399493906433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102310932114468969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_8964_ 傻蛋！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102310924254326784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzopaeaMAAglfF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2102310932114468969",
+        "created_at": "2026-09-23T04:44:09.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102620010502131882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088823399493906433",
+              "start": 0,
+              "username": "QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102620010502131882",
+        "in_reply_to_user_id": "2088823399493906433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102310932114468969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_8964_ 傻蛋！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102310924254326784"
+          ]
+        },
+        "author_id": "2088823399493906433",
+        "conversation_id": "2102310932114468969",
+        "created_at": "2026-09-22T08:15:59.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102310932114468969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPakvB0iWN",
+              "end": 31,
+              "expanded_url": "https://x.com/QianQian_8964_/status/2102310932114468969/photo/1",
+              "media_key": "3_2102310924254326784",
+              "start": 8,
+              "url": "https://t.co/UPakvB0iWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102310932114468969",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102310924254326784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2352,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "*sniff* https://t.co/UPakvB0iWN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n日本語下手desu 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414（都死了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "adCa00414"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2102620010502131882",
+        "name": "A(*^^*)D",
+        "pinned_tweet_id": "2102362102161965105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 561,
+          "like_count": 3132,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T03:06:05.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/mDDFP5MlUz"
+              }
+            ]
+          }
+        },
+        "id": "2088823399493906433",
+        "is_identity_verified": false,
+        "location": "🚪",
+        "most_recent_tweet_id": "2102392430113042626",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2091134671627391117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088823399493906433/1789439828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088826346969714688/-8dCODs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 8,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/mDDFP5MlUz",
+        "username": "QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

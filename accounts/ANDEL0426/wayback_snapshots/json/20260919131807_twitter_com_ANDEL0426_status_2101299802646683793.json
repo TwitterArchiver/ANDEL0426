@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2101275623406567764",
+    "created_at": "2026-09-19T13:18:07.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101299802646683793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101299802646683793",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101275623406567764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 往里豪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101275611347943424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSk7CRWWAAA26Xw.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2101275623406567764",
+        "created_at": "2026-09-19T13:18:07.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101299802646683793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101299802646683793",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101275623406567764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 往里豪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101275611347943424"
+          ]
+        },
+        "author_id": "1830213377052037120",
+        "conversation_id": "2101275623406567764",
+        "created_at": "2026-09-19T11:42:03.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101275623406567764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2qK1vTasB",
+              "end": 30,
+              "expanded_url": "https://x.com/jiu_yokki/status/2101275623406567764/photo/1",
+              "media_key": "3_2101275611347943424",
+              "start": 7,
+              "url": "https://t.co/Q2qK1vTasB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101275623406567764",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101275611347943424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都要笑疯了 https://t.co/Q2qK1vTasB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2101299802646683793",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 491,
+          "like_count": 2836,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎 互关直fo看成分回",
+        "id": "1830213377052037120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101275793460519231",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830213377052037120/1785736374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084155426950762496/u0wVs8XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 246,
+          "like_count": 2837,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

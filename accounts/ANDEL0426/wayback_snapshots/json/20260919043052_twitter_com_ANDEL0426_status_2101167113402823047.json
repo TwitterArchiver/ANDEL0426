@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100904665877811200"
+      ],
+      "media_source_tweet_id": [
+        "2100904672357929399"
+      ]
+    },
+    "author_id": "1782410129012670464",
+    "conversation_id": "2101167113402823047",
+    "created_at": "2026-09-19T04:30:52.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101167113402823047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785565333195288576",
+          "start": 3,
+          "username": "Ramu_rice16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fOjyAhcnoC",
+          "end": 46,
+          "expanded_url": "https://x.com/Ramu_rice16/status/2100904672357929399/photo/1",
+          "media_key": "3_2100904665877811200",
+          "start": 23,
+          "url": "https://t.co/fOjyAhcnoC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101167113402823047",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100904665877811200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100904672357929399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ramu_rice16: 十六夜咲夜 https://t.co/fOjyAhcnoC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100904665877811200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfpqZybkAAgLEO.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100904665877811200"
+          ],
+          "media_source_tweet_id": [
+            "2100904672357929399"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2101167113402823047",
+        "created_at": "2026-09-19T04:30:52.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101167113402823047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785565333195288576",
+              "start": 3,
+              "username": "Ramu_rice16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOjyAhcnoC",
+              "end": 46,
+              "expanded_url": "https://x.com/Ramu_rice16/status/2100904672357929399/photo/1",
+              "media_key": "3_2100904665877811200",
+              "start": 23,
+              "url": "https://t.co/fOjyAhcnoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101167113402823047",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100904665877811200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100904672357929399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ramu_rice16: 十六夜咲夜 https://t.co/fOjyAhcnoC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100904665877811200"
+          ]
+        },
+        "author_id": "1785565333195288576",
+        "conversation_id": "2100904672357929399",
+        "created_at": "2026-09-18T11:08:01.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100904672357929399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOjyAhcnoC",
+              "end": 29,
+              "expanded_url": "https://x.com/Ramu_rice16/status/2100904672357929399/photo/1",
+              "media_key": "3_2100904665877811200",
+              "start": 6,
+              "url": "https://t.co/fOjyAhcnoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100904672357929399",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100904665877811200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 18414,
+          "like_count": 2369,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "十六夜咲夜 https://t.co/fOjyAhcnoC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2101167113402823047",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 471,
+          "like_count": 2768,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-01T07:02:17.000Z",
+        "description": "18関西/衣装製作🪡\nHelsing 東方Project KH♡\nｵﾀｸ垢@Ramugohan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "Ramugohan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Ramurice16",
+                "end": 23,
+                "expanded_url": "https://lit.link/Ramurice16",
+                "start": 0,
+                "url": "https://t.co/vVJZHc03Yk"
+              }
+            ]
+          }
+        },
+        "id": "1785565333195288576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100915993858183176",
+        "name": "らむねごはん",
+        "pinned_tweet_id": "1984531777210499467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1785565333195288576/1775403645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984617781623734279/UXH2iLq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16606,
+          "following_count": 488,
+          "like_count": 17282,
+          "listed_count": 74,
+          "media_count": 470,
+          "tweet_count": 7519
+        },
+        "url": "https://t.co/vVJZHc03Yk",
+        "username": "Ramu_rice16",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

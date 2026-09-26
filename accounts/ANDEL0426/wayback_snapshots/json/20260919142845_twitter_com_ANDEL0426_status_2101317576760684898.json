@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1782410129012670464",
+    "conversation_id": "2101307119064719778",
+    "created_at": "2026-09-19T14:28:45.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101317576760684898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897234576428392448",
+          "start": 0,
+          "username": "gumi_1109777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101317576760684898",
+    "in_reply_to_user_id": "1897234576428392448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101307119064719778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gumi_1109777 宝宝！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2101307119064719778].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2101307119064719778",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2101307119064719778"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2101307119064719778",
+        "created_at": "2026-09-19T14:28:45.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101317576760684898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897234576428392448",
+              "start": 0,
+              "username": "gumi_1109777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101317576760684898",
+        "in_reply_to_user_id": "1897234576428392448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101307119064719778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gumi_1109777 宝宝！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n肉便器@xxs1966 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "xxs1966"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "adCa00414"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2101317576760684898",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2099893847480562079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092259186067619840/00LCCI8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 492,
+          "like_count": 2844,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-05T10:36:07.000Z",
+        "description": "",
+        "id": "1897234576428392448",
+        "is_identity_verified": false,
+        "location": "China Grove, TX",
+        "most_recent_tweet_id": "2100844857619255546",
+        "name": "无聊",
+        "pinned_tweet_id": "2094817001013498093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897234576428392448/1787757496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100868887411834880/NO-giaqs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 90,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "gumi_1109777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
